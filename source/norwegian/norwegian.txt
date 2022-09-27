@@ -1,0 +1,268 @@
+# Norwegian extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/norwegian
+
+Language: nb
+LanguageLocale: nb_NO
+LanguageDescription: Norsk Bokmål
+LanguageTranslator: Per Arne Solvik
+BerlinDescription: Berlin is a theme inspired by Dieter Rams.
+BlogDescription: Blog for your website.
+BlogBy: av
+BlogTag: Tagger:
+BlogMore: Les mer…
+BreadcrumbDescription: Breadcrumb navigation.
+BundleDescription: Bundle website files.
+ChineseDescription: Chinese/简体中文 with language 'zh'.
+CommandDescription: Command line of the website.
+ContactDescription: Email contact page.
+ContactName: Navn:
+ContactEmail: Epost:
+ContactMessage: Melding:
+ContactConsent: Jeg samtykker til at denne nettsiden lagrer min innsendte informasjon.
+ContactButton: Sende melding
+ContactMailSpam: [Spam]
+ContactMailHeader: Du har mottatt en melding fra @sender:
+ContactMailFooter: Denne epost ble sendt av @sitename - @title
+ContactStatusNone: Si gjerne hei. Din tilbakemelding er velkommen.
+ContactStatusIncomplete: Vennligst fyll ut alla felt.
+ContactStatusInvalid: Vennligst angi en gyldig epost adresse.
+ContactStatusReview: Vennligst ta bort lenker fra meldingen.
+ContactStatusDone: Din epost er nå sendt. Takk!
+ContactStatusError: Epost kunne ikke sendes, vennligst prøv på nytt senere!
+CoreDescription: Kjernefunksjonaliteten til nettstedet.
+CoreDatePast: i dag, i går, @x dager siden, en måned siden, @x måneder siden, ett år siden, @x år siden, den @x
+CoreDateFuture: snart, i morgen, om @x dager, om 1 måned, om @x måneder, om 1 år, om @x år, den @x
+CoreDateMonthsNominative: Januar, Februar, Mars, April, Mai, Juni, Juli, August, September, Oktober, November, Desember
+CoreDateMonthsGenitive: Januar, Februar, Mars, April, Mai, Juni, Juli, August, September, Oktober, November, Desember
+CoreDateWeekdays: Mandag, Tirsdag, Onsdag, Torsdag, Fredag, Lørdag, Søndag
+CoreDateWeekstart: Mandag
+CoreDateFormatShort: F Y
+CoreDateFormatMedium: Y-m-d
+CoreDateFormatLong: Y-m-d H:i
+CoreTimeFormatShort: H:i
+CoreTimeFormatMedium: H:i:s
+CoreTimeFormatLong: H:i:s T
+CoreDecimalSeparator: ,
+CorePaginationPrevious: ← Forrige
+CorePaginationNext: Nesta →
+CoreError404Title: Filen kunne ikke lokaliseres
+CoreError404Text: Den begärda filen kunde inte hittas. Å nej...
+CoreError420Title: Siden er ikke offentlig
+CoreError420Text: Den begärda siden er ikke offentlig. [yellow error]
+CoreError430Title: Innlogging feilet
+CoreError430Text: Epost eller passord er ikke riktig. [Vennligst prøv på nytt](#data-action-login).
+CoreError434Title: Siden kunne ikke lokaliseres
+CoreError434Text: Den begärda siden kunde inte hittas. [Du kan opprette denne siden](#data-action-edit).
+CoreError435Title: Siden kunne ikke lokaliseres
+CoreError435Text: Den begärda siden er slettet. [Du kan gjenopprette denne siden](#data-action-restore).
+CoreError450Title: Update error
+CoreError450Text: Can't connect to the update server. An Internet connection is required.
+CoreError500Title: Server feil
+CoreError500Text: Noe gikk galt. [yellow error]
+CzechDescription: Czech/Čeština with language 'cs'.
+DanishDescription: Danish/Dansk with language 'da'.
+DisqusDescription: Show Disqus comments on blog.
+DraftDescription: Support for draft pages.
+DraftStatusEmpty: Ingen utkast funnet.
+DraftPageError: Vennligst logg inn.
+DutchDescription: Dutch/Nederlands with language 'nl'.
+EditDescription: Rediger nettstedet ditt i en nettleser.
+EditLoginTitle: Velkommen
+EditLoginEmail: Epost:
+EditLoginPassword: Passord:
+EditLoginForgot: Glemt passordet?
+EditLoginSignup: Lage brukerkonto?
+EditLoginButton: Logge inn
+EditSignupTitle: Lage brukerkonto
+EditSignupName: Navn:
+EditSignupEmail: Epost:
+EditSignupPassword: Passord:
+EditSignupConsent: Jeg samtykker til at denne nettsiden kan lagre mine personlige data.
+EditSignupButton: Registrer
+EditSignupStatusNone: Her kan du registrere en ny brukerkonto.
+EditSignupStatusIncomplete: Vennligst fyll ut alle feltene.
+EditSignupStatusInvalid: Vennligst fyll inn en gyldig epost adresse.
+EditSignupStatusWeak: Vennglist velg et annet passord.
+EditSignupStatusShort: Vennligst velg et lengre passord.
+EditSignupStatusNext: Din brukerkonto vil bli opprettet, vennligst sjekk din innboks.
+EditForgotTitle: Glemt passord
+EditForgotEmail: Epost:
+EditForgotStatusNone: Ikke noe problem, du kan lage et nytt passord.
+EditForgotStatusInvalid: Vennligst fyll inn en gyldig epost adresse.
+EditForgotStatusNext: Din brukerkonto blir gjenopprettet, vennligst sjekk din innboks.
+EditRecoverTitle: Glemt passordet ditt
+EditRecoverPassword: Passord:
+EditRecoverStatusPassword: Vennligst fyll inn et nytt passord.
+EditRecoverStatusWeak: Vennligst fyll inn et annet passord.
+EditRecoverStatusShort: Vennligst fyll inn et lengre passord.
+EditRecoverStatusDone: Din brukerkonto er gjenopprettet.
+EditConfirmSubject: Bekreft brukerkonto
+EditConfirmMessage: Hei @usershort,\n\nvennligst bekreft din brukerkonto. Klikk følgende lenke.
+EditConfirmTitle: Brukerkonto
+EditConfirmStatusDone: Brukerkonto bekreftet og venter på godkjenning.
+EditApproveSubject: Godkjenn brukerkonto.
+EditApproveMessage: Hei @usershort,\n\nvennligst godkjenn ny brukerkonto for @useraccount. Klikk følgende lenke.
+EditApproveTitle: Brukerkonto
+EditApproveStatusDone: Brukerkonto godkjent. 
+EditReactivateSubject: Reaktiver brukerkonto
+EditReactivateMessage: Hei @usershort,\n\nvennligst reaktiver din brukerkonto. Det har vært for mange mislykkede innloggingsforsøk. Klikk følgende lenke.
+EditReactivateTitle: Brukerkonto
+EditReactivateStatusDone: Brukerkonto reaktivert.
+EditVerifySubject: Endre brukerkonto
+EditVerifyMessage: Hei @usershort,\n\nvennligst bekreft ny epost adresse for din brukerkonto. Klikk følgende lenke.
+EditVerifyTitle: Brukerkonto
+EditVerifyStatusDone: Brukerkonto endret.
+EditChangeSubject: Endre brukerkonto
+EditChangeMessage: Hei @usershort,\n\nvennligst bekreft at du ønsker å endre din brukerkonto. Klikk følgende lenke.
+EditChangeTitle: Brukerkonto
+EditChangeStatusDone: Brukerkonto endret.
+EditRemoveSubject: Slette brukerkonto
+EditRemoveMessage: Hei @usershort,\n\nvennligst bekreft at du ønsker å slette din brukerkonto. Klikk følgende lenke.
+EditRemoveTitle: Brukerkonto
+EditRemoveStatusDone: Brukerkonto slettet.
+EditRecoverSubject: Gjenopprett brukerkonto
+EditRecoverMessage: Hei @usershort,\n\nvennligst bekreft at du har glemt ditt passord. Klikk følgende lenke.
+EditWelcomeSubject: Velkommen
+EditWelcomeMessage: Hei @usershort,\n\ndin brukerkonto har blitt opprettet.
+EditGoodbyeSubject: Adjø
+EditGoodbyeMessage: Hei @usershort,\n\ndin brukerkonto har blitt slettet.
+EditAccountTitle: Bruker
+EditAccountInformation: Du kan slette din brukerkonto når som helst.
+EditAccountMore: Les mer…
+EditAccountStatusNone: Her kan du endre din brukerkonto.
+EditAccountStatusInvalid: Vennligst fyll inn en gyldig epost adresse.
+EditAccountStatusTaken: Vennligst fyll inn en annen epost adresse.
+EditAccountStatusWeak: Vennligst fyll inn et annet passord.
+EditAccountStatusShort: Vennligst fyll inn et lengre passord.
+EditAccountStatusNext: Din brukerkonto er endret, vennligst sjekk din innboks.
+EditQuitTitle: Slette brukerkonto
+EditQuitStatusNone: Vennligst fyll inn ditt navn for å bekrefte.
+EditQuitStatusMismatch: Vennligst fyll inn et annet navn.
+EditQuitStatusNext: Din brukerkonto vil bli slettet, vennligst sjekk din innboks.
+EditConfigureTitle: Nettsted
+EditConfigureSitename: Nettstedets navn:
+EditConfigureAuthor: Nettstedets administrator:
+EditConfigureEmail: Administrators epost:
+EditConfigureInformation: Nettstedets administrator kan bekrefte brukerkontoer.
+EditConfigureStatusNone: Her kan du konfigurere ditt nettsted.
+EditConfigureStatusInvalid: Vennligst fyll inn en gyldig epost adresse.
+EditUpdateTitle: Oppdateringer
+EditUpdateStatusNone: Datenstrom Yellow er for folk som lager små nettsteder.
+EditUpdateStatusCheck: Ser etter oppdateringer…
+EditUpdateStatusUpdates: Følgende oppdateringer er tilgjengelige:
+EditUpdateStatusOk: Ditt nettsted er oppdatert.
+EditOkButton: Ok
+EditCancelButton: Avbryt
+EditChangeButton: Endre
+EditCreateButton: Lage
+EditEditButton: Lagre
+EditDeleteButton: Slett
+EditUpdateButton: Oppdater
+EditEdit: Rediger side
+EditCreate: +
+EditDelete: -
+EditKeyboardLabels: Ctrl+, Alt+, Shift+, ⌘, ⌥, ⇧
+EditToolbarFormat: Format
+EditToolbarHeading: Overskrift
+EditToolbarH1: Overskrift 1
+EditToolbarH2: Overskrift 2
+EditToolbarH3: Overskrift 3
+EditToolbarParagraph: Normal tekst
+EditToolbarPre: Kildekode
+EditToolbarNotice: Notis
+EditToolbarQuote: Sitat
+EditToolbarBold: Fet
+EditToolbarItalic: Kursiv
+EditToolbarStrikethrough: Gjennomstreking
+EditToolbarCode: Kode
+EditToolbarList: Liste
+EditToolbarUl: • Usortert liste
+EditToolbarOl: 1. Sortert liste
+EditToolbarTl: ✓ Oppgaveliste
+EditToolbarLink: Lenke
+EditToolbarFile: Fil
+EditToolbarEmojiawesome: Emoji
+EditToolbarFontawesome: Ikon
+EditToolbarStatus: Status
+EditToolbarUndo: Angre
+EditToolbarRedo: Gjenopprette
+EditToolbarPreview: Forhåndsvisning
+EditToolbarHelp: Hjelp
+EditMailFooter: @sitename
+EditDataGenerated: Denne siden genereres automatik.
+EditUploadProgress: Laster opp fil…
+EditUserDescription: Editor
+EditMenuSettings: Instillinger
+EditMenuHelp: Hjelp
+EditMenuLogout: Logge ut
+EditYellowUrl: https://datenstrom.se/yellow/
+EditYellowHelpUrl: https://datenstrom.se/yellow/help/
+EmojiawesomeDescription: Lots and lots of emoji.
+EnglishDescription: English/English with language 'en'.
+FeedDescription: Feed with recent changes.
+FontawesomeDescription: Icons and symbols.
+FrenchDescription: French/Français with language 'fr'.
+GalleryDescription: Image gallery with popup.
+GermanDescription: German/Deutsch with language 'de'.
+GooglecalendarDescription: Embed Google calendar.
+GooglemapDescription: Embed Google map.
+HelpDescription: Help for your website.
+HighlightDescription: Highlight source code.
+HungarianDescription: Hungarian/Magyar with language 'hu'.
+ImageDescription: Images and thumbnails.
+ImageDefaultAlt: Image without description
+InstagramDescription: Embed Instagram photos.
+InstallTitle: Hei
+InstallLanguage: Hva er språket ditt?
+InstallExtension: Hva ønsker du å gjøre?
+InstallExtensionWebsite: Liten nettsted
+InstallExtensionBlog: Liten blogg
+InstallExtensionWiki: Liten wiki
+InstallButton: Installer
+InstallHomeTitle: Hjem
+InstallHomeText: [image photo.jpg Eksempel rounded]\n\n[edit - Du kan redigere denne siden i en nettleser] eller bruke et tekstredigeringsprogram. [Få hjelp](https://datenstrom.se/yellow/help/).
+InstallAboutTitle: Om
+InstallAboutText: [Laget med hjelp av Datenstrom Yellow](https://datenstrom.se/yellow/).
+InstallDefaultTitle: Side
+InstallDefaultText: Dette er en ny side.
+InstallBlogTitle: Bloggside
+InstallBlogText: Detta er en ny bloggside.
+InstallWikiTitle: Wikiside
+InstallWikiText: Dette er en ny wikiside.
+InstallExampleImage: Dette er et eksempelbilde
+ItalianDescription: Italian/Italiano with language 'it'.
+JapaneseDescription: Japanese/日本語 with language 'ja'.
+MarkdownDescription: Text formatting for humans.
+MetaDescription: Meta data for social media sites.
+NorwegianDescription: Norwegian/Norsk with language 'nb'.
+ParsedownDescription: Text formatting for humans.
+ParisDescription: Paris is an elegant theme.
+PolishDescription: Polish/Polski with language 'pl'.
+PortugueseDescription: Portuguese/Português with language 'pt'.
+PreviousnextDescription: Show links to previous/next page.
+PreviousnextPagePrevious: ← Forrige: @title
+PreviousnextPageNext: Nesta: @title →
+PublishDescription: Package and publish extensions.
+RussianDescription: Russian/Русский with language 'ru'.
+SearchDescription: Full-text search.
+SearchResultsNone: Skriv et søkeord.
+SearchResultsEmpty: Kunne ikke finne noe.
+SearchSpecialChanges: De siste endringene
+SearchButton: Søk
+ServeDescription: Built-in web server.
+SitemapDescription: Sitemap with all pages.
+SliderDescription: Image gallery with slider.
+SlovakDescription: Slovak/Slovenčina with language 'sk'.
+SoundcloudDescription: Embed Soundcloud audio tracks.
+SpanishDescription: Spanish/Español with language 'es'.
+StockholmDescription: Stockholm is a clean theme.
+SwedishDescription: Swedish/Svenska with language 'sv'.
+TocDescription: Table of contents.
+TrafficDescription: Create traffic analytics from web server log files.
+TwitterDescription: Embed Twitter messages.
+UpdateDescription: Hold nettstedet ditt oppdatert.
+WikiDescription: Wiki for your website.
+WikiModified: Sist oppdatert
+WikiTag: Tagger:
+WikiSpecialPages: Alle sider
+WikiSpecialChanges: Siste endringer
+YoutubeDescription: Embed Youtube videos.
