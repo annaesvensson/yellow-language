@@ -6,7 +6,7 @@ Portuguese/Português com o idioma 'pt'.
 
 ## Instalação
 
-[Baixar extensão](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/portuguese.zip) e copie o arquivo zip para a pasta `system/extensions`. Clique com o botão direito do mouse se você usa o Safari.
+[Baixar extensão](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/portuguese.zip) e copie o arquivo zip para a pasta `system/extensions`. Clique com o botão direito do mouse se você usa o Safari.
 
 ## Tradutor
 

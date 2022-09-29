@@ -1,4 +1,4 @@
-# Datenstrom Yellow language file
+# Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/portuguese
 
 Language: pt
 LanguageLocale: pt_PT

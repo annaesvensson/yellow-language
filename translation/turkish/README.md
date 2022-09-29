@@ -6,7 +6,7 @@ Turkish/Türkçe 'tr' dili ile.
 
 ## Kurulum
 
-[Uzantıyı indirin](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/turkish.zip) ve zip dosyasını `system/extensions` klasörünüze kopyalayın. Safari kullanıyorsanız sağ tıklayın. 
+[Uzantıyı indirin](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/turkish.zip) ve zip dosyasını `system/extensions` klasörünüze kopyalayın. Safari kullanıyorsanız sağ tıklayın. 
 
 ## Çevirmen
 

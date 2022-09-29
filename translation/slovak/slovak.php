@@ -1,5 +1,5 @@
 <?php
-// Slovak extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/slovak
+// Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/slovak
 
 class YellowSlovak {
     const VERSION = "0.8.32";

@@ -1,5 +1,5 @@
 <?php
-// Japanese extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/japanese
+// Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/japanese
 
 class YellowJapanese {
     const VERSION = "0.8.32";

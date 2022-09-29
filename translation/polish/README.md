@@ -6,7 +6,7 @@ Polish/Polski z językiem 'pl'.
 
 ## Instalacja
 
-[Pobierz rozszerzenie](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/polish.zip) i skopiuj plik zip do folderu `system/extensions`. Kliknij prawym przyciskiem myszy, jeśli korzystasz z Safari.
+[Pobierz rozszerzenie](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/polish.zip) i skopiuj plik zip do folderu `system/extensions`. Kliknij prawym przyciskiem myszy, jeśli korzystasz z Safari.
 
 ## Tłumacz
 

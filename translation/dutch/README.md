@@ -6,7 +6,7 @@ Dutch/Nederlands met de taal 'nl'.
 
 ## Installatie
 
-[Download extensie](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/dutch.zip) en kopieer zip-bestand naar uw `system/extensions` map. Klik met de rechtermuisknop als u Safari gebruikt.
+[Download extensie](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/dutch.zip) en kopieer zip-bestand naar uw `system/extensions` map. Klik met de rechtermuisknop als u Safari gebruikt.
 
 ## Vertaler
 

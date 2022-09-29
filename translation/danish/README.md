@@ -6,7 +6,7 @@ Danish/Dansk med sproget 'da'.
 
 ## Installation
 
-[Download udvidelse](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/danish.zip) og kopier zip-fil til din mappe `system/extensions`. Højreklik, hvis du bruger Safari.
+[Download udvidelse](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/danish.zip) og kopier zip-fil til din mappe `system/extensions`. Højreklik, hvis du bruger Safari.
 
 ## Oversætter
 

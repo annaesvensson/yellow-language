@@ -1,5 +1,5 @@
 <?php
-// French extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/french
+// French extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/french
 
 class YellowFrench {
     const VERSION = "0.8.32";

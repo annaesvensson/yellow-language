@@ -1,5 +1,5 @@
 <?php
-// Czech extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/czech
+// Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/czech
 
 class YellowCzech {
     const VERSION = "0.8.32";

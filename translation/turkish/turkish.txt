@@ -1,4 +1,4 @@
-# Turkish extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/turkish
+# Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/turkish
 
 Language: tr
 LanguageLocale: tr_TR

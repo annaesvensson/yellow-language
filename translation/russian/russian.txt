@@ -1,4 +1,4 @@
-# Russian extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/russian
+# Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/russian
 
 Language: ru
 LanguageLocale: ru_RU

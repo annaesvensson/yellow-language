@@ -6,7 +6,7 @@ Italian/Italiano con lingua 'it'.
 
 ## Installazione
 
-[Scarica l'estensione](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/italian.zip) e copia il file zip nella cartella `system/extensions`. Fa' clic con il tasto destro se usi Safari.
+[Scarica l'estensione](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/italian.zip) e copia il file zip nella cartella `system/extensions`. Fa' clic con il tasto destro se usi Safari.
 
 ## Traduttore
 

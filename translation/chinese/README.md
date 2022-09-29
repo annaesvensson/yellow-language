@@ -6,7 +6,7 @@ Chinese/简体中文 语言为 'zh'。
 
 ## 安装
 
-[下载扩展](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/chinese.zip)并将zip文件复制到 `system/extensions` 文件夹中。 如果使用Safari右键点击。
+[下载扩展](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/chinese.zip)并将zip文件复制到 `system/extensions` 文件夹中。 如果使用Safari右键点击。
 
 ## 翻译者
 

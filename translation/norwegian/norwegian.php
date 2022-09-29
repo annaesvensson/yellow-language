@@ -1,5 +1,5 @@
 <?php
-// Norwegian extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/norwegian
+// Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/norwegian
 
 class YellowNorwegian {
     const VERSION = "0.8.32";

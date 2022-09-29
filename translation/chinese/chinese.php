@@ -1,5 +1,5 @@
 <?php
-// Chinese extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/chinese
+// Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/chinese
 
 class YellowChinese {
     const VERSION = "0.8.32";

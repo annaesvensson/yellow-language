@@ -6,7 +6,7 @@ Russian/Русский с языком 'ru'.
 
 ## Установка
 
-[Скачать расширение](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/russian.zip) и скопируйте zip-файл в папку `system/extensions`. Щелкните правой кнопкой мыши, если вы используете Safari.
+[Скачать расширение](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/russian.zip) и скопируйте zip-файл в папку `system/extensions`. Щелкните правой кнопкой мыши, если вы используете Safari.
 
 ## Перевод
 

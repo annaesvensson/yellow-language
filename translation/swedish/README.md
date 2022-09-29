@@ -6,7 +6,7 @@ Swedish/Svenska med språket "sv".
 
 ## Installation
 
-[Ladda ner tillägg](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/swedish.zip) och kopiera zip-fil till din mapp `system/extensions`. Högerklicka om du använder Safari.
+[Ladda ner tillägg](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/swedish.zip) och kopiera zip-fil till din mapp `system/extensions`. Högerklicka om du använder Safari.
 
 ## Översättare
 

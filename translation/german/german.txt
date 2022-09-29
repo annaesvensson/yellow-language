@@ -1,4 +1,4 @@
-# German extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/german
+# German extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/german
 
 Language: de
 LanguageLocale: de_DE

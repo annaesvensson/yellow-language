@@ -6,7 +6,7 @@
 
 ## 取り付け
 
-[拡張機能をダウンロード](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/japanese.zip)し、zipファイルを `system/extensions` フォルダにコピーします。 Safariを使用している場合は、右クリックで保存します。
+[拡張機能をダウンロード](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/japanese.zip)し、zipファイルを `system/extensions` フォルダにコピーします。 Safariを使用している場合は、右クリックで保存します。
 
 ## 翻訳者
 

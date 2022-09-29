@@ -6,7 +6,7 @@ Norwegian/Norsk med språket 'nb'.
 
 ## Installasjon
 
-[Last ned utvidelse](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/norwegian.zip) og kopier zip-fil til mappen `system/extensions`. Høyreklikk hvis du bruker Safari.
+[Last ned utvidelse](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/norwegian.zip) og kopier zip-fil til mappen `system/extensions`. Høyreklikk hvis du bruker Safari.
 
 ## Oversetter
 

@@ -1,4 +1,4 @@
-# Datenstrom Yellow language file
+# Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/japanese
 
 Language: ja
 LanguageLocale: ja_JP

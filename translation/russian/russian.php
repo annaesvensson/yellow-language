@@ -1,5 +1,5 @@
 <?php
-// Russian extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/russian
+// Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/russian
 
 class YellowRussian {
     const VERSION = "0.8.32";

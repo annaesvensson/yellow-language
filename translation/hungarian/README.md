@@ -6,7 +6,7 @@ Hungarian/Magyar az nyelvvel 'hu'.
 
 ## Telepítés
 
-[Letöltési kiterjesztés](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/hungarian.zip) és másolja a ZIP fájlt a `system/extensions` mappába. Kattintson a jobb gombbal, ha Safari-t használ.
+[Letöltési kiterjesztés](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/hungarian.zip) és másolja a ZIP fájlt a `system/extensions` mappába. Kattintson a jobb gombbal, ha Safari-t használ.
 
 ## Fordító
 

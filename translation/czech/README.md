@@ -6,7 +6,7 @@ Czech/Čeština s jazykem 'cs'.
 
 ## Instalace
 
-[Stažení rozšíření](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/czech.zip) 
+[Stažení rozšíření](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/czech.zip) 
 a zkopírujte soubor zip do složky `system/extensions`. Pokud používáte Safari, klikněte pravým tlačítkem.
 
 ## Překladatel

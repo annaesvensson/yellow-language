@@ -1,5 +1,5 @@
 <?php
-// German extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/german
+// German extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/german
 
 class YellowGerman {
     const VERSION = "0.8.32";

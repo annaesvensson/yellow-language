@@ -1,5 +1,5 @@
 <?php
-// Danish extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/danish
+// Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/danish
 
 class YellowDanish {
     const VERSION = "0.8.32";

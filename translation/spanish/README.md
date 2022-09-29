@@ -6,7 +6,7 @@ Spanish/Español con el idioma 'es'.
 
 ## Instalación
 
-[Descargar la extensión](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/spanish.zip) y copie el archivo zip en su carpeta `system/extensions`. Haga clic derecho si usa Safari.
+[Descargar la extensión](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/spanish.zip) y copie el archivo zip en su carpeta `system/extensions`. Haga clic derecho si usa Safari.
 
 ## Traductor
 

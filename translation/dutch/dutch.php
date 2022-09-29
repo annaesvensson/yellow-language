@@ -1,5 +1,5 @@
 <?php
-// Dutch extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/dutch
+// Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/dutch
 
 class YellowDutch {
     const VERSION = "0.8.32";

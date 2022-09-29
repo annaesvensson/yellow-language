@@ -6,7 +6,7 @@ Slovak/Slovenčina s jazykom 'sk'.
 
 ## Inštalácia
 
-[Rozšírenie sťahovania](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/slovak.zip) a skopírujte súbor zip do priečinka `system/extensions`. Ak používate Safari, kliknite pravým tlačidlom myši.
+[Rozšírenie sťahovania](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/slovak.zip) a skopírujte súbor zip do priečinka `system/extensions`. Ak používate Safari, kliknite pravým tlačidlom myši.
 
 ## Prekladateľ
 

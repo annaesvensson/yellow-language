@@ -1,4 +1,4 @@
-# Danish extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/danish
+# Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/danish
 
 Language: da
 LanguageLocale: da_DK

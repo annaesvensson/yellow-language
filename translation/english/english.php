@@ -1,5 +1,5 @@
 <?php
-// English extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/english
+// English extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/english
 
 class YellowEnglish {
     const VERSION = "0.8.32";

@@ -1,4 +1,4 @@
-# Chinese extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/chinese
+# Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/chinese
 
 Language: zh
 LanguageLocale: zh_CN

@@ -6,7 +6,7 @@ French/Français avec la langue 'fr'.
 
 ## Installation
 
-[Télécharger l'extension](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/french.zip) et copiez le fichier zip dans votre dossier `system/extensions`. Faites un clic droit si vous utilisez Safari.
+[Télécharger l'extension](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/french.zip) et copiez le fichier zip dans votre dossier `system/extensions`. Faites un clic droit si vous utilisez Safari.
 
 ## Traducteur
 

@@ -1,5 +1,5 @@
 <?php
-// Portuguese extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/portuguese
+// Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/portuguese
 
 class YellowPortuguese {
     const VERSION = "0.8.32";

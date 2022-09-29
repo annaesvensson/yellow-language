@@ -1,5 +1,5 @@
 <?php
-// Italian extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/italian
+// Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/italian
 
 class YellowItalian {
     const VERSION = "0.8.32";
