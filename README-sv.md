@@ -14,6 +14,6 @@ Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-languag
 
 Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow).
 
-## Översättare
+## Utvecklare
 
-Datenstrom och olika översättare. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).

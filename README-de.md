@@ -14,6 +14,6 @@ Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-
 
 Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow).
 
-## Übersetzer
+## Entwickler
 
-Datenstrom und verschiedene Übersetzer. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

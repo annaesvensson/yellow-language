@@ -14,6 +14,6 @@ Start with the [English language file](https://github.com/annaesvensson/yellow-l
 
 This extension is part of the [standard installation](https://github.com/datenstrom/yellow).
 
-## Translator
+## Developer
 
-Datenstrom and various translators. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
