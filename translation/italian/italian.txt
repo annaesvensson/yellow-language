@@ -214,9 +214,9 @@ InstagramDescription: Inserisci fotografie Instagram.
 InstallTitle: Salve
 InstallLanguage: Qual è la tua lingua?
 InstallExtension: Che cosa vuoi fare?
-InstallExtensionWebsite: Sito
-InstallExtensionBlog: Blog
-InstallExtensionWiki: Wiki
+InstallExtensionWebsite: Un piccolo sito
+InstallExtensionBlog: Un piccolo blog
+InstallExtensionWiki: Un piccolo wiki
 InstallButton: Installa
 InstallHomeTitle: Inizio
 InstallHomeText: [image photo.jpg Esempio rounded]\n\n[edit - Puoi modificare questa pagina in un browser] o utilizzare un editor di testo. [Chiedi aiuto](https://datenstrom.se/yellow/help/).
