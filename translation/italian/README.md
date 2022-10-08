@@ -10,4 +10,4 @@ Italian/Italiano con lingua 'it'.
 
 ## Traduttore
 
-Giovanni Salmeri. [Ottieni aiuto](https://datenstrom.se/yellow/help/).
+Giovanni Salmeri. [Chiedi aiuto](https://datenstrom.se/yellow/help/).
