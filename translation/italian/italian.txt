@@ -28,6 +28,7 @@ ContactStatusInvalid: Inserisci per favore un indirizzo email valido.
 ContactStatusReview: Rimuovi per favore i collegamenti dal messaggio.
 ContactStatusDone: Il tuo messaggio è stato inviato con successo. Grazie!
 ContactStatusError: C'è stato un problema nell'invio del messaggio. Riprova per favore più tardi.
+CopenhagenDescription: Copenhagen è un tema bellissimo.
 CoreDescription: Funzionalità di base del sito.
 CoreDatePast: oggi, ieri, @x giorni fa, un mese fa, @x mesi fa, un anno fa, @x anni fa, il @x
 CoreDateFuture: presto, domani, tra @x giorni, tra un mese, tra @x mesi, tra un anno, tra @x anni, il @x
@@ -257,7 +258,8 @@ SpanishDescription: Spagnolo/Español con lingua 'es'.
 StockholmDescription: Stockholm è un tema pulito.
 SwedishDescription: Svedese/Svenska con lingua 'sv'.
 TocDescription: Indice.
-TrafficDescription: Genera analisi del traffico dai file del server.
+TrafficDescription: Genera analisi del traffico dai file di registro.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: Inserisci messaggi Twitter.
 UpdateDescription: Mantieni aggiornato il tuo sito.
 UpdateExtensionDefaultDescription: Nessuna descrizione è disponibile.

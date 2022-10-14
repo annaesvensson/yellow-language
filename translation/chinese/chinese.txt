@@ -28,6 +28,7 @@ ContactStatusInvalid: 请输入一个有效的e-mail地址
 ContactStatusReview: 请从邮件中删除链接
 ContactStatusDone: 您的信息已发送。非常感谢！
 ContactStatusError: 信息无法发送，请稍后再试！
+CopenhagenDescription: Copenhagen is a beautiful theme.
 CoreDescription: 网站的核心功能。
 CoreDatePast: 今天, 昨天, @x 天前, 1 个月前, @x 个月前, 1 年前, @x 年前, 在 @x 前
 CoreDateFuture: 很快, 明天, 在 @x 天后, 在 1 月后, 在 @x 月后, 在 1 年后, 在 @x 年后, 在 @x 后
@@ -257,7 +258,8 @@ SpanishDescription: 西班牙语/Español with language 'es'.
 StockholmDescription: Stockholm是一个简洁的主题.
 SwedishDescription: 瑞典语/Svenska with language 'sv'.
 TocDescription: 内容目录插件.
-TrafficDescription: 流量插件从Web服务器日志分析网站流量.
+TrafficDescription: 从日志文件创建流量分析.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: 嵌入Twitter推文.
 UpdateDescription: 使您的网站保持最新。
 UpdateExtensionDefaultDescription: No description available.

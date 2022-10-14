@@ -28,6 +28,7 @@ ContactStatusInvalid: Bitte eine gültige E-Mail angeben.
 ContactStatusReview: Bitte entferne Links aus der Nachricht.
 ContactStatusDone: Nachricht wurde versandt. Vielen Dank!
 ContactStatusError: Nachricht konnte nicht versandt werden, versuche es später erneut!
+CopenhagenDescription: Copenhagen ist ein schönes Thema.
 CoreDescription: Kernfunktionalität der Webseite.
 CoreDatePast: heute, gestern, vor @x Tagen, vor 1 Monat, vor @x Monaten, vor 1 Jahr, vor @x Jahren, am @x
 CoreDateFuture: bald, morgen, in @x Tagen, in 1 Monat, in @x Monaten, in 1 Jahr, in @x Jahren, am @x
@@ -251,13 +252,14 @@ SearchButton: Suchen
 ServeDescription: Eingebauter Webserver.
 SitemapDescription: Sitemap mit allen Seiten.
 SliderDescription: Bildergalerie mit Schieber.
-SlovakDescription: Slovak/Slovenčina with language 'sk'.
+SlovakDescription: Slowakisch/Slovenčina mit der Sprache "sk".
 SoundcloudDescription: Soundcloud-Audio einbinden.
-SpanishDescription: Spanish/Español with language 'es'.
+SpanishDescription: Spanisch/Español mit der Sprache "es".
 StockholmDescription: Stockholm ist ein schlichtes Thema.
-SwedishDescription: Schwedisch/Svenska mit der Sprache 'sv'.
+SwedishDescription: Schwedisch/Svenska mit der Sprache "sv".
 TocDescription: Inhaltsverzeichnis anzeigen.
-TrafficDescription: Zugriffsanalysen aus Webserver-Logdateien erstellen.
+TrafficDescription: Zugriffsanalysen aus Logdateien erstellen.
+TurkishDescription: Türkisch/Türkçe mit der Sprache "tr".
 TwitterDescription: Twitter-Nachrichten einbinden.
 UpdateDescription: Webseite auf dem neusten Stand halten.
 UpdateExtensionDefaultDescription: Keine Beschreibung vorhanden.

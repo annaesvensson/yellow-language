@@ -28,6 +28,7 @@ ContactStatusInvalid: Vänligen ange en giltig emailadress.
 ContactStatusReview: Vänligen ta bort länkar från meddelandet.
 ContactStatusDone: Ditt mail har nu skickats. Tack!
 ContactStatusError: Mailet kunde inte skickas, vänligen försök igen senare!
+CopenhagenDescription: Copenhagen är ett vackert tema.
 CoreDescription: Webbplatsens kärnfunktion.
 CoreDatePast: idag, igår, @x dagar sedan, en månad sedan, @x månader sedan, ett år sedan, @x år sedan, den @x
 CoreDateFuture: snart, imorgon, om @x dagar, om 1 månad, om @x månader, om 1 år, om @x år, den @x
@@ -257,7 +258,8 @@ SpanishDescription: Spanska/Español med språket "es".
 StockholmDescription: Stockholm är ett rent tema.
 SwedishDescription: Svenska/Svenska med språket "sv".
 TocDescription: Innehållsförteckning.
-TrafficDescription: Skapa trafikanalyser från webbserverns loggfiler.
+TrafficDescription: Skapa trafikanalyser från loggfiler.
+TurkishDescription: Turkiska/Türkçe med språket "tr".
 TwitterDescription: Bädda in Twitter-meddelanden.
 UpdateDescription: Håll din webbplats uppdaterad.
 UpdateExtensionDefaultDescription: Ingen beskrivning finns tillgänglig.
@@ -269,4 +271,4 @@ WikiModified: Senast uppdaterad den
 WikiTag: Taggar:
 WikiSpecialPages: Alla sidor
 WikiSpecialChanges: Senaste ändringarna
-YoutubeDescription: Bädda in Youtube-videor
+YoutubeDescription: Bädda in Youtube-videor.

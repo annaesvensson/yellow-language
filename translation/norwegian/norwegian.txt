@@ -28,6 +28,7 @@ ContactStatusInvalid: Vennligst angi en gyldig epost adresse.
 ContactStatusReview: Vennligst ta bort lenker fra meldingen.
 ContactStatusDone: Din epost er nå sendt. Takk!
 ContactStatusError: Epost kunne ikke sendes, vennligst prøv på nytt senere!
+CopenhagenDescription: Copenhagen is a beautiful theme.
 CoreDescription: Kjernefunksjonaliteten til nettstedet.
 CoreDatePast: i dag, i går, @x dager siden, en måned siden, @x måneder siden, ett år siden, @x år siden, den @x
 CoreDateFuture: snart, i morgen, om @x dager, om 1 måned, om @x måneder, om 1 år, om @x år, den @x
@@ -257,7 +258,8 @@ SpanishDescription: Spanish/Español with language 'es'.
 StockholmDescription: Stockholm is a clean theme.
 SwedishDescription: Swedish/Svenska with language 'sv'.
 TocDescription: Table of contents.
-TrafficDescription: Create traffic analytics from web server log files.
+TrafficDescription: Create traffic analytics from log files.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: Embed Twitter messages.
 UpdateDescription: Hold nettstedet ditt oppdatert.
 UpdateExtensionDefaultDescription: No description available.

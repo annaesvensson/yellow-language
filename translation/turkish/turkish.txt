@@ -28,6 +28,7 @@ ContactStatusInvalid: Lütten geçerli bir mail adresi yazın.
 ContactStatusReview: Lütfen iletideki bağlantıları kaldırın.
 ContactStatusDone: E-postanız gönderildi. Teşekkürler!
 ContactStatusError: E-posta gönderilemedi, lütfen daha sonra tekrar deneyin!
+CopenhagenDescription: Copenhagen is a beautiful theme.
 CoreDescription: Web sitesinin temel işlevi..
 CoreDatePast: bugün, dün, @x gün önce, 1 ay önce, @x ay önce, 1 yıl önce, @x yıl önce, on @x
 CoreDateFuture: yakında, yarın, içinde @x gün, 1 ay içinde, @x ay içinde, in 1 year, in @x years, on @x
@@ -257,7 +258,8 @@ SpanishDescription: Spanish/Español with language 'es'.
 StockholmDescription: Stockholm temiz bir tema.
 SwedishDescription: Swedish/Svenska with language 'sv'.
 TocDescription: İçerik Tablosu.
-TrafficDescription: Web sunucusundaki log dosyaları ile trafik analizi oluştur.
+TrafficDescription: Günlük dosyalarından trafik analitiği oluşturun.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: Twitter mesajı göm.
 UpdateDescription: Websitenizi güncel tutunuz.
 UpdateExtensionDefaultDescription: No description available.

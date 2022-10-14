@@ -28,6 +28,7 @@ ContactStatusInvalid: 正しいメールアドレスをご入力下さい。
 ContactStatusReview: メッセージからリンクを削除してください。
 ContactStatusDone: メール送信を完了しました！
 ContactStatusError: メールを送信できませんでした。暫くしてからもう一度お試し下さい！
+CopenhagenDescription: Copenhagen is a beautiful theme.
 CoreDescription: Core functionality of the website.
 CoreDatePast: 今日, 昨日, @x 日前, １ヶ月前, @x ヶ月前, １年前, @x 年前, on @x
 CoreDateFuture: 直前, 明日, @x 日以内, １ヶ月以内, @x ヶ月以内, １年以内, @x 年以内, on @x
@@ -257,7 +258,8 @@ SpanishDescription: Spanish/Español with language 'es'.
 StockholmDescription: Stockholm is a clean theme.
 SwedishDescription: Swedish/Svenska with language 'sv'.
 TocDescription: Table of contents.
-TrafficDescription: Create traffic analytics from web server log files.
+TrafficDescription: Create traffic analytics from log files.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: Embed Twitter messages.
 UpdateDescription: ウェブサイトを最新の状態に保ちます。
 UpdateExtensionDefaultDescription: No description available.

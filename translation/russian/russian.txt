@@ -28,6 +28,7 @@ ContactStatusInvalid: Пожалуйста, укажите правильный 
 ContactStatusReview: Пожалуйста, удалите ссылки из сообщения.
 ContactStatusDone: Ваше письмо отправлено. Спасибо!
 ContactStatusError: Письмо не может быть отправлено, попробуйте еще раз позже!
+CopenhagenDescription: Copenhagen is a beautiful theme.
 CoreDescription: Основные функции веб-сайта.
 CoreDatePast: сегодня, вчера, @x дней назад, 1 месяц назад, @x месяцев назад, 1 год назад, @x лет назад, на @x
 CoreDateFuture: скоро, завтра, через @x дней, через 1 месяц, через @x месяцев, через 1 год, через @x лет, на @x
@@ -257,7 +258,8 @@ SpanishDescription: Spanish/Español with language 'es'.
 StockholmDescription: Стокгольм - чистая тема.
 SwedishDescription: Swedish/Svenska with language 'sv'.
 TocDescription: Оглавление.
-TrafficDescription: Создать аналитику трафика из файлов журнала веб-сервера.
+TrafficDescription: Создать аналитику трафика из лог-файлов.
+TurkishDescription: Turkish/Türkçe with language 'tr'.
 TwitterDescription: Вставить сообщения Twitter.
 UpdateDescription: Держите свой сайт в актуальном состоянии.
 UpdateExtensionDefaultDescription: No description available.
