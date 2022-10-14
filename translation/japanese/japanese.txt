@@ -232,7 +232,7 @@ InstallExampleImage: これは画像の例です。
 ItalianDescription: Italian/Italiano with language 'it'.
 JapaneseDescription: Japanese/日本語 with language 'ja'.
 MarkdownDescription: Text formatting for humans.
-MetaDescription: Meta data for social media sites.
+MetaDescription: Meta data for humans and machines.
 NorwegianDescription: Norwegian/Norsk with language 'nb'.
 ParsedownDescription: Text formatting for humans.
 ParisDescription: Paris is an elegant theme.
@@ -241,7 +241,7 @@ PortugueseDescription: Portuguese/Português with language 'pt'.
 PreviousnextDescription: Show links to previous/next page.
 PreviousnextPagePrevious: ← 前へ: @title
 PreviousnextPageNext: 次へ: @title →
-PublishDescription: Package and publish extensions.
+PublishDescription: Make and publish extensions.
 RussianDescription: Russian/Русский with language 'ru'.
 SearchDescription: Full-text search.
 SearchResultsNone: 検索キーワードをご入力下さい。
@@ -260,6 +260,10 @@ TocDescription: Table of contents.
 TrafficDescription: Create traffic analytics from web server log files.
 TwitterDescription: Embed Twitter messages.
 UpdateDescription: ウェブサイトを最新の状態に保ちます。
+UpdateExtensionDefaultDescription: No description available.
+UpdateExtensionDeveloper: Developed by @x.
+UpdateExtensionDesigner: Designed by @x.
+UpdateExtensionTranslator: Translated by @x.
 WikiDescription: Wiki for your website.
 WikiModified: 最終更新日
 WikiTag: タグ:

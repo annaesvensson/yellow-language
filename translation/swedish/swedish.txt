@@ -3,7 +3,7 @@
 Language: sv
 LanguageLocale: sv_SE
 LanguageDescription: Svenska
-LanguageTranslator: Adam Engel
+LanguageTranslator: Anna Svensson
 BerlinDescription: Berlin är ett tema inspirerat av Dieter Rams.
 BlogDescription: Blogg för din webbplats.
 BlogBy: av
@@ -232,7 +232,7 @@ InstallExampleImage: Detta är en exempelbild
 ItalianDescription: Italienska/Italiano med språket "it".
 JapaneseDescription: Japanska/日本語 med språket "ja".
 MarkdownDescription: Textformatering för människor.
-MetaDescription: Metadata för webbplatser med sociala medier.
+MetaDescription: Metadata för människor och maskiner.
 NorwegianDescription: Norska/Norsk med språket "nb".
 ParsedownDescription: Textformatering för människor.
 ParisDescription: Paris är ett elegant tema.
@@ -241,7 +241,7 @@ PortugueseDescription: Portugisiska/Português med språket "pt".
 PreviousnextDescription: Visa länkar till föregående/nästa sida.
 PreviousnextPagePrevious: ← Tidigare: @title
 PreviousnextPageNext: Nästa: @title →
-PublishDescription: Paketera och publicera tillägg.
+PublishDescription: Göra och publicera tillägg.
 RussianDescription: Ryska/Русский med språket "ru".
 SearchDescription: Heltekstsökning.
 SearchResultsNone: Skriv ett sökord.
@@ -260,6 +260,10 @@ TocDescription: Innehållsförteckning.
 TrafficDescription: Skapa trafikanalyser från webbserverns loggfiler.
 TwitterDescription: Bädda in Twitter-meddelanden.
 UpdateDescription: Håll din webbplats uppdaterad.
+UpdateExtensionDefaultDescription: Ingen beskrivning finns tillgänglig.
+UpdateExtensionDeveloper: Utvecklad av @x.
+UpdateExtensionDesigner: Designad av @x.
+UpdateExtensionTranslator: Översatt av @x.
 WikiDescription: Wiki för din webbplats.
 WikiModified: Senast uppdaterad den
 WikiTag: Taggar:

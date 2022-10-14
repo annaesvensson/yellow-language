@@ -2,7 +2,7 @@
 // Hungarian extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/hungarian
 
 class YellowHungarian {
-    const VERSION = "0.8.32";
+    const VERSION = "0.8.34";
     public $yellow;         // access to API
     
     // Handle initialisation

@@ -232,7 +232,7 @@ InstallExampleImage: 这是一个范例图片
 ItalianDescription: 意大利语/Italiano with language 'it'.
 JapaneseDescription: 日语/日本語 with language 'ja'.
 MarkdownDescription: 方便人们阅读的文本格式化插件.
-MetaDescription: Meta插件为社交分享网站优化信息头.
+MetaDescription: 人和机器的元数据.
 NorwegianDescription: 挪威语/Norsk with language 'nb'.
 ParsedownDescription: 方便人们阅读的文本格式化插件.
 ParisDescription: Paris是一个优雅的主题.
@@ -241,7 +241,7 @@ PortugueseDescription: 葡萄牙语/Português with language 'pt'.
 PreviousnextDescription: 显示上/下一页面链接的插件.
 PreviousnextPagePrevious: ← 上一页 @title
 PreviousnextPageNext: 下一页 @title →
-PublishDescription: 提供打包与发布扩展的功能.
+PublishDescription: 制作和发布扩展.
 RussianDescription: 俄语/Русский with language 'ru'.
 SearchDescription: 全文搜索.
 SearchResultsNone: 请输入搜索关键字
@@ -260,6 +260,10 @@ TocDescription: 内容目录插件.
 TrafficDescription: 流量插件从Web服务器日志分析网站流量.
 TwitterDescription: 嵌入Twitter推文.
 UpdateDescription: 使您的网站保持最新。
+UpdateExtensionDefaultDescription: No description available.
+UpdateExtensionDeveloper: Developed by @x.
+UpdateExtensionDesigner: Designed by @x.
+UpdateExtensionTranslator: Translated by @x.
 WikiDescription: 您网站的Wiki.
 WikiModified: 最后更新
 WikiTag: 标签:

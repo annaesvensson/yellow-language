@@ -232,7 +232,7 @@ InstallExampleImage: Bu bir örnek resim
 ItalianDescription: Italian/Italiano with language 'it'.
 JapaneseDescription: Japanese/日本語 with language 'ja'.
 MarkdownDescription: İnsanlar için metin biçimlendirme.
-MetaDescription: Sosyal medya siteleri için meta veriler.
+MetaDescription: İnsanlar ve makineler için meta veriler.
 NorwegianDescription: Norwegian/Norsk with language 'nb'.
 ParsedownDescription: İnsanlar için metin biçimlendirme.
 ParisDescription: Paris zarif bir temadır.
@@ -241,7 +241,7 @@ PortugueseDescription: Portuguese/Português with language 'pt'.
 PreviousnextDescription: Önceki / sonraki sayfaya bağlantıları göster.
 PreviousnextPagePrevious: ← Önceki: @title
 PreviousnextPageNext: Sonraki: @title →
-PublishDescription: Uzantıları paketleyin ve yayınlayın.
+PublishDescription: Uzantıları oluşturun ve yayınlayın.
 RussianDescription: Russian/Русский with language 'ru'.
 SearchDescription: Tam metin araması.
 SearchResultsNone: Bir arama terimi girin.
@@ -260,6 +260,10 @@ TocDescription: İçerik Tablosu.
 TrafficDescription: Web sunucusundaki log dosyaları ile trafik analizi oluştur.
 TwitterDescription: Twitter mesajı göm.
 UpdateDescription: Websitenizi güncel tutunuz.
+UpdateExtensionDefaultDescription: No description available.
+UpdateExtensionDeveloper: Developed by @x.
+UpdateExtensionDesigner: Designed by @x.
+UpdateExtensionTranslator: Translated by @x.
 WikiDescription: Websiteniz için wiki.
 WikiModified: Son Değişiklik
 WikiTag: Etiketler:

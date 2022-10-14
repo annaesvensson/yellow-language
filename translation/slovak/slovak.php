@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/slovak
 
 class YellowSlovak {
-    const VERSION = "0.8.32";
+    const VERSION = "0.8.34";
     public $yellow;         // access to API
     
     // Handle initialisation

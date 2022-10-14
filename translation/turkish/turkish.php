@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translation/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.32";
+    const VERSION = "0.8.34";
     public $yellow;         // access to API
     
     // Handle initialisation

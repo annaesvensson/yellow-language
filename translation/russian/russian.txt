@@ -232,7 +232,7 @@ InstallExampleImage: Это пример изображения
 ItalianDescription: Italian/Italiano with language 'it'.
 JapaneseDescription: Japanese/日本語 with language 'ja'.
 MarkdownDescription: Форматирование текста для людей.
-MetaDescription: Мета-данные для сайтов социальных сетей.
+MetaDescription: Мета-данные для людей и машин.
 NorwegianDescription: Norwegian/Norsk with language 'nb'.
 ParsedownDescription: Форматирование текста для людей.
 ParisDescription: Париж - элегантная тема.
@@ -241,7 +241,7 @@ PortugueseDescription: Portuguese/Português with language 'pt'.
 PreviousnextDescription: Показать ссылки на предыдущую/следующую страницу.
 PreviousnextPagePrevious: ← Назад: @title
 PreviousnextPageNext: Далее: @title →
-PublishDescription: Упаковка и публикация расширений.
+PublishDescription: Делайте и публикуйте расширения.
 RussianDescription: Russian/Русский with language 'ru'.
 SearchDescription: Полнотекстовый поиск.
 SearchResultsNone: Введите слово для поиска.
@@ -259,7 +259,11 @@ SwedishDescription: Swedish/Svenska with language 'sv'.
 TocDescription: Оглавление.
 TrafficDescription: Создать аналитику трафика из файлов журнала веб-сервера.
 TwitterDescription: Вставить сообщения Twitter.
-UpdateDescription: Держите свой сайт в актуальном состоянии
+UpdateDescription: Держите свой сайт в актуальном состоянии.
+UpdateExtensionDefaultDescription: No description available.
+UpdateExtensionDeveloper: Developed by @x.
+UpdateExtensionDesigner: Designed by @x.
+UpdateExtensionTranslator: Translated by @x.
 WikiDescription: Wiki для вашего сайта.
 WikiModified: Последнее обновление
 WikiTag: Тэги:

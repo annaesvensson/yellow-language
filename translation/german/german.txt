@@ -232,7 +232,7 @@ InstallExampleImage: Das ist ein Beispielbild
 ItalianDescription: Italienisch/Italiano mit der Sprache "it".
 JapaneseDescription: Japanisch/日本語 mit der Sprache "ja".
 MarkdownDescription: Textformatierung für Menschen.
-MetaDescription: Metadaten für soziale Medien.
+MetaDescription: Metadaten für Menschen und Maschinen.
 NorwegianDescription: Norwegisch/Norsk mit der Sprache "nb".
 ParsedownDescription: Textformatierung für Menschen.
 ParisDescription: Paris ist ein elegantes Thema.
@@ -241,7 +241,7 @@ PortugueseDescription: Portugiesisch/Português mit der Sprache "pt".
 PreviousnextDescription: Links zu vorherigen/nächsten Seite anzeigen.
 PreviousnextPagePrevious: ← Zurück: @title
 PreviousnextPageNext: Weiter: @title →
-PublishDescription: Erweiterungen verpacken und veröffentlichen.
+PublishDescription: Erweiterungen erstellen und veröffentlichen.
 RussianDescription: Russisch/Русский mit der Sprache "ru".
 SearchDescription: Volltext-Suche.
 SearchResultsNone: Bitte einen Suchbegriff eingeben.
@@ -260,6 +260,10 @@ TocDescription: Inhaltsverzeichnis anzeigen.
 TrafficDescription: Zugriffsanalysen aus Webserver-Logdateien erstellen.
 TwitterDescription: Twitter-Nachrichten einbinden.
 UpdateDescription: Webseite auf dem neusten Stand halten.
+UpdateExtensionDefaultDescription: Keine Beschreibung vorhanden.
+UpdateExtensionDeveloper: Entwickelt von @x.
+UpdateExtensionDesigner: Entworfen von @x.
+UpdateExtensionTranslator: Übersetzt von @x.
 WikiDescription: Wiki für deine Webseite.
 WikiModified: Zuletzt aktualisiert am
 WikiTag: Tags:

@@ -232,7 +232,7 @@ InstallExampleImage: This is an example image
 ItalianDescription: Italian/Italiano with language 'it'.
 JapaneseDescription: Japanese/日本語 with language 'ja'.
 MarkdownDescription: Text formatting for humans.
-MetaDescription: Meta data for social media sites.
+MetaDescription: Meta data for humans and machines.
 NorwegianDescription: Norwegian/Norsk with language 'nb'.
 ParsedownDescription: Text formatting for humans.
 ParisDescription: Paris is an elegant theme.
@@ -241,7 +241,7 @@ PortugueseDescription: Portuguese/Português with language 'pt'.
 PreviousnextDescription: Show links to previous/next page.
 PreviousnextPagePrevious: ← Anterior: @title
 PreviousnextPageNext: Siguiente: @title →
-PublishDescription: Package and publish extensions.
+PublishDescription: Make and publish extensions.
 RussianDescription: Russian/Русский with language 'ru'.
 SearchDescription: Full-text search.
 SearchResultsNone: Introduce un término de búsqueda.
@@ -260,6 +260,10 @@ TocDescription: Table of contents.
 TrafficDescription: Create traffic analytics from web server log files.
 TwitterDescription: Embed Twitter messages.
 UpdateDescription: Mantenga su sitio web actualizado.
+UpdateExtensionDefaultDescription: No description available.
+UpdateExtensionDeveloper: Developed by @x.
+UpdateExtensionDesigner: Designed by @x.
+UpdateExtensionTranslator: Translated by @x.
 WikiDescription: Wiki for your website.
 WikiModified: Última actualización el
 WikiTag: Etiquetas:

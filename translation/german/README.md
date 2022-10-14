@@ -1,4 +1,4 @@
-# German 0.8.32
+# German 0.8.34
 
 German/Deutsch mit der Sprache "de".
 

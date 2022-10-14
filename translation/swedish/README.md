@@ -1,4 +1,4 @@
-# Swedish 0.8.32
+# Swedish 0.8.34
 
 Swedish/Svenska med språket "sv".
 
@@ -10,4 +10,4 @@ Swedish/Svenska med språket "sv".
 
 ## Översättare
 
-Adam Engel. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
