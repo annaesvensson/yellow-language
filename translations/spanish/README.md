@@ -1,4 +1,4 @@
-# Spanish 0.8.34
+# Spanish 0.8.35
 
 Spanish/Español con el idioma 'es'.
 

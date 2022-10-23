@@ -2,12 +2,13 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.34";
+    const VERSION = "0.8.35";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
+        $this->yellow->language->setDefault($this->getDefault());
     }
     
     // Handle update
@@ -16,8 +17,285 @@ class YellowJapanese {
         if ($action=="install") {
             $this->yellow->system->save($fileName, array("language" => "ja"));
         } elseif ($action=="uninstall" && $this->yellow->system->get("language")=="ja") {
-            $language = reset(array_diff($this->yellow->system->getValues("language"), array("ja")));
-            $this->yellow->system->save($fileName, array("language" => $language));
+            $this->yellow->system->save($fileName, array("language" => $this->yellow->system->getDifferent("language")));
         }
+    }
+    
+    // Return default language settings
+    public function getDefault() {
+        return <<< 'END'
+        Language: ja
+        LanguageLocale: ja_JP
+        LanguageDescription: 日本語
+        LanguageTranslator: Yuhko Senuma, Tomonori Ikeda
+        BerlinDescription: Berlin is a theme inspired by Dieter Rams.
+        BlogDescription: Blog for your website.
+        BlogBy: by
+        BlogTag: タグ:
+        BlogMore: 全文を表示する…
+        BreadcrumbDescription: Breadcrumb navigation.
+        BundleDescription: Bundle website files.
+        ChineseDescription: Chinese/简体中文 with language 'zh'.
+        CommandDescription: Command line of the website.
+        ContactDescription: Email contact page.
+        ContactName: 氏名:
+        ContactEmail: メールアドレス:
+        ContactMessage: 送信内容:
+        ContactConsent: このウェブサイトに私のメッセージが保存されていることに同意します。
+        ContactButton: 送信
+        ContactMailSpam: [スパム]
+        ContactMailHeader: @sender からメールを受け取りました。
+        ContactMailFooter: このメールは @sitename - @title から送信されました。
+        ContactStatusNone: ご意見・ご指摘・ご提案・ご要望・ご質問・お問合せ・等お寄せ下さい。
+        ContactStatusIncomplete: 全ての項目にご入力下さい。
+        ContactStatusInvalid: 正しいメールアドレスをご入力下さい。
+        ContactStatusReview: メッセージからリンクを削除してください。
+        ContactStatusDone: メール送信を完了しました！
+        ContactStatusError: メールを送信できませんでした。暫くしてからもう一度お試し下さい！
+        CopenhagenDescription: Copenhagen is a beautiful theme.
+        CoreDescription: Core functionality of the website.
+        CorePaginationPrevious: ← 前へ
+        CorePaginationNext: 次へ →
+        CoreTimeFormatShort: H:i
+        CoreTimeFormatMedium: H:i:s
+        CoreTimeFormatLong: H:i:s T
+        CoreDateFormatShort: Y-m
+        CoreDateFormatMedium: Y-m-d
+        CoreDateFormatLong: Y-m-d H:i
+        CoreDatePast: 今日, 昨日, @x 日前, １ヶ月前, @x ヶ月前, １年前, @x 年前, on @x
+        CoreDateFuture: 直前, 明日, @x 日以内, １ヶ月以内, @x ヶ月以内, １年以内, @x 年以内, on @x
+        CoreDateMonthsNominative: １月, ２月, ３月, ４月, ５月, ６月, ７月, ８月, ９月, １０月, １１月, １２月
+        CoreDateMonthsGenitive: １月, ２月, ３月, ４月, ５月, ６月, ７月, ８月, ９月, １０月, １１月, １２月
+        CoreDateWeekdays: 月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日, 日曜日
+        CoreDateWeekstart: 月曜日
+        CoreDecimalSeparator: .
+        CoreError404Title: ファイルが見つかりません
+        CoreError404Text: 要求されたファイルは見つかりませんでした。あらいやだ･･････
+        CoreError420Title: ページが公開されていません
+        CoreError420Text: 要求されたページは非公開です。 [yellow error]
+        CoreError430Title: ログインに失敗しました
+        CoreError430Text: メールアドレスかパスワードが間違っています。 [再度試みる](#data-action-login)。
+        CoreError434Title: ページが見つかりません
+        CoreError434Text: 要求されたページは見つかりません。 [このページを作成できます](#data-action-edit)。
+        CoreError435Title: ページが見つかりません
+        CoreError435Text: 要求されたページは削除されました。 [このページを復元できます](#data-action-restore)。
+        CoreError450Title: アップデートエラー
+        CoreError450Text: アップデートサーバーに接続できません。インターネット接続が要求されています。
+        CoreError500Title: サーバーエラー
+        CoreError500Text: 問題が発生しました。[yellow error]
+        CzechDescription: Czech/Čeština with language 'cs'.
+        DanishDescription: Danish/Dansk with language 'da'.
+        DisqusDescription: Show Disqus comments on blog.
+        DraftDescription: Support for draft pages.
+        DraftStatusEmpty: 下書きはありません。
+        DraftPageError: ログインしてください。
+        DutchDescription: Dutch/Nederlands with language 'nl'.
+        EditDescription: Edit your website in a web browser.
+        EditLoginTitle: ようこそ
+        EditLoginEmail: メールアドレス:
+        EditLoginPassword: パスワード:
+        EditLoginForgot: パスワードをお忘れですか？
+        EditLoginSignup: ユーザーアカウントを作成しますか？
+        EditLoginButton: ログイン
+        EditSignupTitle: ユーザーアカウントの作成
+        EditSignupName: ユーザー名:
+        EditSignupEmail: メールアドレス:
+        EditSignupPassword: パスワード:
+        EditSignupConsent: 私はこのウェブサイトが私の個人データを保存することに同意します。
+        EditSignupButton: 作成
+        EditSignupStatusNone: 新しいユーザーアカウントを作成出来ます。
+        EditSignupStatusIncomplete: 全ての項目にご入力下さい。
+        EditSignupStatusInvalid: 正しいメールアドレスをご入力下さい。
+        EditSignupStatusWeak: 別のパスワードをご入力下さい。
+        EditSignupStatusShort: もっと長いパスワードをご入力下さい。
+        EditSignupStatusNext: ユーザーアカウントの有効化の為、メールをご確認下さい。
+        EditForgotTitle: パスワード忘失申請
+        EditForgotEmail: メールアドレス:
+        EditForgotStatusNone: 新しいパスワードを作成する事が出来ます。
+        EditForgotStatusInvalid: 正しいメールアドレスをご入力下さい。
+        EditForgotStatusNext: ユーザーアカウントを回復する為にメールをご確認下さい。
+        EditRecoverTitle: パスワード忘失申請
+        EditRecoverPassword: パスワード:
+        EditRecoverStatusPassword: 新しいパスワードをご入力下さい。
+        EditRecoverStatusWeak: 別のパスワードをご入力下さい。
+        EditRecoverStatusShort: もっと長いパスワードをご入力下さい。
+        EditRecoverStatusDone: ユーザーアカウントが回復しました。有難うございました！
+        EditConfirmSubject: ユーザーアカウントの確認
+        EditConfirmMessage: こんにちは @usershort さん。\n\nユーザーアカウントについてのご確認です。宜しければ次のリンクをクリックして下さい。
+        EditConfirmTitle: ユーザーアカウント
+        EditConfirmStatusDone: ユーザーアカウントが登録され、承認待ちです。有難うございました！
+        EditApproveSubject: ユーザーアカウントの登録承認
+        EditApproveMessage: こんにちは @usershort さん。\n\n新しいユーザーアカウント登録承認についてのご確認です。 @useraccount。 よろしければ次のリンクをクリックしてください。
+        EditApproveTitle: ユーザーアカウント
+        EditApproveStatusDone: ユーザーアカウントが承認されました。有難うございました！
+        EditReactivateSubject: ユーザーアカウントの再アクティブ化
+        EditReactivateMessage: こんにちは @usershort さん。\n\nユーザーアカウントを再度有効にしてください。ログイン操作に何度も失敗しました。以下のリンクをクリックしてください。
+        EditReactivateTitle: ユーザーアカウント
+        EditReactivateStatusDone: ユーザーアカウントは再アクティブ化されました。有り難うございました！
+        EditVerifySubject: ユーザーアカウントの変更
+        EditVerifyMessage: こんにちは @usershort さん。\n\nユーザーアカウント情報の変更のご確認です。宜しければ次のリンクをクリックして下さい。
+        EditVerifyTitle: ユーザーアカウント
+        EditVerifyStatusDone: ユーザーアカウントが変更されました。有難うございました！
+        EditChangeSubject: ユーザーアカウントの変更
+        EditChangeMessage: こんにちは @usershort さん。\n\nユーザーアカウントを変更する為に、次のリンクをクリックして下さい。
+        EditChangeTitle: ユーザーアカウント
+        EditChangeStatusDone: ユーザーアカウントが変更されました。有難うございました！
+        EditRemoveSubject: ユーザーアカウントの削除
+        EditRemoveMessage: こんにちは @usershort さん。\n\nユーザーアカウントを本当に削除しますか。以下のリンクをクリックしてください。
+        EditRemoveTitle: ユーザーアカウント
+        EditRemoveStatusDone: ユーザーアカウントは削除されました。有り難うございました！
+        EditRecoverSubject: ユーザーアカウントを復元
+        EditRecoverMessage: こんにちは @usershort さん。\n\nパスワード忘失のご確認です。宜しければ次のリンクをクリックして下さい。
+        EditWelcomeSubject: ようこそ！
+        EditWelcomeMessage: こんにちは @usershort さん。\n\nあなたのユーザーアカウントが作成されています。ログインしてウェブサイトを完成させて下さい。
+        EditGoodbyeSubject: さようなら
+        EditGoodbyeMessage: こんにちは @usershort さん,\n\nユーザーアカウントが削除されました。おげんきで。
+        EditAccountTitle: ユーザー設定
+        EditAccountInformation: いつでもユーザーアカウントを削除できます。
+        EditAccountMore: （削除する）
+        EditAccountStatusNone: ここでユーザーアカウントを変更できます。
+        EditAccountStatusInvalid: 正しいメールアドレスをご入力下さい。
+        EditAccountStatusTaken: 別のメールアドレスをご入力下さい。
+        EditAccountStatusWeak: 別のパスワードをご入力下さい。
+        EditAccountStatusShort: もっと長いパスワードをご入力下さい。
+        EditAccountStatusNext: ユーザーアカウントを変更する為にメールをご確認下さい。
+        EditQuitTitle: ユーザーアカウントの削除
+        EditQuitStatusNone: 確認のためにユーザー名を入力してください。
+        EditQuitStatusMismatch: 入力したユーザー名が違います
+        EditQuitStatusNext: ユーザーアカウントが削除されました。メールを確認してください。
+        EditConfigureTitle: システム設定
+        EditConfigureSitename: ウェブサイト名:
+        EditConfigureAuthor: 管理者名:
+        EditConfigureEmail: Eメール:
+        EditConfigureInformation: 管理者は新しいユーザーアカウントを承認できます。
+        EditConfigureStatusNone: ここでシステム設定を変更できます。
+        EditConfigureStatusInvalid: 有効なメールアドレスを入力してください。
+        EditUpdateTitle: 更新情報
+        EditUpdateStatusNone: Datenstrom Yellow で小さなウェブサイトを作る
+        EditUpdateStatusCheck: アップデートの確認中･･････
+        EditUpdateStatusUpdates: 以下の更新が利用可能です:
+        EditUpdateStatusOk: 最新のバージョンです。
+        EditOkButton: Ok
+        EditCancelButton: キャンセル
+        EditChangeButton: 変更
+        EditCreateButton: 作成
+        EditEditButton: 保存
+        EditDeleteButton: 削除
+        EditUpdateButton: 更新
+        EditEdit: ページの編集
+        EditCreate: +
+        EditDelete: -
+        EditKeyboardLabels: Ctrl+, Alt+, Shift+, ⌘, ⌥, ⇧
+        EditToolbarFormat: フォーマット
+        EditToolbarHeading: 見出し
+        EditToolbarH1: 見出し1
+        EditToolbarH2: 見出し2
+        EditToolbarH3: 見出し3
+        EditToolbarParagraph: ノーマル
+        EditToolbarPre: ソース
+        EditToolbarNotice: 通知
+        EditToolbarQuote: 引用
+        EditToolbarBold: 太字
+        EditToolbarItalic: 斜体
+        EditToolbarStrikethrough: 取り消し線
+        EditToolbarCode: コード
+        EditToolbarList: リスト
+        EditToolbarUl: • 通常リスト
+        EditToolbarOl: 1. 番号リスト
+        EditToolbarTl: ✓ タスクリスト
+        EditToolbarLink: リンク
+        EditToolbarFile: ファイル
+        EditToolbarEmojiawesome: 絵文字
+        EditToolbarFontawesome: アイコン
+        EditToolbarStatus: ステータス
+        EditToolbarUndo: 元に戻す
+        EditToolbarRedo: やり直す
+        EditToolbarPreview: プレビュー
+        EditToolbarHelp: ヘルプ
+        EditMailFooter: @sitename
+        EditDataGenerated: このページは自動的に生成されます。
+        EditUploadProgress: ファイルをアップロード中…
+        EditUserDescription: Editor
+        EditMenuSettings: 設定
+        EditMenuHelp: ヘルプ
+        EditMenuLogout: ログアウト
+        EditYellowUrl: https://datenstrom.se/yellow/
+        EditYellowHelpUrl: https://datenstrom.se/yellow/help/
+        EmojiawesomeDescription: Lots and lots of emoji.
+        EnglishDescription: English/English with language 'en'.
+        FeedDescription: Feed with recent changes.
+        FontawesomeDescription: Icons and symbols.
+        FrenchDescription: French/Français with language 'fr'.
+        GalleryDescription: Image gallery with popup.
+        GermanDescription: German/Deutsch with language 'de'.
+        GooglecalendarDescription: Embed Google calendar.
+        GooglemapDescription: Embed Google map.
+        HelpDescription: Help for your website.
+        HighlightDescription: Highlight source code.
+        HungarianDescription: Hungarian/Magyar with language 'hu'.
+        ImageDescription: Images and thumbnails.
+        ImageDefaultAlt: 説明のない画像
+        InstagramDescription: Embed Instagram photos.
+        InstallTitle: こんにちは
+        InstallLanguage: あなたの言語は何ですか？
+        InstallExtension: どのサイトを作成しますか？
+        InstallExtensionWebsite: 小さなウェブサイト
+        InstallExtensionBlog: 小さなブログ
+        InstallExtensionWiki: 小さなウィキ
+        InstallButton: インストール
+        InstallHomeTitle: ホーム
+        InstallHomeText: [image photo.jpg 例 rounded]\n\n[edit - このページはウェブブラウザで編集できます]またはテキストエディタを使用してください。 [助けを得ます](https://datenstrom.se/yellow/help/)。
+        InstallAboutTitle: 情報
+        InstallAboutText: [Datenstrom Yellow で作られました](https://datenstrom.se/yellow/)。
+        InstallDefaultTitle: ページ
+        InstallDefaultText: 新しいページです。
+        InstallBlogTitle: ブログページ
+        InstallBlogText: 新しいブログのページです。
+        InstallWikiTitle: ウィキページ
+        InstallWikiText: 新しいウィキのページです。
+        InstallExampleImage: これは画像の例です。
+        ItalianDescription: Italian/Italiano with language 'it'.
+        JapaneseDescription: Japanese/日本語 with language 'ja'.
+        MarkdownDescription: Text formatting for humans.
+        MetaDescription: Meta data for humans and machines.
+        NorwegianDescription: Norwegian/Norsk with language 'nb'.
+        ParsedownDescription: Text formatting for humans.
+        ParisDescription: Paris is an elegant theme.
+        PolishDescription: Polish/Polski with language 'pl'.
+        PortugueseDescription: Portuguese/Português with language 'pt'.
+        PreviousnextDescription: Show links to previous/next page.
+        PreviousnextPagePrevious: ← 前へ: @title
+        PreviousnextPageNext: 次へ: @title →
+        PublishDescription: Make and publish extensions.
+        RussianDescription: Russian/Русский with language 'ru'.
+        SearchDescription: Full-text search.
+        SearchResultsNone: 検索キーワードをご入力下さい。
+        SearchResultsEmpty: 検索結果が見つかりません。
+        SearchSpecialChanges: 最近の更新
+        SearchButton: 検索
+        ServeDescription: Built-in web server.
+        SitemapDescription: Sitemap with all pages.
+        SliderDescription: Image gallery with slider.
+        SlovakDescription: Slovak/Slovenčina with language 'sk'.
+        SoundcloudDescription: Embed Soundcloud audio tracks.
+        SpanishDescription: Spanish/Español with language 'es'.
+        StockholmDescription: Stockholm is a clean theme.
+        SwedishDescription: Swedish/Svenska with language 'sv'.
+        TocDescription: Table of contents.
+        TrafficDescription: Create traffic analytics from log files.
+        TurkishDescription: Turkish/Türkçe with language 'tr'.
+        TwitterDescription: Embed Twitter messages.
+        UpdateDescription: ウェブサイトを最新の状態に保ちます。
+        UpdateExtensionDefaultDescription: No description available.
+        UpdateExtensionDeveloper: Developed by @x.
+        UpdateExtensionDesigner: Designed by @x.
+        UpdateExtensionTranslator: Translated by @x.
+        WikiDescription: Wiki for your website.
+        WikiModified: 最終更新日
+        WikiTag: タグ:
+        WikiSpecialPages: 全てのページ
+        WikiSpecialChanges: 最近の更新状況
+        YoutubeDescription: Embed Youtube videos.
+END;
     }
 }

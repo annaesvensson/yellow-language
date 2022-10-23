@@ -1,4 +1,4 @@
-# Chinese 0.8.34
+# Chinese 0.8.35
 
 Chinese/简体中文 语言为 'zh'。
 

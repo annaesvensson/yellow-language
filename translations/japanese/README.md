@@ -1,4 +1,4 @@
-# Japanese 0.8.34
+# Japanese 0.8.35
 
 言語 'ja' で日本語/Japaneseを使用します。
 
