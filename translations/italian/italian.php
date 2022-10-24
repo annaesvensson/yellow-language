@@ -230,6 +230,7 @@ class YellowItalian {
         GermanDescription: Tedesco/Deutsch con lingua 'de'.
         GooglecalendarDescription: Inserisci un calendario Google.
         GooglemapDescription: Inserisci una mappa Google.
+        HelloworldDescription: Esempio di funzione per Datenstrom Yellow.
         HelpDescription: Aiuto per il tuo sito.
         HighlightDescription: Evidenzia sintatticamente il codice sorgente.
         HungarianDescription: Ungherese/Magyar con lingua 'hu'.

@@ -230,6 +230,7 @@ class YellowRussian {
         GermanDescription: German/Deutsch with language 'de'.
         GooglecalendarDescription: Вставить календарь Google.
         GooglemapDescription: Вставить карту Google.
+        HelloworldDescription: Example feature for Datenstrom Yellow.
         HelpDescription: Помощь для вашего сайта.
         HighlightDescription: Подсветка исходного кода.
         HungarianDescription: Hungarian/Magyar with language 'hu'.

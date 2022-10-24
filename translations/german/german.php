@@ -230,6 +230,7 @@ class YellowGerman {
         GermanDescription: Deutsch/Deutsch mit der Sprache "de".
         GooglecalendarDescription: Google-Kalender einbinden.
         GooglemapDescription: Google-Karten einbinden.
+        HelloworldDescription: Beispielfunktion für Datenstrom Yellow.
         HelpDescription: Hilfe für deine Webseite.
         HighlightDescription: Quellcode hervorheben.
         HungarianDescription: Ungarisch/Magyar mit der Sprache "hu".

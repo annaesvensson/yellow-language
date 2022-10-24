@@ -230,6 +230,7 @@ class YellowPolish {
         GermanDescription: Niemiecki/Deutsch z językiem 'de'.
         GooglecalendarDescription: Osadzanie Kalendarza Google.
         GooglemapDescription: Osadzanie Map Google.
+        HelloworldDescription: Przykładowa funkcja dla Datenstrom Yellow.
         HelpDescription: Pomoc dla Twojej strony.
         HighlightDescription: Podświetl kod źródłowy.
         HungarianDescription: Węgierski/Magyar z językiem 'hu'.

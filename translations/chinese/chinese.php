@@ -230,6 +230,7 @@ class YellowChinese {
         GermanDescription: 德语/Deutsch with language 'de'.
         GooglecalendarDescription: 嵌入Google日历的插件.
         GooglemapDescription: 嵌入Google地图的插件.
+        HelloworldDescription: Example feature for Datenstrom Yellow.
         HelpDescription: Help插件提供网站帮助.
         HighlightDescription: 高亮显示源代码的插件.
         HungarianDescription: 匈牙利语/Magyar with language 'hu'.

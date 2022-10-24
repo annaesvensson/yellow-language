@@ -230,6 +230,7 @@ class YellowNorwegian {
         GermanDescription: German/Deutsch with language 'de'.
         GooglecalendarDescription: Embed Google calendar.
         GooglemapDescription: Embed Google map.
+        HelloworldDescription: Eksempelfunksjon for Datenstrom Yellow.
         HelpDescription: Help for your website.
         HighlightDescription: Highlight source code.
         HungarianDescription: Hungarian/Magyar with language 'hu'.

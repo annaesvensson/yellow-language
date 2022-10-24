@@ -230,6 +230,7 @@ class YellowSwedish {
         GermanDescription: Tyska/Deutsch med språket "de".
         GooglecalendarDescription: Bädda in Google-kalender.
         GooglemapDescription: Bädda in Google-karta.
+        HelloworldDescription: Exempel-funktion för Datenstrom Yellow.
         HelpDescription: Hjälp för din webbplats.
         HighlightDescription: Markera källkod.
         HungarianDescription: Ungerska/Magyar med språket "hu".

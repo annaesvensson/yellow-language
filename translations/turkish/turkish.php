@@ -230,6 +230,7 @@ class YellowTurkish {
         GermanDescription: German/Deutsch with language 'de'.
         GooglecalendarDescription: Google takvimini yerleştirin.
         GooglemapDescription: Google haritasını yerleştirin.
+        HelloworldDescription: Example feature for Datenstrom Yellow.
         HelpDescription: Web siteniz için yardım.
         HighlightDescription: Kaynak kodunu vurgulayın.
         HungarianDescription: Hungarian/Magyar with language 'hu'.
