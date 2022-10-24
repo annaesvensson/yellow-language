@@ -12,7 +12,7 @@ Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-
 
 ## Installation
 
-Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow).
+Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow) und kann nicht einzeln installiert werden.
 
 ## Entwickler
 

@@ -12,7 +12,7 @@ Start with the [English language file](https://github.com/annaesvensson/yellow-l
 
 ## Installation
 
-This extension is part of the [standard installation](https://github.com/datenstrom/yellow).
+This extension is part of the [standard installation](https://github.com/datenstrom/yellow) and cannot be installed individually.
 
 ## Developer
 

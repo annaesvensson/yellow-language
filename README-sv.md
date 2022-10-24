@@ -12,7 +12,7 @@ Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-languag
 
 ## Installation
 
-Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow).
+Den här tillägget är del av [standardinstallationen](https://github.com/datenstrom/yellow) och kan inte installeras individuellt.
 
 ## Utvecklare
 
