@@ -1,4 +1,4 @@
-# Russian 0.8.35
+# Russian 0.8.36
 
 Russian/Русский с языком 'ru'.
 

@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowDanish {
         BlogTag: Tags:
         BlogMore: Læs mere…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Brødkrumme
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowDanish {
         ContactStatusError: Din email er desværre ikke blevet sendt. Venligst forsøg igen senere!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Hjemmets funktionalitet.
+        CoreNavigation: Hovednavigation
+        CorePagination: Sidenavigation
         CorePaginationPrevious: ← Forrige
         CorePaginationNext: Næste →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowDanish {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Sidenavigation
         PreviousnextPagePrevious: ← Forrige: @title
         PreviousnextPageNext: Næste: @title →
         PublishDescription: Make and publish extensions.

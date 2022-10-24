@@ -2,7 +2,7 @@
 // English extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/english
 
 class YellowEnglish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowEnglish {
         BlogTag: Tags:
         BlogMore: Read more…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowEnglish {
         ContactStatusError: Email could not be sent, please try again later!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Core functionality of the website.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Previous
         CorePaginationNext: Next →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowEnglish {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Previous: @title
         PreviousnextPageNext: Next: @title →
         PublishDescription: Make and publish extensions.

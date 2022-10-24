@@ -1,4 +1,4 @@
-# Portuguese 0.8.35
+# Portuguese 0.8.36
 
 Portuguese/Português com o idioma 'pt'.
 

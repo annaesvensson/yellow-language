@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowCzech {
         BlogTag: Tags:
         BlogMore: Čti dále…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowCzech {
         ContactStatusError: Email nemůže být odeslán, zkuste to prosím později!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Základní funkce webu.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Předchozí
         CorePaginationNext: Následující →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowCzech {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Předchozí: @title
         PreviousnextPageNext: Následující: @title →
         PublishDescription: Make and publish extensions.

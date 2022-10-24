@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowSlovak {
         BlogTag: Štítky:
         BlogMore: Čítať ďalej…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowSlovak {
         ContactStatusError: Nepodarilo sa poslať správu. Skús to neskôr!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Základná funkčnosť webovej stránky.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Predchádzajúci
         CorePaginationNext: Nasledujúci →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowSlovak {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Predchádzajúci: @title
         PreviousnextPageNext: Nasledujúci: @title →
         PublishDescription: Make and publish extensions.

@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowTurkish {
         BlogTag: Etiketler:
         BlogMore: Devamını Oku…
         BreadcrumbDescription: Breadcrumb navigasyonu.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Websitesindeki dosyaları grupla.
         ChineseDescription: Çince/简体中文 with language 'zh'.
         CommandDescription: Websitesi komut satırı.
@@ -54,6 +55,8 @@ class YellowTurkish {
         ContactStatusError: E-posta gönderilemedi, lütfen daha sonra tekrar deneyin!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Web sitesinin temel işlevi..
+        CoreNavigation: Ana yönlendirici
+        CorePagination: Sayfa gezinme
         CorePaginationPrevious: ← Önceki
         CorePaginationNext: Sonraki →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowTurkish {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Önceki / sonraki sayfaya bağlantıları göster.
+        PreviousnextNavigation: Sayfa gezinme
         PreviousnextPagePrevious: ← Önceki: @title
         PreviousnextPageNext: Sonraki: @title →
         PublishDescription: Uzantıları oluşturun ve yayınlayın.

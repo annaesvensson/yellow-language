@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowItalian {
         BlogTag: Tag:
         BlogMore: Leggi di più…
         BreadcrumbDescription: Percorso di navigazione.
+        BreadcrumbNavigation: Percorso di navigazione
         BundleDescription: Aggrega i file del sito.
         ChineseDescription: Cinese/简体中文 con lingua 'zh'.
         CommandDescription: Linea di comando del sito.
@@ -54,6 +55,8 @@ class YellowItalian {
         ContactStatusError: C'è stato un problema nell'invio del messaggio. Riprova per favore più tardi.
         CopenhagenDescription: Copenhagen è un tema bellissimo.
         CoreDescription: Funzionalità di base del sito.
+        CoreNavigation: Navigazione principale
+        CorePagination: Navigazione della pagina
         CorePaginationPrevious: ← Precedente
         CorePaginationNext: Successivo →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowItalian {
         PolishDescription: Polacco/Polski con lingua 'pl'.
         PortugueseDescription: Portoghese/Português con lingua 'pt'.
         PreviousnextDescription: Mostra collegamenti alla pagina precedente e successiva.
+        PreviousnextNavigation: Navigazione della pagina
         PreviousnextPagePrevious: ← Precedente: @title
         PreviousnextPageNext: Successivo: @title →
         PublishDescription: Crea e pubblica estensioni.

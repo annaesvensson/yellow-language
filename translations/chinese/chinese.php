@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowChinese {
         BlogTag: 标签:
         BlogMore: 阅读全文…
         BreadcrumbDescription: Breadcrumb (面包屑)导航插件.
+        BreadcrumbNavigation: 面包屑
         BundleDescription: Bundle插件捆包CSS文件.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: 网站的命令行功能.
@@ -54,6 +55,8 @@ class YellowChinese {
         ContactStatusError: 信息无法发送，请稍后再试！
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: 网站的核心功能。
+        CoreNavigation: 主导航
+        CorePagination: 页面导航
         CorePaginationPrevious: ← 上一页
         CorePaginationNext: 下一页 →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowChinese {
         PolishDescription: 波兰语/Polski with language 'pl'.
         PortugueseDescription: 葡萄牙语/Português with language 'pt'.
         PreviousnextDescription: 显示上/下一页面链接的插件.
+        PreviousnextNavigation: 页面导航
         PreviousnextPagePrevious: ← 上一页 @title
         PreviousnextPageNext: 下一页 @title →
         PublishDescription: 制作和发布扩展.

@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowSpanish {
         BlogTag: Etiquetas:
         BlogMore: Leer más…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowSpanish {
         ContactStatusError: El email no pudo ser enviado, por favor intenta más tarde.
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Funcionalidad principal del sitio web.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Anterior
         CorePaginationNext: Siguiente →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowSpanish {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Anterior: @title
         PreviousnextPageNext: Siguiente: @title →
         PublishDescription: Make and publish extensions.

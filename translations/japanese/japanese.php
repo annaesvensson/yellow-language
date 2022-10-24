@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowJapanese {
         BlogTag: タグ:
         BlogMore: 全文を表示する…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: ブレッドクラム
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowJapanese {
         ContactStatusError: メールを送信できませんでした。暫くしてからもう一度お試し下さい！
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Core functionality of the website.
+        CoreNavigation: メインナビゲーション
+        CorePagination: ページ ナビゲーション
         CorePaginationPrevious: ← 前へ
         CorePaginationNext: 次へ →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowJapanese {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: ページ ナビゲーション
         PreviousnextPagePrevious: ← 前へ: @title
         PreviousnextPageNext: 次へ: @title →
         PublishDescription: Make and publish extensions.

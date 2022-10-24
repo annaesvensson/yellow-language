@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowFrench {
         BlogTag: Tags:
         BlogMore: Lire la suite…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Ligne de commande du site web.
@@ -54,6 +55,8 @@ class YellowFrench {
         ContactStatusError: Votre message n'a pas pu être envoyé, réessayez plus tard s'il vous plaît !
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Fonctionnalité principale du site web.
+        CoreNavigation: Navigation principale
+        CorePagination: Navigation dans les pages
         CorePaginationPrevious: ← Précédent
         CorePaginationNext: Suivant →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowFrench {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Navigation dans les pages
         PreviousnextPagePrevious: ← Précédent: @title
         PreviousnextPageNext: Suivant: @title →
         PublishDescription: Make and publish extensions.

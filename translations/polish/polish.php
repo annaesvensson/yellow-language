@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowPolish {
         BlogTag: Tagi:
         BlogMore: Czytaj dalej…
         BreadcrumbDescription: Nawigacja okruszkowa (breadcrumb).
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Połącz pliki strony internetowej w zestawy.
         ChineseDescription: Chiński/简体中文 z językiem 'zh'.
         CommandDescription: Wiersz poleceń witryny.
@@ -54,6 +55,8 @@ class YellowPolish {
         ContactStatusError: Wiadomość nie mogła zostać wysłana. Prosimy spróbować ponownie później.
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Podstawowa funkcjonalność strony internetowej.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Poprzednia
         CorePaginationNext: Następna →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowPolish {
         PolishDescription: Polski/Polski z językiem 'pl'.
         PortugueseDescription: Portugalski/Português z językiem 'pt'.
         PreviousnextDescription: Pokaż linki do poprzedniej/następnej strony.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Poprzednie: @title
         PreviousnextPageNext: Następne: @title →
         PublishDescription: Twórz i publikuj rozszerzenia.

@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowSwedish {
         BlogTag: Taggar:
         BlogMore: Läs mer…
         BreadcrumbDescription: Brödcrumbnavigering.
+        BreadcrumbNavigation: Brödcrumb
         BundleDescription: Bundla webbplatsfiler.
         ChineseDescription: Kinesiskt/简体中文 med språket "zh".
         CommandDescription: Webbplatsens kommandorad.
@@ -54,6 +55,8 @@ class YellowSwedish {
         ContactStatusError: Mailet kunde inte skickas, vänligen försök igen senare!
         CopenhagenDescription: Copenhagen är ett vackert tema.
         CoreDescription: Webbplatsens kärnfunktion.
+        CoreNavigation: Huvudnavigering
+        CorePagination: Sidnavigering
         CorePaginationPrevious: ← Tidigare
         CorePaginationNext: Nästa →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowSwedish {
         PolishDescription: Polska/Polski med språket "pl".
         PortugueseDescription: Portugisiska/Português med språket "pt".
         PreviousnextDescription: Visa länkar till föregående/nästa sida.
+        PreviousnextNavigation: Sidnavigering
         PreviousnextPagePrevious: ← Tidigare: @title
         PreviousnextPageNext: Nästa: @title →
         PublishDescription: Göra och publicera tillägg.

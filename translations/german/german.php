@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowGerman {
         BlogTag: Tags:
         BlogMore: Lies mehr…
         BreadcrumbDescription: Brotkrümel-Navigation.
+        BreadcrumbNavigation: Brotkrümel
         BundleDescription: Webseiten-Dateien bündeln.
         ChineseDescription: Chinesisch/简体中文 mit der Sprache "zh".
         CommandDescription: Befehlszeile der Webseite.
@@ -54,6 +55,8 @@ class YellowGerman {
         ContactStatusError: Nachricht konnte nicht versandt werden, versuche es später erneut!
         CopenhagenDescription: Copenhagen ist ein schönes Thema.
         CoreDescription: Kernfunktionalität der Webseite.
+        CoreNavigation: Hauptnavigation
+        CorePagination: Seitennavigation
         CorePaginationPrevious: ← Zurück
         CorePaginationNext: Weiter →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowGerman {
         PolishDescription: Polnisch/Polski mit der Sprache "pl".
         PortugueseDescription: Portugiesisch/Português mit der Sprache "pt".
         PreviousnextDescription: Links zu vorherigen/nächsten Seite anzeigen.
+        PreviousnextNavigation: Seitennavigation
         PreviousnextPagePrevious: ← Zurück: @title
         PreviousnextPageNext: Weiter: @title →
         PublishDescription: Erweiterungen erstellen und veröffentlichen.

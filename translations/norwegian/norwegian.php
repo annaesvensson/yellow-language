@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowNorwegian {
         BlogTag: Tagger:
         BlogMore: Les mer…
         BreadcrumbDescription: Breadcrumb navigation.
+        BreadcrumbNavigation: Brødsmule
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Command line of the website.
@@ -54,6 +55,8 @@ class YellowNorwegian {
         ContactStatusError: Epost kunne ikke sendes, vennligst prøv på nytt senere!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Kjernefunksjonaliteten til nettstedet.
+        CoreNavigation: Hovednavigasjon
+        CorePagination: Sidenavigering
         CorePaginationPrevious: ← Forrige
         CorePaginationNext: Nesta →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowNorwegian {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
+        PreviousnextNavigation: Sidenavigering
         PreviousnextPagePrevious: ← Forrige: @title
         PreviousnextPageNext: Nesta: @title →
         PublishDescription: Make and publish extensions.

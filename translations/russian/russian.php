@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.8.35";
+    const VERSION = "0.8.36";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -34,6 +34,7 @@ class YellowRussian {
         BlogTag: Тэги:
         BlogMore: Читать далее…
         BreadcrumbDescription: Навигационная цепочка.
+        BreadcrumbNavigation: Breadcrumb
         BundleDescription: Объединение файлов веб-сайта.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
         CommandDescription: Командная строка сайта.
@@ -54,6 +55,8 @@ class YellowRussian {
         ContactStatusError: Письмо не может быть отправлено, попробуйте еще раз позже!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Основные функции веб-сайта.
+        CoreNavigation: Main navigation
+        CorePagination: Page navigation
         CorePaginationPrevious: ← Назад
         CorePaginationNext: Далее →
         CoreTimeFormatShort: H:i
@@ -265,6 +268,7 @@ class YellowRussian {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Показать ссылки на предыдущую/следующую страницу.
+        PreviousnextNavigation: Page navigation
         PreviousnextPagePrevious: ← Назад: @title
         PreviousnextPageNext: Далее: @title →
         PublishDescription: Делайте и публикуйте расширения.
