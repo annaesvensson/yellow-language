@@ -55,8 +55,8 @@ class YellowSwedish {
         ContactStatusError: Mailet kunde inte skickas, vänligen försök igen senare!
         CopenhagenDescription: Copenhagen är ett vackert tema.
         CoreDescription: Webbplatsens kärnfunktion.
-        CoreNavigation: Huvudnavigering
-        CorePagination: Sidnavigering
+        CoreNavigation: Huvud
+        CorePagination: Sidbyte
         CorePaginationPrevious: ← Tidigare
         CorePaginationNext: Nästa →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowSwedish {
         DanishDescription: Danska/Dansk med språket "da".
         DisqusDescription: Visa Disqus-kommentarer på bloggen.
         DraftDescription: Stöd för draftsidor.
-        DraftStatusEmpty: Inga draftsidor hittades.
         DraftPageError: Vänligen logga in.
         DutchDescription: Holländska/Nederlands med språket "nl".
         EditDescription: Redigera din webbplats i en webbläsare.
@@ -268,9 +267,11 @@ class YellowSwedish {
         PolishDescription: Polska/Polski med språket "pl".
         PortugueseDescription: Portugisiska/Português med språket "pt".
         PreviousnextDescription: Visa länkar till föregående/nästa sida.
-        PreviousnextNavigation: Sidnavigering
+        PreviousnextNavigation: Sidbyte
         PreviousnextPagePrevious: ← Tidigare: @title
         PreviousnextPageNext: Nästa: @title →
+        PrivateDescription: Stöd för lösenordsskyddade sidor.
+        PrivatePageError: Ange ditt lösenord.
         PublishDescription: Göra och publicera tillägg.
         RussianDescription: Ryska/Русский med språket "ru".
         SearchDescription: Heltekstsökning.

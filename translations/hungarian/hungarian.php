@@ -55,8 +55,8 @@ class YellowHungarian {
         ContactStatusError: A küldés sikertelen volt. Kérlek próbáld meg később.
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: A weboldal alapvető funkciói.
-        CoreNavigation: Main navigation
-        CorePagination: Page navigation
+        CoreNavigation: Main
+        CorePagination: Page
         CorePaginationPrevious: ← Előző
         CorePaginationNext: Tovább →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowHungarian {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
-        DraftStatusEmpty: No drafts found.
         DraftPageError: Please log in.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Szerkessze webhelyét egy böngészőben.
@@ -268,9 +267,11 @@ class YellowHungarian {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
-        PreviousnextNavigation: Page navigation
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Előző: @title
         PreviousnextPageNext: Tovább: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Make and publish extensions.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.

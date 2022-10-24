@@ -55,8 +55,8 @@ class YellowRussian {
         ContactStatusError: Письмо не может быть отправлено, попробуйте еще раз позже!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Основные функции веб-сайта.
-        CoreNavigation: Main navigation
-        CorePagination: Page navigation
+        CoreNavigation: Main
+        CorePagination: Page
         CorePaginationPrevious: ← Назад
         CorePaginationNext: Далее →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowRussian {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Показывать комментарии Disqus в блоге.
         DraftDescription: Поддержка черновиков страниц.
-        DraftStatusEmpty: Черновиков не найдено.
         DraftPageError: Пожалуйста, войдите.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Отредактируйте свой сайт в веб-браузере.
@@ -268,9 +267,11 @@ class YellowRussian {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Показать ссылки на предыдущую/следующую страницу.
-        PreviousnextNavigation: Page navigation
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Назад: @title
         PreviousnextPageNext: Далее: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Делайте и публикуйте расширения.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Полнотекстовый поиск.

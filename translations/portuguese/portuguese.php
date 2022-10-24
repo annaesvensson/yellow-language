@@ -55,8 +55,8 @@ class YellowPortuguese {
         ContactStatusError: O sem email não pôde ser enviado, por favor tente mais tarde!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Funcionalidade central do site.
-        CoreNavigation: Main navigation
-        CorePagination: Page navigation
+        CoreNavigation: Main
+        CorePagination: Page
         CorePaginationPrevious: ← Anterior
         CorePaginationNext: Seguinte →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowPortuguese {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
-        DraftStatusEmpty: No drafts found.
         DraftPageError: Please log in.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Edite seu site em um navegador da web.
@@ -268,9 +267,11 @@ class YellowPortuguese {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
-        PreviousnextNavigation: Page navigation
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Anterior: @title
         PreviousnextPageNext: Seguinte: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Make and publish extensions.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.

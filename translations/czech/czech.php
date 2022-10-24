@@ -55,8 +55,8 @@ class YellowCzech {
         ContactStatusError: Email nemůže být odeslán, zkuste to prosím později!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Základní funkce webu.
-        CoreNavigation: Main navigation
-        CorePagination: Page navigation
+        CoreNavigation: Main
+        CorePagination: Page
         CorePaginationPrevious: ← Předchozí
         CorePaginationNext: Následující →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowCzech {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
-        DraftStatusEmpty: No drafts found.
         DraftPageError: Please log in.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Upravte svůj web ve webovém prohlížeči.
@@ -268,9 +267,11 @@ class YellowCzech {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
-        PreviousnextNavigation: Page navigation
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Předchozí: @title
         PreviousnextPageNext: Následující: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Make and publish extensions.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.

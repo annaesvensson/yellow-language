@@ -55,8 +55,8 @@ class YellowDanish {
         ContactStatusError: Din email er desværre ikke blevet sendt. Venligst forsøg igen senere!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Hjemmets funktionalitet.
-        CoreNavigation: Hovednavigation
-        CorePagination: Sidenavigation
+        CoreNavigation: Hoved
+        CorePagination: Side
         CorePaginationPrevious: ← Forrige
         CorePaginationNext: Næste →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowDanish {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
-        DraftStatusEmpty: No drafts found.
         DraftPageError: Please log in.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Rediger dit websted i en webbrowser.
@@ -267,10 +266,12 @@ class YellowDanish {
         ParisDescription: Paris is an elegant theme.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
-        PreviousnextDescription: Show links to previous/next page.
-        PreviousnextNavigation: Sidenavigation
+        PreviousnextDescription: Vis links til forrige/næste side.
+        PreviousnextNavigation: Side
         PreviousnextPagePrevious: ← Forrige: @title
         PreviousnextPageNext: Næste: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Make and publish extensions.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.

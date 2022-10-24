@@ -55,8 +55,8 @@ class YellowChinese {
         ContactStatusError: 信息无法发送，请稍后再试！
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: 网站的核心功能。
-        CoreNavigation: 主导航
-        CorePagination: 页面导航
+        CoreNavigation: 主要的
+        CorePagination: 页
         CorePaginationPrevious: ← 上一页
         CorePaginationNext: 下一页 →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowChinese {
         DanishDescription: 丹麦语/Dansk with language 'da'.
         DisqusDescription: Disqus插件在博客显示评论.
         DraftDescription: Draft插件支持草稿页面.
-        DraftStatusEmpty: 未找到草稿。
         DraftPageError: Please log in.
         DutchDescription: 荷兰语/Nederlands with language 'nl'.
         EditDescription: 在网络浏览器中编辑您的网站。
@@ -268,9 +267,11 @@ class YellowChinese {
         PolishDescription: 波兰语/Polski with language 'pl'.
         PortugueseDescription: 葡萄牙语/Português with language 'pt'.
         PreviousnextDescription: 显示上/下一页面链接的插件.
-        PreviousnextNavigation: 页面导航
+        PreviousnextNavigation: 页
         PreviousnextPagePrevious: ← 上一页 @title
         PreviousnextPageNext: 下一页 @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: 制作和发布扩展.
         RussianDescription: 俄语/Русский with language 'ru'.
         SearchDescription: 全文搜索.

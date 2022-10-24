@@ -55,8 +55,8 @@ class YellowJapanese {
         ContactStatusError: メールを送信できませんでした。暫くしてからもう一度お試し下さい！
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Core functionality of the website.
-        CoreNavigation: メインナビゲーション
-        CorePagination: ページ ナビゲーション
+        CoreNavigation: 主要
+        CorePagination: ページ
         CorePaginationPrevious: ← 前へ
         CorePaginationNext: 次へ →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowJapanese {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
-        DraftStatusEmpty: 下書きはありません。
         DraftPageError: ログインしてください。
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Edit your website in a web browser.
@@ -267,10 +266,12 @@ class YellowJapanese {
         ParisDescription: Paris is an elegant theme.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
-        PreviousnextDescription: Show links to previous/next page.
-        PreviousnextNavigation: ページ ナビゲーション
+        PreviousnextDescription: 前/次のページへのリンクを表示します。
+        PreviousnextNavigation: ページ
         PreviousnextPagePrevious: ← 前へ: @title
         PreviousnextPageNext: 次へ: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Make and publish extensions.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.

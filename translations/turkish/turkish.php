@@ -55,8 +55,8 @@ class YellowTurkish {
         ContactStatusError: E-posta gönderilemedi, lütfen daha sonra tekrar deneyin!
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Web sitesinin temel işlevi..
-        CoreNavigation: Ana yönlendirici
-        CorePagination: Sayfa gezinme
+        CoreNavigation: Ana
+        CorePagination: Sayfa
         CorePaginationPrevious: ← Önceki
         CorePaginationNext: Sonraki →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowTurkish {
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Blogda Disqus yorumlarını göster.
         DraftDescription:Taslak sayfalar için destek..
-        DraftStatusEmpty: Hiç taslak bulunamadı.
         DraftPageError: Lütfen giriş yapın.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Web sitenizi bir web tarayıcısında düzenleyin..
@@ -268,9 +267,11 @@ class YellowTurkish {
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Önceki / sonraki sayfaya bağlantıları göster.
-        PreviousnextNavigation: Sayfa gezinme
+        PreviousnextNavigation: Sayfa
         PreviousnextPagePrevious: ← Önceki: @title
         PreviousnextPageNext: Sonraki: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Uzantıları oluşturun ve yayınlayın.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Tam metin araması.

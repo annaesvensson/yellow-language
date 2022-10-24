@@ -55,8 +55,8 @@ class YellowGerman {
         ContactStatusError: Nachricht konnte nicht versandt werden, versuche es später erneut!
         CopenhagenDescription: Copenhagen ist ein schönes Thema.
         CoreDescription: Kernfunktionalität der Webseite.
-        CoreNavigation: Hauptnavigation
-        CorePagination: Seitennavigation
+        CoreNavigation: Haupt
+        CorePagination: Seitenwechsel
         CorePaginationPrevious: ← Zurück
         CorePaginationNext: Weiter →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowGerman {
         DanishDescription: Dänisch/Dansk mit der Sprache "da".
         DisqusDescription: Disqus-Kommentare im Blog anzeigen.
         DraftDescription: Unterstützung für Entwurfsseiten.
-        DraftStatusEmpty: Keine Entwürfe gefunden.
         DraftPageError: Bitte melde dich an.
         DutchDescription: Niederländisch/Nederlands mit der Sprache "nl".
         EditDescription: Webseite im Webbrowser bearbeiten.
@@ -268,9 +267,11 @@ class YellowGerman {
         PolishDescription: Polnisch/Polski mit der Sprache "pl".
         PortugueseDescription: Portugiesisch/Português mit der Sprache "pt".
         PreviousnextDescription: Links zu vorherigen/nächsten Seite anzeigen.
-        PreviousnextNavigation: Seitennavigation
+        PreviousnextNavigation: Seitenwechsel
         PreviousnextPagePrevious: ← Zurück: @title
         PreviousnextPageNext: Weiter: @title →
+        PrivateDescription: Unterstützung für passwortgeschützte Seiten.
+        PrivatePageError: Bitte gib das Kennwort ein.
         PublishDescription: Erweiterungen erstellen und veröffentlichen.
         RussianDescription: Russisch/Русский mit der Sprache "ru".
         SearchDescription: Volltext-Suche.

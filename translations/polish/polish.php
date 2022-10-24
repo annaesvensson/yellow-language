@@ -55,8 +55,8 @@ class YellowPolish {
         ContactStatusError: Wiadomość nie mogła zostać wysłana. Prosimy spróbować ponownie później.
         CopenhagenDescription: Copenhagen is a beautiful theme.
         CoreDescription: Podstawowa funkcjonalność strony internetowej.
-        CoreNavigation: Main navigation
-        CorePagination: Page navigation
+        CoreNavigation: Main
+        CorePagination: Page
         CorePaginationPrevious: ← Poprzednia
         CorePaginationNext: Następna →
         CoreTimeFormatShort: H:i
@@ -90,7 +90,6 @@ class YellowPolish {
         DanishDescription: Duński/Dansk z językiem 'da'.
         DisqusDescription: Pokaż komentarze Disqus na blogu.
         DraftDescription: Obsługa wersji roboczych stron.
-        DraftStatusEmpty: Nie znaleziono wersji roboczych.
         DraftPageError: Proszę się zalogować.
         DutchDescription: Holenderski/Nederlands z językiem 'nl'.
         EditDescription: Edytuj swoją witrynę w przeglądarce internetowej.
@@ -268,9 +267,11 @@ class YellowPolish {
         PolishDescription: Polski/Polski z językiem 'pl'.
         PortugueseDescription: Portugalski/Português z językiem 'pt'.
         PreviousnextDescription: Pokaż linki do poprzedniej/następnej strony.
-        PreviousnextNavigation: Page navigation
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Poprzednie: @title
         PreviousnextPageNext: Następne: @title →
+        PrivateDescription: Support for password-protected pages.
+        PrivatePageError: Please enter the password.
         PublishDescription: Twórz i publikuj rozszerzenia.
         RussianDescription: Rosyjski/Русский z językiem 'ru'.
         SearchDescription: Wyszukiwanie pełnotekstowe.
