@@ -175,7 +175,7 @@ class YellowChinese {
         EditUpdateTitle: 更新
         EditUpdateStatusNone: Datenstrom Yellow 适合于制作小型网站的人们。
         EditUpdateStatusCheck: 正在检查更新…
-        EditUpdateStatusUpdates：以下更新可用：
+        EditUpdateStatusUpdates: 以下更新可用：
         EditUpdateStatusOk: 已是最新版
         EditOkButton: 确定
         EditCancelButton: 取消
