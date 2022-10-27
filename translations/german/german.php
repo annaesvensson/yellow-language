@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowGerman {
         LanguageLocale: de_DE
         LanguageDescription: Deutsch
         LanguageTranslator: David Fehrmann
+        AntispamDescription: Alternative Verschleierung von E-Mail-Adressen.
+        AudioDescription: HTML5-Audio-Player.
         BerlinDescription: Berlin ist ein Thema inspiriert von Dieter Rams.
         BlogDescription: Blog für deine Webseite.
         BlogBy: von
@@ -37,6 +39,7 @@ class YellowGerman {
         BreadcrumbNavigation: Brotkrümel
         BundleDescription: Webseiten-Dateien bündeln.
         ChineseDescription: Chinesisch/简体中文 mit der Sprache "zh".
+        CodefileDescription: Code-Blöcke als Textdatei herunterladen.
         CommandDescription: Befehlszeile der Webseite.
         ContactDescription: E-Mail-Kontaktseite.
         ContactName: Name:
@@ -86,7 +89,9 @@ class YellowGerman {
         CoreError450Text: Kann keine Verbindung zum Aktualisierungs-Server herstellen. Eine Internetverbindung ist erforderlich.
         CoreError500Title: Serverfehler
         CoreError500Text: Etwas ist schief gelaufen. [yellow error]
+        CsvDescription: CSV-Dateileser.
         CzechDescription: Tschechisch/Čeština mit der Sprache "cs".
+        DailyDescription: Tägliche Seiten anzeigen.
         DanishDescription: Dänisch/Dansk mit der Sprache "da".
         DisqusDescription: Disqus-Kommentare im Blog anzeigen.
         DraftDescription: Unterstützung für Entwurfsseiten.
@@ -238,6 +243,7 @@ class YellowGerman {
         HungarianDescription: Ungarisch/Magyar mit der Sprache "hu".
         ImageDescription: Bilder in unterschiedlichen Größen.
         ImageDefaultAlt: Bild ohne Beschreibung
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Instagram-Fotos einbinden.
         InstallTitle: Hallo
         InstallLanguage: Was ist deine Sprache?
@@ -262,8 +268,10 @@ class YellowGerman {
         MarkdownDescription: Textformatierung für Menschen.
         MetaDescription: Metadaten für Menschen und Maschinen.
         NorwegianDescription: Norwegisch/Norsk mit der Sprache "nb".
-        ParsedownDescription: Textformatierung für Menschen.
+        PagesourceDescription: Markdown-Quelltext auf Seiten anzeigen.
         ParisDescription: Paris ist ein elegantes Thema.
+        ParsedownDescription: Textformatierung für Menschen.
+        PodcastDescription: Web-Feed optimiert für die Podcast-Veröffentlichung.
         PolishDescription: Polnisch/Polski mit der Sprache "pl".
         PortugueseDescription: Portugiesisch/Português mit der Sprache "pt".
         PreviousnextDescription: Links zu vorherigen/nächsten Seite anzeigen.
@@ -272,7 +280,12 @@ class YellowGerman {
         PreviousnextPageNext: Weiter: @title →
         PrivateDescription: Unterstützung für passwortgeschützte Seiten.
         PrivatePageError: Bitte gib das Kennwort ein.
+        ProfileDescription: Autorenprofil für Blogseiten.
         PublishDescription: Erweiterungen erstellen und veröffentlichen.
+        RadiobossDescription: Widgets für RadioBoss Cloud.
+        RandomDescription: Zufällige Seiten anzeigen.
+        ReadingtimeDescription: Zeigt die geschätzte Lesezeit für den Seiteninhalt an.
+        RedirectDescription: Alternative Seitenweiterleitung.
         RussianDescription: Russisch/Русский mit der Sprache "ru".
         SearchDescription: Volltext-Suche.
         SearchResultsNone: Bitte einen Suchbegriff eingeben.
@@ -285,8 +298,10 @@ class YellowGerman {
         SlovakDescription: Slowakisch/Slovenčina mit der Sprache "sk".
         SoundcloudDescription: Soundcloud-Audio einbinden.
         SpanishDescription: Spanisch/Español mit der Sprache "es".
+        SpoilerDescription: Bestimmte Seitenelemente verstecken.
         StockholmDescription: Stockholm ist ein schlichtes Thema.
         SwedishDescription: Schwedisch/Svenska mit der Sprache "sv".
+        TickerDescription: RSS-Feed-Leser.
         TocDescription: Inhaltsverzeichnis anzeigen.
         TrafficDescription: Zugriffsanalysen aus Logdateien erstellen.
         TurkishDescription: Türkisch/Türkçe mit der Sprache "tr".
@@ -301,6 +316,7 @@ class YellowGerman {
         WikiTag: Tags:
         WikiSpecialPages: Alle Seiten
         WikiSpecialChanges: Letzte Änderungen
+        WittstockDescription: Wittstock ist ein klassenloses Theme.
         YoutubeDescription: Youtube-Videos einbinden.
 END;
     }

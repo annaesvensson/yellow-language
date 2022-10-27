@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowSwedish {
         LanguageLocale: sv_SE
         LanguageDescription: Svenska
         LanguageTranslator: Anna Svensson
+        AntispamDescription: Alternativ e-postadress obfuscator.
+        AudioDescription: HTML5 ljudspelare.
         BerlinDescription: Berlin är ett tema inspirerat av Dieter Rams.
         BlogDescription: Blogg för din webbplats.
         BlogBy: av
@@ -37,6 +39,7 @@ class YellowSwedish {
         BreadcrumbNavigation: Brödcrumb
         BundleDescription: Bundla webbplatsfiler.
         ChineseDescription: Kinesiskt/简体中文 med språket "zh".
+        CodefileDescription: Ladda ner kodblock som textfil.
         CommandDescription: Webbplatsens kommandorad.
         ContactDescription: E-post kontaktsida.
         ContactName: Namn:
@@ -81,12 +84,14 @@ class YellowSwedish {
         CoreError434Title: Sidan hittades inte
         CoreError434Text: Den begärda sidan kunde inte hittas. [Du kan skapa den här sidan](#data-action-edit).
         CoreError435Title: Sidan hittades inte
-        CoreError435Text:Den begärda sidan har tagits bort. [Du kan återställa den här sidan](#data-action-restore).
+        CoreError435Text: Den begärda sidan har tagits bort. [Du kan återställa den här sidan](#data-action-restore).
         CoreError450Title: Uppdateringsfel
         CoreError450Text: Kan inte ansluta till uppdateringsservern. En internetanslutning krävs.
         CoreError500Title: Serverfel
         CoreError500Text: Något gick fel. [yellow error]
+        CsvDescription: CSV-filtolkare.
         CzechDescription: Czech/Tjeckiskt med språket "cs".
+        DailyDescription: Visa dagliga sidor.
         DanishDescription: Danska/Dansk med språket "da".
         DisqusDescription: Visa Disqus-kommentarer på bloggen.
         DraftDescription: Stöd för draftsidor.
@@ -238,6 +243,7 @@ class YellowSwedish {
         HungarianDescription: Ungerska/Magyar med språket "hu".
         ImageDescription: Bilder och miniatyrbilder.
         ImageDefaultAlt: Bild utan beskrivning
+        IncludeDescription: Inkludera sidinnehåll från andra sidor.
         InstagramDescription: Bädda in Instagram-foton.
         InstallTitle: Hej
         InstallLanguage: Vad är ditt språk?
@@ -262,8 +268,10 @@ class YellowSwedish {
         MarkdownDescription: Textformatering för människor.
         MetaDescription: Metadata för människor och maskiner.
         NorwegianDescription: Norska/Norsk med språket "nb".
-        ParsedownDescription: Textformatering för människor.
+        PagesourceDescription: Visa Markdown-källtext på sidor.
         ParisDescription: Paris är ett elegant tema.
+        ParsedownDescription: Textformatering för människor.
+        PodcastDescription: Webbflöde optimerat för publicering av podcast.
         PolishDescription: Polska/Polski med språket "pl".
         PortugueseDescription: Portugisiska/Português med språket "pt".
         PreviousnextDescription: Visa länkar till föregående/nästa sida.
@@ -272,7 +280,12 @@ class YellowSwedish {
         PreviousnextPageNext: Nästa: @title →
         PrivateDescription: Stöd för lösenordsskyddade sidor.
         PrivatePageError: Ange ditt lösenord.
+        ProfileDescription: Författarprofil för bloggsidor.
         PublishDescription: Göra och publicera tillägg.
+        RadiobossDescription: Widgets för RadioBoss Cloud.
+        RandomDescription: Visa slumpmässiga sidor.
+        ReadingtimeDescription: Visa den uppskattade lästiden för sidans innehåll.
+        RedirectDescription: Alternativ sida omdirigering.
         RussianDescription: Ryska/Русский med språket "ru".
         SearchDescription: Heltekstsökning.
         SearchResultsNone: Skriv ett sökord.
@@ -285,8 +298,10 @@ class YellowSwedish {
         SlovakDescription: Slovakiska/Slovenčina med språket "sk".
         SoundcloudDescription: Bädda in Soundcloud-ljudspår.
         SpanishDescription: Spanska/Español med språket "es".
+        SpoilerDescription: Dölj vissa sidelement.
         StockholmDescription: Stockholm är ett rent tema.
         SwedishDescription: Svenska/Svenska med språket "sv".
+        TickerDescription: RSS-feed parser.
         TocDescription: Innehållsförteckning.
         TrafficDescription: Skapa trafikanalyser från loggfiler.
         TurkishDescription: Turkiska/Türkçe med språket "tr".
@@ -301,6 +316,7 @@ class YellowSwedish {
         WikiTag: Taggar:
         WikiSpecialPages: Alla sidor
         WikiSpecialChanges: Senaste ändringarna
+        WittstockDescription: Wittstock är ett klasslöst tema.
         YoutubeDescription: Bädda in Youtube-videor.
 END;
     }

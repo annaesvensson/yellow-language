@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowFrench {
         LanguageLocale: fr_FR
         LanguageDescription: Français
         LanguageTranslator: Juh Nibreh
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin is a theme inspired by Dieter Rams.
         BlogDescription: Blog pour votre site web.
         BlogBy: par
@@ -37,6 +39,7 @@ class YellowFrench {
         BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Ligne de commande du site web.
         ContactDescription: Email contact page.
         ContactName: Nom:
@@ -45,7 +48,7 @@ class YellowFrench {
         ContactConsent: Je consens à ce que ce site stocke mon message.
         ContactButton: Envoyer mon message
         ContactMailSpam: [Spam]
-        ContactMailHeader : Vous avez reçu un message de @sender:
+        ContactMailHeader: Vous avez reçu un message de @sender:
         ContactMailFooter: Cet email a été envoyé via @sitename - @title
         ContactStatusNone: Dites bonjour ! Vos commentaires sont les bienvenus.
         ContactStatusIncomplete: S'il vous plaît, veuillez remplir tous les champs.
@@ -86,7 +89,9 @@ class YellowFrench {
         CoreError450Text: Can't connect to the update server. An Internet connection is required.
         CoreError500Title: Erreur du serveur
         CoreError500Text: Une erreur s'est produite. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Czech/Čeština with language 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
@@ -238,6 +243,7 @@ class YellowFrench {
         HungarianDescription: Hungarian/Magyar with language 'hu'.
         ImageDescription: Images and thumbnails.
         ImageDefaultAlt: Image sans description
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Embed Instagram photos.
         InstallTitle: Bonjour
         InstallLanguage: Quelle langue parles-tu ?
@@ -262,17 +268,24 @@ class YellowFrench {
         MarkdownDescription: Formatage de texte pour les humains.
         MetaDescription: Meta data for humans and machines.
         NorwegianDescription: Norwegian/Norsk with language 'nb'.
-        ParsedownDescription: Formatage de texte pour les humains.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris is an elegant theme.
+        ParsedownDescription: Formatage de texte pour les humains.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Afficher les liens vers la page précédente/suivante.
-        PreviousnextNavigation:Page
+        PreviousnextNavigation: Page
         PreviousnextPagePrevious: ← Précédent: @title
         PreviousnextPageNext: Suivant: @title →
         PrivateDescription: Prise en charge des pages protégées par un mot de passe.
         PrivatePageError: Veuillez entrer le mot de passe.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Make and publish extensions.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.
         SearchResultsNone: Entrez un mot dans le champ de recherche.
@@ -285,8 +298,10 @@ class YellowFrench {
         SlovakDescription: Slovak/Slovenčina with language 'sk'.
         SoundcloudDescription: Embed Soundcloud audio tracks.
         SpanishDescription: Spanish/Español with language 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm is a clean theme.
         SwedishDescription: Swedish/Svenska with language 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: Table of contents.
         TrafficDescription: Create traffic analytics from log files.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowFrench {
         WikiTag: Tags:
         WikiSpecialPages: Toutes les pages
         WikiSpecialChanges: Changements récents
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Embed Youtube videos.
 END;
     }

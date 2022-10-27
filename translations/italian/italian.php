@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowItalian {
         LanguageLocale: it_IT
         LanguageDescription: Italiano
         LanguageTranslator: Giovanni Salmeri
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin è un tema ispirato da Dieter Rams.
         BlogDescription: Blog per il tuo sito.
         BlogBy: di
@@ -37,6 +39,7 @@ class YellowItalian {
         BreadcrumbNavigation: Percorso
         BundleDescription: Aggrega i file del sito.
         ChineseDescription: Cinese/简体中文 con lingua 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Linea di comando del sito.
         ContactDescription: Pagina di contatto.
         ContactName: Nome:
@@ -86,7 +89,9 @@ class YellowItalian {
         CoreError450Text: Impossibile connettersi al server di aggiornamento. È necessaria una connessione a Internet.
         CoreError500Title: Errore del server
         CoreError500Text: Qualcosa non ha funzionato. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Ceco/Čeština con lingua 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Danese/Dansk con lingua 'da'.
         DisqusDescription: Mostra commenti Disqus nel blog.
         DraftDescription: Supporto per pagine in bozza.
@@ -238,6 +243,7 @@ class YellowItalian {
         HungarianDescription: Ungherese/Magyar con lingua 'hu'.
         ImageDescription: Immagini e miniature.
         ImageDefaultAlt: Immagine senza descrizione
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Inserisci fotografie Instagram.
         InstallTitle: Salve
         InstallLanguage: Qual è la tua lingua?
@@ -262,8 +268,10 @@ class YellowItalian {
         MarkdownDescription: Formattazione facile del testo.
         MetaDescription: Metadati per uomini e macchine.
         NorwegianDescription: Norvegese/Norsk con lingua 'nb'.
-        ParsedownDescription: Formattazione facile del testo.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris è un tema elegante.
+        ParsedownDescription: Formattazione facile del testo.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polacco/Polski con lingua 'pl'.
         PortugueseDescription: Portoghese/Português con lingua 'pt'.
         PreviousnextDescription: Mostra collegamenti alla pagina precedente e successiva.
@@ -272,7 +280,12 @@ class YellowItalian {
         PreviousnextPageNext: Successivo: @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Crea e pubblica estensioni.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Russo/Русский con lingua 'ru'.
         SearchDescription: Ricerca globale.
         SearchResultsNone: Inserisci il termine da cercare.
@@ -285,8 +298,10 @@ class YellowItalian {
         SlovakDescription: Slovacco/Slovenčina con lingua 'sk'.
         SoundcloudDescription: Inserisci brani audio Soundcloud.
         SpanishDescription: Spagnolo/Español con lingua 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm è un tema pulito.
         SwedishDescription: Svedese/Svenska con lingua 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: Indice.
         TrafficDescription: Genera analisi del traffico dai file di registro.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowItalian {
         WikiTag: Etichetta:
         WikiSpecialPages: Tutte le pagine
         WikiSpecialChanges: Modifiche recenti
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Inserisci video Youtube.
 END;
     }

@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowTurkish {
         LanguageLocale: tr_TR
         LanguageDescription: Türkçe
         LanguageTranslator: Osman Kars
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin, Dieter Rams'tan esinlenen güzel bir temadır.
         BlogDescription: Websiteniz için blog.
         BlogBy: tarafından
@@ -37,6 +39,7 @@ class YellowTurkish {
         BreadcrumbNavigation: Breadcrumb
         BundleDescription: Websitesindeki dosyaları grupla.
         ChineseDescription: Çince/简体中文 with language 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Websitesi komut satırı.
         ContactDescription: Email iletişim sayfası.
         ContactName: Adınız:
@@ -86,10 +89,12 @@ class YellowTurkish {
         CoreError450Text: Can't connect to the update server. An Internet connection is required.
         CoreError500Title: Sunucu Hatası
         CoreError500Text: Birşeyler Ters Gitti [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Czech/Čeština with language 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Blogda Disqus yorumlarını göster.
-        DraftDescription:Taslak sayfalar için destek..
+        DraftDescription: Taslak sayfalar için destek..
         DraftPageError: Lütfen giriş yapın.
         DutchDescription: Dutch/Nederlands with language 'nl'.
         EditDescription: Web sitenizi bir web tarayıcısında düzenleyin..
@@ -238,6 +243,7 @@ class YellowTurkish {
         HungarianDescription: Hungarian/Magyar with language 'hu'.
         ImageDescription: Görüntüler ve küçük resimler.
         ImageDefaultAlt: Açıklama olmayan resim
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Instagram fotoğraflarını yerleştirin.
         InstallTitle: Merhaba
         InstallLanguage: Dilin nedir?
@@ -262,8 +268,10 @@ class YellowTurkish {
         MarkdownDescription: İnsanlar için metin biçimlendirme.
         MetaDescription: İnsanlar ve makineler için meta veriler.
         NorwegianDescription: Norwegian/Norsk with language 'nb'.
-        ParsedownDescription: İnsanlar için metin biçimlendirme.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris zarif bir temadır.
+        ParsedownDescription: İnsanlar için metin biçimlendirme.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Önceki / sonraki sayfaya bağlantıları göster.
@@ -272,7 +280,12 @@ class YellowTurkish {
         PreviousnextPageNext: Sonraki: @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Uzantıları oluşturun ve yayınlayın.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Tam metin araması.
         SearchResultsNone: Bir arama terimi girin.
@@ -285,8 +298,10 @@ class YellowTurkish {
         SlovakDescription: Slovak/Slovenčina with language 'sk'.
         SoundcloudDescription: Soundcloud ses parçalarını yerleştirin.
         SpanishDescription: Spanish/Español with language 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm temiz bir tema.
         SwedishDescription: Swedish/Svenska with language 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: İçerik Tablosu.
         TrafficDescription: Günlük dosyalarından trafik analitiği oluşturun.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowTurkish {
         WikiTag: Etiketler:
         WikiSpecialPages: Tüm Tayfalar
         WikiSpecialChanges: Son Değişiklikler
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Youtube videosu göm.
 END;
     }

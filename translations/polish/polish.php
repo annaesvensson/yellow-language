@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowPolish {
         LanguageLocale: pl_PL
         LanguageDescription: Polski
         LanguageTranslator: Paweł Klockiewicz, Kanbeq
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin to motyw zainspirowany Dieter Rams.
         BlogDescription: System blogowania dla Twojej strony.
         BlogBy: przez
@@ -37,6 +39,7 @@ class YellowPolish {
         BreadcrumbNavigation: Breadcrumb
         BundleDescription: Połącz pliki strony internetowej w zestawy.
         ChineseDescription: Chiński/简体中文 z językiem 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Wiersz poleceń witryny.
         ContactDescription: Strona kontaktowa e-mail.
         ContactName: Nazwa:
@@ -86,7 +89,9 @@ class YellowPolish {
         CoreError450Text: Nie można połączyć się z serwerem aktualizacji. Wymagane jest połączenie z Internetem.
         CoreError500Title: Błąd serwera
         CoreError500Text: Coś poszło nie tak. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Czeski/Čeština z językiem 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Duński/Dansk z językiem 'da'.
         DisqusDescription: Pokaż komentarze Disqus na blogu.
         DraftDescription: Obsługa wersji roboczych stron.
@@ -238,6 +243,7 @@ class YellowPolish {
         HungarianDescription: Węgierski/Magyar z językiem 'hu'.
         ImageDescription: Obrazy i miniatury.
         ImageDefaultAlt: Obraz bez opisu
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Osadzanie zdjęć z Instagrama.
         InstallTitle: Witaj
         InstallLanguage: Jaki jest twój język?
@@ -262,8 +268,10 @@ class YellowPolish {
         MarkdownDescription: Formatowanie tekstu dla ludzi.
         MetaDescription: Metadane dla ludzi i maszyn.
         NorwegianDescription: Norweski/Norsk z językiem 'nb'.
-        ParsedownDescription: Formatowanie tekstu dla ludzi.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris to elegancki motyw.
+        ParsedownDescription: Formatowanie tekstu dla ludzi.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polski/Polski z językiem 'pl'.
         PortugueseDescription: Portugalski/Português z językiem 'pt'.
         PreviousnextDescription: Pokaż linki do poprzedniej/następnej strony.
@@ -272,7 +280,12 @@ class YellowPolish {
         PreviousnextPageNext: Następne: @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Twórz i publikuj rozszerzenia.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Rosyjski/Русский z językiem 'ru'.
         SearchDescription: Wyszukiwanie pełnotekstowe.
         SearchResultsNone: Wpisz szukaną frazę.
@@ -285,8 +298,10 @@ class YellowPolish {
         SlovakDescription: Słowacki/Slovenčina z językiem 'sk'.
         SoundcloudDescription: Osadzanie ścieżek dźwiękowych z Soundcloud'a.
         SpanishDescription: Hiszpański/Español z językiem 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm to czysty (podstawowy) motyw.
         SwedishDescription: Szwedzki/Svenska z językiem 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: Spis treści.
         TrafficDescription: Twórz analizy ruchu z plików dziennika.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowPolish {
         WikiTag: Tagi:
         WikiSpecialPages: Wszystkie strony
         WikiSpecialChanges: Ostatnie zmiany
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Osadzanie filmów z YouTube.
 END;
     }

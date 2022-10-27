@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowSlovak {
         LanguageLocale: sk_SK
         LanguageDescription: Slovenčina
         LanguageTranslator: Ádám Tuba
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin is a theme inspired by Dieter Rams.
         BlogDescription: Blog for your website.
         BlogBy: od
@@ -37,6 +39,7 @@ class YellowSlovak {
         BreadcrumbNavigation: Breadcrumb
         BundleDescription: Bundle website files.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Command line of the website.
         ContactDescription: Email contact page.
         ContactName: Meno:
@@ -86,7 +89,9 @@ class YellowSlovak {
         CoreError450Text: Can't connect to the update server. An Internet connection is required.
         CoreError500Title: Server error
         CoreError500Text: Something went wrong. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Czech/Čeština with language 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Show Disqus comments on blog.
         DraftDescription: Support for draft pages.
@@ -238,6 +243,7 @@ class YellowSlovak {
         HungarianDescription: Hungarian/Magyar with language 'hu'.
         ImageDescription: Images and thumbnails.
         ImageDefaultAlt: Image without description
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Embed Instagram photos.
         InstallTitle: Zdravo
         InstallLanguage: Aký je váš jazyk?
@@ -262,8 +268,10 @@ class YellowSlovak {
         MarkdownDescription: Text formatting for humans.
         MetaDescription: Meta data for humans and machines.
         NorwegianDescription: Norwegian/Norsk with language 'nb'.
-        ParsedownDescription: Text formatting for humans.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris is an elegant theme.
+        ParsedownDescription: Text formatting for humans.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Show links to previous/next page.
@@ -272,7 +280,12 @@ class YellowSlovak {
         PreviousnextPageNext: Nasledujúci: @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Make and publish extensions.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Full-text search.
         SearchResultsNone: Hľadaný výraz.
@@ -285,8 +298,10 @@ class YellowSlovak {
         SlovakDescription: Slovak/Slovenčina with language 'sk'.
         SoundcloudDescription: Embed Soundcloud audio tracks.
         SpanishDescription: Spanish/Español with language 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm is a clean theme.
         SwedishDescription: Swedish/Svenska with language 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: Table of contents.
         TrafficDescription: Create traffic analytics from log files.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowSlovak {
         WikiTag: Štítky:
         WikiSpecialPages: Vse strani
         WikiSpecialChanges: Posledné zmeny
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Embed Youtube videos.
 END;
     }

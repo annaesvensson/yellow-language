@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowChinese {
         LanguageLocale: zh_CN
         LanguageDescription: 简体中文
         LanguageTranslator: Hyson Lee
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Berlin是一个漂亮的主题，灵感来自Dieter Rams.
         BlogDescription: 你网站的博客.
         BlogBy: 作者:
@@ -37,6 +39,7 @@ class YellowChinese {
         BreadcrumbNavigation: 面包屑
         BundleDescription: Bundle插件捆包CSS文件.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: 网站的命令行功能.
         ContactDescription: 邮件联系插件提供联系页面.
         ContactName: 姓名:
@@ -86,7 +89,9 @@ class YellowChinese {
         CoreError450Text: Can't connect to the update server. An Internet connection is required.
         CoreError500Title: 服务器错误
         CoreError500Text: 出错了. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: 捷克语/Čeština with language 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: 丹麦语/Dansk with language 'da'.
         DisqusDescription: Disqus插件在博客显示评论.
         DraftDescription: Draft插件支持草稿页面.
@@ -238,6 +243,7 @@ class YellowChinese {
         HungarianDescription: 匈牙利语/Magyar with language 'hu'.
         ImageDescription: 处理图片和缩略图的插件.
         ImageDefaultAlt: 图片无描述
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: 嵌入Instagram图片的插件.
         InstallTitle: 你好
         InstallLanguage: 你说什么语言？
@@ -262,8 +268,10 @@ class YellowChinese {
         MarkdownDescription: 方便人们阅读的文本格式化插件.
         MetaDescription: 人和机器的元数据.
         NorwegianDescription: 挪威语/Norsk with language 'nb'.
-        ParsedownDescription: 方便人们阅读的文本格式化插件.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Paris是一个优雅的主题.
+        ParsedownDescription: 方便人们阅读的文本格式化插件.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: 波兰语/Polski with language 'pl'.
         PortugueseDescription: 葡萄牙语/Português with language 'pt'.
         PreviousnextDescription: 显示上/下一页面链接的插件.
@@ -272,7 +280,12 @@ class YellowChinese {
         PreviousnextPageNext: 下一页 @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: 制作和发布扩展.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: 俄语/Русский with language 'ru'.
         SearchDescription: 全文搜索.
         SearchResultsNone: 请输入搜索关键字
@@ -285,8 +298,10 @@ class YellowChinese {
         SlovakDescription: 斯洛伐克语/Slovenčina with language 'sk'.
         SoundcloudDescription: 嵌入Soundcloud网站音轨的插件.
         SpanishDescription: 西班牙语/Español with language 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Stockholm是一个简洁的主题.
         SwedishDescription: 瑞典语/Svenska with language 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: 内容目录插件.
         TrafficDescription: 从日志文件创建流量分析.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowChinese {
         WikiTag: 标签:
         WikiSpecialPages: 所有页面
         WikiSpecialChanges: 最近更改
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: 嵌入Youtube网站视频.
 END;
     }

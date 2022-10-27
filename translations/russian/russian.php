@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.8.36";
+    const VERSION = "0.8.37";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -28,6 +28,8 @@ class YellowRussian {
         LanguageLocale: ru_RU
         LanguageDescription: Русский
         LanguageTranslator: Сергей Ворон
+        AntispamDescription: Alternative email address obfuscator.
+        AudioDescription: HTML5 audio player.
         BerlinDescription: Берлин - это тема, вдохновленная Dieter Rams.
         BlogDescription: Блог для вашего сайта.
         BlogBy: Автор
@@ -37,6 +39,7 @@ class YellowRussian {
         BreadcrumbNavigation: Breadcrumb
         BundleDescription: Объединение файлов веб-сайта.
         ChineseDescription: Chinese/简体中文 with language 'zh'.
+        CodefileDescription: Download code blocks as text file.
         CommandDescription: Командная строка сайта.
         ContactDescription: Страница контактов.
         ContactName: Имя:
@@ -86,7 +89,9 @@ class YellowRussian {
         CoreError450Text: Can't connect to the update server. An Internet connection is required.
         CoreError500Title: Ошибка сервера
         CoreError500Text: Что-то пошло не так. [yellow error]
+        CsvDescription: CSV file parser.
         CzechDescription: Czech/Čeština with language 'cs'.
+        DailyDescription: Show daily pages.
         DanishDescription: Danish/Dansk with language 'da'.
         DisqusDescription: Показывать комментарии Disqus в блоге.
         DraftDescription: Поддержка черновиков страниц.
@@ -238,6 +243,7 @@ class YellowRussian {
         HungarianDescription: Hungarian/Magyar with language 'hu'.
         ImageDescription: Изображения и миниатюры.
         ImageDefaultAlt: Изображение без описания
+        IncludeDescription: Includes page content from other pages.
         InstagramDescription: Вставить фото из Instagram.
         InstallTitle: Здравствуйте
         InstallLanguage: Какой твой язык?
@@ -262,8 +268,10 @@ class YellowRussian {
         MarkdownDescription: Форматирование текста для людей.
         MetaDescription: Мета-данные для людей и машин.
         NorwegianDescription: Norwegian/Norsk with language 'nb'.
-        ParsedownDescription: Форматирование текста для людей.
+        PagesourceDescription: Display Markdown source on pages.
         ParisDescription: Париж - элегантная тема.
+        ParsedownDescription: Форматирование текста для людей.
+        PodcastDescription: Web feed optimized for podcast publishing.
         PolishDescription: Polish/Polski with language 'pl'.
         PortugueseDescription: Portuguese/Português with language 'pt'.
         PreviousnextDescription: Показать ссылки на предыдущую/следующую страницу.
@@ -272,7 +280,12 @@ class YellowRussian {
         PreviousnextPageNext: Далее: @title →
         PrivateDescription: Support for password-protected pages.
         PrivatePageError: Please enter the password.
+        ProfileDescription: Author profile for blog pages.
         PublishDescription: Делайте и публикуйте расширения.
+        RadiobossDescription: Widgets for RadioBoss Cloud.
+        RandomDescription: Display random pages.
+        ReadingtimeDescription: Show estimated reading time for page content.
+        RedirectDescription: Alternative page redirection.
         RussianDescription: Russian/Русский with language 'ru'.
         SearchDescription: Полнотекстовый поиск.
         SearchResultsNone: Введите слово для поиска.
@@ -285,8 +298,10 @@ class YellowRussian {
         SlovakDescription: Slovak/Slovenčina with language 'sk'.
         SoundcloudDescription: Вставить аудио Soundcloud.
         SpanishDescription: Spanish/Español with language 'es'.
+        SpoilerDescription: Hide certain page elements.
         StockholmDescription: Стокгольм - чистая тема.
         SwedishDescription: Swedish/Svenska with language 'sv'.
+        TickerDescription: RSS feed parser.
         TocDescription: Оглавление.
         TrafficDescription: Создать аналитику трафика из лог-файлов.
         TurkishDescription: Turkish/Türkçe with language 'tr'.
@@ -301,6 +316,7 @@ class YellowRussian {
         WikiTag: Тэги:
         WikiSpecialPages: Все страницы
         WikiSpecialChanges: Последние изменения
+        WittstockDescription: Wittstock is a classless theme.
         YoutubeDescription: Вставить видео с Youtube.
 END;
     }
