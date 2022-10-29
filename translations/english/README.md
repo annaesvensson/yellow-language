@@ -1,6 +1,6 @@
-# English 0.8.37
+# English 0.8.40
 
-English/English with language 'en'.
+English/English with language `en`.
 
 <p align="center"><img src="english-screenshot.png?raw=true" alt="Screenshot"></p>
 

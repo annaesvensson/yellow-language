@@ -1,6 +1,6 @@
-# Czech 0.8.37
+# Czech 0.8.40
 
-Czech/Čeština s jazykem 'cs'.
+Czech/Čeština s jazykem `cs`.
 
 <p align="center"><img src="czech-screenshot.png?raw=true" alt="Screenshot"></p>
 

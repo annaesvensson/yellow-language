@@ -1,6 +1,6 @@
-# Turkish 0.8.37
+# Turkish 0.8.40
 
-Turkish/Türkçe 'tr' dili ile.
+Turkish/Türkçe `tr` dili ile.
 
 <p align="center"><img src="turkish-screenshot.png?raw=true" alt="Screenshot"></p>
 

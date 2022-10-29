@@ -1,6 +1,6 @@
-# Italian 0.8.37
+# Italian 0.8.40
 
-Italian/Italiano con lingua 'it'.
+Italian/Italiano con lingua `it`.
 
 <p align="center"><img src="italian-screenshot.png?raw=true" alt="Screenshot"></p>
 

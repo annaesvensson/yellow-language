@@ -1,6 +1,6 @@
-# Norwegian 0.8.37
+# Norwegian 0.8.40
 
-Norwegian/Norsk med språket 'nb'.
+Norwegian/Norsk med språket `nb`.
 
 <p align="center"><img src="norwegian-screenshot.png?raw=true" alt="Screenshot"></p>
 

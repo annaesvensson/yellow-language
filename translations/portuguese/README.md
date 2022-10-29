@@ -1,6 +1,6 @@
-# Portuguese 0.8.37
+# Portuguese 0.8.40
 
-Portuguese/Português com o idioma 'pt'.
+Portuguese/Português com o idioma `pt`.
 
 <p align="center"><img src="portuguese-screenshot.png?raw=true" alt="Screenshot"></p>
 
