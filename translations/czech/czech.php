@@ -2,13 +2,13 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.8.40";
+    const VERSION = "0.8.41";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault(array(
+        $this->yellow->language->setDefaults(array(
             "Language: cs",
             "LanguageLocale: cs_CZ",
             "LanguageDescription: Čeština",

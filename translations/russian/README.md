@@ -1,8 +1,12 @@
-# Russian 0.8.40
+# Russian 0.8.41
 
 Русский язык.
 
-<p align="center"><img src="russian-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="russian-screenshot.png?raw=true" alt="Скриншот"></p>
+
+## Настройки
+
+Язык по умолчанию определяется в файле `system/extensions/yellow-system.ini`. Другой язык можно определить в [настройках страницы](https://github.com/annaesvensson/yellow-core#settings-page) в верхней части каждой страницы, например `Language: ru`.
 
 ## Установка
 

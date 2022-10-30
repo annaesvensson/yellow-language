@@ -1,8 +1,12 @@
-# Slovak 0.8.40
+# Slovak 0.8.41
 
 Slovenský jazyk.
 
-<p align="center"><img src="slovak-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="slovak-screenshot.png?raw=true" alt="Snímka obrazovky"></p>
+
+## Nastavenie
+
+Predvolený jazyk je definovaný v súbore `system/extensions/yellow-system.ini`. Iný jazyk možno definovať v [nastaveniach stránky](https://github.com/annaesvensson/yellow-core#settings-page) v hornej časti každej stránky, napríklad `Language: sk`.
 
 ## Inštalácia
 

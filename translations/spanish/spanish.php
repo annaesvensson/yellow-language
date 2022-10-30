@@ -2,13 +2,13 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.8.40";
+    const VERSION = "0.8.41";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault(array(
+        $this->yellow->language->setDefaults(array(
             "Language: es",
             "LanguageLocale: es_ES",
             "LanguageDescription: Español",

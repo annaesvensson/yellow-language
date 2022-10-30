@@ -1,8 +1,12 @@
-# Japanese 0.8.40
+# Japanese 0.8.41
 
 日本語。
 
-<p align="center"><img src="japanese-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="japanese-screenshot.png?raw=true" alt="スクリーンショット"></p>
+
+## 設定
+
+デフォルトの言語は、ファイル `system/extensions/yellow-system.ini` で定義されています。 各ページの上部にある [ページ設定](https://github.com/annaesvensson/yellow-core#settings-page) で別の言語を定義できます。たとえば `Language: ja`。
 
 ## 取り付け
 

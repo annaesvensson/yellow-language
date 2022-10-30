@@ -1,8 +1,12 @@
-# Hungarian 0.8.40
+# Hungarian 0.8.41
 
 Magyar nyelv.
 
-<p align="center"><img src="hungarian-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="hungarian-screenshot.png?raw=true" alt="Képernyőkép"></p>
+
+## Beállítások
+
+Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások] (https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`.
 
 ## Telepítés
 

@@ -1,8 +1,12 @@
-# Spanish 0.8.40
+# Spanish 0.8.41
 
 Lengua española.
 
-<p align="center"><img src="spanish-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="spanish-screenshot.png?raw=true" alt="Captura de pantalla"></p>
+
+## Ajustes
+
+El idioma predeterminado se define en el archivo `system/extensions/yellow-system.ini`. Se puede definir un idioma diferente en la [configuración de la página] (https://github.com/annaesvensson/yellow-core#settings-page) en la parte superior de cada página, por ejemplo `Language: es`.
 
 ## Instalación
 

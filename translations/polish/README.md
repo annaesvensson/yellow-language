@@ -1,8 +1,12 @@
-# Polish 0.8.40
+# Polish 0.8.41
 
 Język polski.
 
-<p align="center"><img src="polish-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="polish-screenshot.png?raw=true" alt="Zrzut ekranu"></p>
+
+## Ustawienia
+
+Język domyślny jest zdefiniowany w pliku `system/extensions/yellow-system.ini`. Inny język można zdefiniować w [ustawieniach strony](https://github.com/annaesvensson/yellow-core#settings-page) u góry każdej strony, na przykład `Language: pl`.
 
 ## Instalacja
 

@@ -2,13 +2,13 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "0.8.40";
+    const VERSION = "0.8.41";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault(array(
+        $this->yellow->language->setDefaults(array(
             "Language: sk",
             "LanguageLocale: sk_SK",
             "LanguageDescription: Slovenčina",

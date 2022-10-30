@@ -2,13 +2,13 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.40";
+    const VERSION = "0.8.41";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault(array(
+        $this->yellow->language->setDefaults(array(
             "Language: ja",
             "LanguageLocale: ja_JP",
             "LanguageDescription: 日本語",

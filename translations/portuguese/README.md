@@ -1,8 +1,12 @@
-# Portuguese 0.8.40
+# Portuguese 0.8.41
 
 Idioma portugues.
 
-<p align="center"><img src="portuguese-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="portuguese-screenshot.png?raw=true" alt="Captura de tela"></p>
+
+## Definições
+
+O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. Um idioma diferente pode ser definido nas [configurações da página](https://github.com/annaesvensson/yellow-core#settings-page) na parte superior de cada página, por exemplo `Language: pt`.
 
 ## Instalação
 

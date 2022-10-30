@@ -2,13 +2,13 @@
 // Hungarian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian
 
 class YellowHungarian {
-    const VERSION = "0.8.40";
+    const VERSION = "0.8.41";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->language->setDefault(array(
+        $this->yellow->language->setDefaults(array(
             "Language: hu",
             "LanguageLocale: hu_HU",
             "LanguageDescription: Magyar",

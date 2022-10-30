@@ -1,8 +1,12 @@
-# Dutch 0.8.40
+# Dutch 0.8.41
 
 Nederlandse taal.
 
-<p align="center"><img src="dutch-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="dutch-screenshot.png?raw=true" alt="Schermafbeelding"></p>
+
+## Instellingen
+
+De standaardtaal is gedefinieerd in het bestand `system/extensions/yellow-system.ini`. Een andere taal kan worden gedefinieerd in de [pagina-instellingen](https://github.com/annaesvensson/yellow-core#settings-page) bovenaan elke pagina, bijvoorbeeld `Language: nl`.
 
 ## Installatie
 
