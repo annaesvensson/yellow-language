@@ -1,6 +1,6 @@
 # Spanish 0.8.40
 
-Spanish/Español con el idioma `es`.
+Lengua española.
 
 <p align="center"><img src="spanish-screenshot.png?raw=true" alt="Screenshot"></p>
 

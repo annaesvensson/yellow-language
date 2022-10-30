@@ -1,6 +1,6 @@
 # German 0.8.40
 
-German/Deutsch mit der Sprache `de`.
+Deutsche Sprache.
 
 <p align="center"><img src="german-screenshot.png?raw=true" alt="Screenshot"></p>
 

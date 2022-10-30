@@ -1,6 +1,6 @@
 # Chinese 0.8.40
 
-Chinese/简体中文 语言为 `zh`。
+简体中文。
 
 <p align="center"><img src="chinese-screenshot.png?raw=true" alt="Screenshot"></p>
 

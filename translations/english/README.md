@@ -1,6 +1,6 @@
 # English 0.8.40
 
-English/English with language `en`.
+English language.
 
 <p align="center"><img src="english-screenshot.png?raw=true" alt="Screenshot"></p>
 

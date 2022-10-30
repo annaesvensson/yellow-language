@@ -1,6 +1,6 @@
 # Slovak 0.8.40
 
-Slovak/Slovenčina s jazykom `sk`.
+Slovenský jazyk.
 
 <p align="center"><img src="slovak-screenshot.png?raw=true" alt="Screenshot"></p>
 

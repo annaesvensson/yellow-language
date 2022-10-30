@@ -1,6 +1,6 @@
 # Dutch 0.8.40
 
-Dutch/Nederlands met de taal `nl`.
+Nederlandse taal.
 
 <p align="center"><img src="dutch-screenshot.png?raw=true" alt="Screenshot"></p>
 

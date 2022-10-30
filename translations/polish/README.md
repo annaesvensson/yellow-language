@@ -1,6 +1,6 @@
 # Polish 0.8.40
 
-Polish/Polski z językiem `pl`.
+Język polski.
 
 <p align="center"><img src="polish-screenshot.png?raw=true" alt="Screenshot"></p>
 
