@@ -4,13 +4,17 @@ Magyar nyelv.
 
 <p align="center"><img src="hungarian-screenshot.png?raw=true" alt="Képernyőkép"></p>
 
+## A nyelv testreszabása
+
+Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Ezeket a beállításokat szerkesztheti, és saját nyelvi beállításait is hozzáadhatja a konfigurációs fájlhoz, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
+
 ## Beállítások
 
 Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`.
 
 ## Telepítés
 
-[Letöltési kiterjesztés](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/hungarian.zip) és másolja a ZIP fájlt a `system/extensions` mappába. Kattintson a jobb gombbal, ha Safari-t használ.
+[Letöltési kiterjesztés](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/hungarian.zip) és másolja a ZIP fájlt a `system/extensions` mappába. [További információ a bővítményekről](https://github.com/annaesvensson/yellow-update).
 
 ## Fordító
 
