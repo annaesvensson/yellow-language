@@ -6,7 +6,7 @@ Lengua española.
 
 ## Ajustes
 
-El idioma predeterminado se define en el archivo `system/extensions/yellow-system.ini`. Se puede definir un idioma diferente en la [configuración de la página] (https://github.com/annaesvensson/yellow-core#settings-page) en la parte superior de cada página, por ejemplo `Language: es`.
+El idioma predeterminado se define en el archivo `system/extensions/yellow-system.ini`. Se puede definir un idioma diferente en la [configuración de la página](https://github.com/annaesvensson/yellow-core#settings-page) en la parte superior de cada página, por ejemplo `Language: es`.
 
 ## Instalación
 

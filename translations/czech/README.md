@@ -6,7 +6,7 @@
 
 ## Nastavení
 
-Výchozí jazyk je definován v souboru `system/extensions/yellow-system.ini`. V [nastavení stránky] (https://github.com/annaesvensson/yellow-core#settings-page) v horní části každé stránky lze definovat jiný jazyk, například `Language: cs`.
+Výchozí jazyk je definován v souboru `system/extensions/yellow-system.ini`. V [nastavení stránky](https://github.com/annaesvensson/yellow-core#settings-page) v horní části každé stránky lze definovat jiný jazyk, například `Language: cs`.
 
 ## Instalace
 

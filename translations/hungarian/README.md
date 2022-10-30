@@ -6,7 +6,7 @@ Magyar nyelv.
 
 ## Beállítások
 
-Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások] (https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`.
+Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`.
 
 ## Telepítés
 
