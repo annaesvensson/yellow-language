@@ -8,8 +8,6 @@ Magyar nyelv.
 
 Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Módosíthatja ezeket a beállításokat, és hozzáadhatja saját nyelvi beállításait is, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
 
-## Beállítások
-
 Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`.
 
 ## Telepítés

@@ -8,8 +8,6 @@ Nederlandse taal.
 
 Alle taalinstellingen worden opgeslagen in het bestand `system/extensions/yellow-language.ini`. U kunt deze instellingen bewerken en ook uw eigen taalinstellingen toevoegen, bijvoorbeeld bijschriften bij afbeeldingen. Uw wijzigingen worden niet overschreven wanneer de website wordt bijgewerkt.
 
-## Instellingen
-
 De standaardtaal is gedefinieerd in het bestand `system/extensions/yellow-system.ini`. Een andere taal kan worden gedefinieerd in de [pagina-instellingen](https://github.com/annaesvensson/yellow-core#settings-page) bovenaan elke pagina, bijvoorbeeld `Language: nl`.
 
 ## Installatie

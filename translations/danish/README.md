@@ -8,8 +8,6 @@ Dansk sprog.
 
 Alle sprogindstillinger er gemt i filen `system/extensions/yellow-language.ini`. Du kan redigere disse indstillinger og også tilføje dine egne sprogindstillinger, for eksempel billedtekster. Dine ændringer vil ikke blive overskrevet, når hjemmesiden er opdateret.
 
-## Indstillinger
-
 Standardsproget er defineret i filen `system/extensions/yellow-system.ini`. Et andet sprog kan defineres i [sideindstillinger](https://github.com/annaesvensson/yellow-core#settings-page) øverst på hver side, for eksempel `Language: da`.
 
 ## Installation

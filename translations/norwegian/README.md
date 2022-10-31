@@ -8,8 +8,6 @@ Norsk språk.
 
 Alle språkinnstillinger er lagret i filen `system/extensions/yellow-language.ini`. Du kan redigere disse innstillingene og også legge til dine egne språkinnstillinger, for eksempel bildetekster. Endringene dine vil ikke bli overskrevet når nettsiden oppdateres.
 
-## Innstillinger
-
 Standardspråket er definert i filen `system/extensions/yellow-system.ini`. Et annet språk kan defineres i [sideinnstillinger](https://github.com/annaesvensson/yellow-core#settings-page) øverst på hver side, for eksempel `Language: nb`.
 
 ## Installasjon

@@ -8,8 +8,6 @@ Język polski.
 
 Wszystkie ustawienia językowe są przechowywane w pliku `system/extensions/yellow-language.ini`. Możesz edytować te ustawienia, a także dodawać własne ustawienia języka, na przykład podpisy do obrazów. Twoje zmiany nie zostaną nadpisane, gdy strona zostanie zaktualizowana.
 
-## Ustawienia
-
 Język domyślny jest zdefiniowany w pliku `system/extensions/yellow-system.ini`. Inny język można zdefiniować w [ustawieniach strony](https://github.com/annaesvensson/yellow-core#settings-page) u góry każdej strony, na przykład `Language: pl`.
 
 ## Instalacja
