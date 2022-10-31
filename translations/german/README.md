@@ -8,8 +8,6 @@ Deutsche Sprache.
 
 Alle Spracheinstellungen sind in der Datei `system/extensions/yellow-language.ini` gespeichert. Du kannst diese Einstellungen bearbeiten und auch deine eigenen Spracheinstellungen hinzufügen, beispielsweise Bildunterschriften. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
 
-## Einstellungen
-
 Der Standardsprache wird in der Datei `system/extensions/yellow-system.ini` festgelegt. Eine andere Sprache lässt sich in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md#einstellungen-seite) ganz oben auf jeder Seite festlegen, zum Beispiel `Language: de`. 
 
 ## Installation
