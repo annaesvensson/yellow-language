@@ -6,7 +6,7 @@ Slovenský jazyk.
 
 ## Ako prispôsobiť jazyk
 
-Všetky nastavenia jazykov sú uložené v súbore `system/extensions/yellow-language.ini`. Tieto nastavenia môžete upraviť a tiež pridať do konfiguračného súboru svoje vlastné jazykové nastavenia, napríklad popisky obrázkov. Vaše zmeny sa pri aktualizácii webovej stránky neprepíšu.
+Všetky nastavenia jazykov sú uložené v súbore `system/extensions/yellow-language.ini`. Tieto nastavenia môžete upraviť a tiež pridať svoje vlastné jazykové nastavenia, napríklad popisky obrázkov. Vaše zmeny sa pri aktualizácii webovej stránky neprepíšu.
 
 ## Nastavenie
 

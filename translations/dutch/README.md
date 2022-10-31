@@ -6,7 +6,7 @@ Nederlandse taal.
 
 ## Hoe een taal aan te passen
 
-Alle taalinstellingen worden opgeslagen in het bestand `system/extensions/yellow-language.ini`. U kunt deze instellingen bewerken en ook uw eigen taalinstellingen toevoegen aan het configuratiebestand, bijvoorbeeld afbeeldingsbijschriften. Uw wijzigingen worden niet overschreven wanneer de website wordt bijgewerkt.
+Alle taalinstellingen worden opgeslagen in het bestand `system/extensions/yellow-language.ini`. U kunt deze instellingen bewerken en ook uw eigen taalinstellingen toevoegen, bijvoorbeeld bijschriften bij afbeeldingen. Uw wijzigingen worden niet overschreven wanneer de website wordt bijgewerkt.
 
 ## Instellingen
 

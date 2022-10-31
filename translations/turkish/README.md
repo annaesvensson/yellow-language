@@ -6,7 +6,7 @@ Türk dili.
 
 ## Bir dil nasıl özelleştirilir
 
-Tüm dil ayarları `system/extensions/yellow-language.ini` dosyasında saklanır. Bu ayarları düzenleyebilir ve ayrıca yapılandırma dosyasına resim yazıları gibi kendi dil ayarlarınızı ekleyebilirsiniz. Web sitesi güncellendiğinde yaptığınız değişikliklerin üzerine yazılmaz.
+Tüm dil ayarları `system/extensions/yellow-language.ini` dosyasında saklanır. Bu ayarları düzenleyebilir ve ayrıca resim yazıları gibi kendi dil ayarlarınızı ekleyebilirsiniz. Web sitesi güncellendiğinde yaptığınız değişikliklerin üzerine yazılmaz.
 
 ## Ayarlar
 

@@ -6,7 +6,7 @@ Lingua italiano.
 
 ## Come personalizzare una lingua
 
-Tutte le impostazioni delle lingue sono memorizzate nel file `system/extensions/yellow-language.ini`. Puoi modificare queste impostazioni e anche aggiungere le tue impostazioni di lingua al file di configurazione, ad esempio le didascalie delle immagini. Le tue modifiche non verranno sovrascritte quando il sito web verrà aggiornato.
+Tutte le impostazioni delle lingue sono memorizzate nel file `system/extensions/yellow-language.ini`. Puoi modificare queste impostazioni e anche aggiungere le tue impostazioni di lingua, ad esempio le didascalie delle immagini. Le tue modifiche non verranno sovrascritte quando il sito web verrà aggiornato.
 
 ## Impostazioni
 

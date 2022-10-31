@@ -6,7 +6,7 @@
 
 ## Jak přizpůsobit jazyk
 
-Všechna nastavení jazyků jsou uložena v souboru `system/extensions/yellow-language.ini`. Tato nastavení můžete upravit a také přidat do konfiguračního souboru vlastní jazyková nastavení, například popisky obrázků. Vaše změny nebudou při aktualizaci webu přepsány.
+Všechna nastavení jazyků jsou uložena v souboru `system/extensions/yellow-language.ini`. Tato nastavení můžete upravit a také přidat vlastní jazyková nastavení, například popisky obrázků. Vaše změny nebudou při aktualizaci webu přepsány.
 
 ## Nastavení
 

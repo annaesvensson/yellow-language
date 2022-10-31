@@ -6,7 +6,7 @@ Svenska språket.
 
 ## Hur man anpassar ett språk
 
-Alla språkinställningar lagras i filen `system/extensions/yellow-language.ini`. Du kan redigera dessa inställningar och även lägga till dina egna språkinställningar i konfigurationsfilen, till exempel bildtexter. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
+Alla språkinställningar lagras i filen `system/extensions/yellow-language.ini`. Du kan redigera dessa inställningar och även lägga till dina egna språkinställningar, till exempel bildtexter. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
 
 ## Inställningar
 

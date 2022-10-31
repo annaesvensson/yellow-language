@@ -6,7 +6,7 @@ English language.
 
 ## How to customise a language
 
-All languages settings are stored in file `system/extensions/yellow-language.ini`. You can edit these settings and also add your own language settings to the configuration file, for example image captions. Your changes will not be overwritten when the website is updated.
+All languages settings are stored in file `system/extensions/yellow-language.ini`. You can edit these settings and also add your own language settings, for example image captions. Your changes will not be overwritten when the website is updated.
 
 ## Settings
 

@@ -6,7 +6,7 @@ Langue française.
 
 ## Comment personnaliser une langue
 
-Tous les paramètres de langues sont stockés dans le fichier `system/extensions/yellow-language.ini`. Vous pouvez modifier ces paramètres et également ajouter vos propres paramètres de langue au fichier de configuration, par exemple des légendes d'image. Vos modifications ne seront pas écrasées lors de la mise à jour du site web.
+Tous les paramètres de langues sont stockés dans le fichier `system/extensions/yellow-language.ini`. Vous pouvez modifier ces paramètres et également ajouter vos propres paramètres de langue, par exemple des légendes d'image. Vos modifications ne seront pas écrasées lors de la mise à jour du site web.
 
 ## Réglages
 

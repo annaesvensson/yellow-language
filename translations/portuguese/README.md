@@ -6,7 +6,7 @@ Idioma portugues.
 
 ## Como personalizar um idioma
 
-Todas as configurações de idiomas são armazenadas no arquivo `system/extensions/yellow-language.ini`. Você pode editar essas configurações e também adicionar suas próprias configurações de idioma ao arquivo de configuração, por exemplo, legendas de imagens. Suas alterações não serão substituídas quando o site for atualizado.
+Todas as configurações de idiomas são armazenadas no arquivo `system/extensions/yellow-language.ini`. Você pode editar essas configurações e também adicionar suas próprias configurações de idioma, por exemplo, legendas de imagens. Suas alterações não serão substituídas quando o site for atualizado.
 
 ## Definições
 

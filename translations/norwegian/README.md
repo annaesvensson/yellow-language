@@ -6,7 +6,7 @@ Norsk språk.
 
 ## Hvordan tilpasse et språk
 
-Alle språkinnstillinger er lagret i filen `system/extensions/yellow-language.ini`. Du kan redigere disse innstillingene og også legge til dine egne språkinnstillinger i konfigurasjonsfilen, for eksempel bildetekster. Endringene dine vil ikke bli overskrevet når nettsiden oppdateres.
+Alle språkinnstillinger er lagret i filen `system/extensions/yellow-language.ini`. Du kan redigere disse innstillingene og også legge til dine egne språkinnstillinger, for eksempel bildetekster. Endringene dine vil ikke bli overskrevet når nettsiden oppdateres.
 
 ## Innstillinger
 

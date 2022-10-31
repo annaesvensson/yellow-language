@@ -6,7 +6,7 @@ Magyar nyelv.
 
 ## A nyelv testreszabása
 
-Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Ezeket a beállításokat szerkesztheti, és saját nyelvi beállításait is hozzáadhatja a konfigurációs fájlhoz, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
+Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Módosíthatja ezeket a beállításokat, és hozzáadhatja saját nyelvi beállításait is, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
 
 ## Beállítások
 

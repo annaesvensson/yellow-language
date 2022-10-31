@@ -6,7 +6,7 @@ Dansk sprog.
 
 ## Hvordan man tilpasser et sprog
 
-Alle sprogindstillinger er gemt i filen `system/extensions/yellow-language.ini`. Du kan redigere disse indstillinger og også tilføje dine egne sprogindstillinger til konfigurationsfilen, for eksempel billedtekster. Dine ændringer vil ikke blive overskrevet, når hjemmesiden er opdateret.
+Alle sprogindstillinger er gemt i filen `system/extensions/yellow-language.ini`. Du kan redigere disse indstillinger og også tilføje dine egne sprogindstillinger, for eksempel billedtekster. Dine ændringer vil ikke blive overskrevet, når hjemmesiden er opdateret.
 
 ## Indstillinger
 

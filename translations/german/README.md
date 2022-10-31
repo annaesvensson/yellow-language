@@ -6,7 +6,7 @@ Deutsche Sprache.
 
 ## Wie man eine Sprache anpasst
 
-Alle Spracheinstellungen sind in der Datei `system/extensions/yellow-language.ini` gespeichert. Du kannst diese Einstellungen bearbeiten auch deine eigenen Spracheinstellungen zur Konfigurationsdatei hinzufügen, beispielsweise Bildunterschriften. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
+Alle Spracheinstellungen sind in der Datei `system/extensions/yellow-language.ini` gespeichert. Du kannst diese Einstellungen bearbeiten und auch deine eigenen Spracheinstellungen hinzufügen, beispielsweise Bildunterschriften. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
 
 ## Einstellungen
 

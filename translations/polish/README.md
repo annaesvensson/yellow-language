@@ -6,7 +6,7 @@ Język polski.
 
 ## Jak dostosować język
 
-Wszystkie ustawienia językowe są przechowywane w pliku `system/extensions/yellow-language.ini`. Możesz edytować te ustawienia, a także dodawać własne ustawienia językowe do pliku konfiguracyjnego, na przykład podpisy do obrazów. Twoje zmiany nie zostaną nadpisane, gdy strona zostanie zaktualizowana.
+Wszystkie ustawienia językowe są przechowywane w pliku `system/extensions/yellow-language.ini`. Możesz edytować te ustawienia, a także dodawać własne ustawienia języka, na przykład podpisy do obrazów. Twoje zmiany nie zostaną nadpisane, gdy strona zostanie zaktualizowana.
 
 ## Ustawienia
 
