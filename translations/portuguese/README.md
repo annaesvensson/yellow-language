@@ -8,7 +8,7 @@ Idioma portugues.
 
 Todas as configurações de idiomas são armazenadas no arquivo `system/extensions/yellow-language.ini`. Você pode editar essas configurações e também adicionar suas próprias configurações de idioma, por exemplo, legendas de imagens. Suas alterações não serão substituídas quando o site for atualizado.
 
-O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. Um idioma diferente pode ser definido nas [configurações da página](https://github.com/annaesvensson/yellow-core#settings-page) na parte superior de cada página, por exemplo `Language: pt`.
+O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. Um idioma diferente pode ser definido nas [configurações da página](https://github.com/annaesvensson/yellow-core#settings-page) na parte superior de cada página, por exemplo `Language: pt`. [Saiba mais sobre idiomas](https://datenstrom.se/yellow/help/how-to-customise-a-language).
 
 ## Instalação
 
