@@ -228,7 +228,7 @@ class YellowHungarian {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: Image without description",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Helló",
             "InstallLanguage: Mi a nyelved?",

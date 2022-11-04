@@ -228,7 +228,7 @@ class YellowJapanese {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: 説明のない画像",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: こんにちは",
             "InstallLanguage: あなたの言語は何ですか？",

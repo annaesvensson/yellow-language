@@ -228,7 +228,7 @@ class YellowChinese {
             "HungarianDescription: 匈牙利语.",
             "ImageDescription: 处理图片和缩略图的插件.",
             "ImageDefaultAlt: 图片无描述",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: 嵌入Instagram图片的插件.",
             "InstallTitle: 你好",
             "InstallLanguage: 你说什么语言？",

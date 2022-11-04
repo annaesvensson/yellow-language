@@ -228,7 +228,7 @@ class YellowSlovak {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: Image without description",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Zdravo",
             "InstallLanguage: Aký je váš jazyk?",

@@ -228,7 +228,7 @@ class YellowRussian {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Изображения и миниатюры.",
             "ImageDefaultAlt: Изображение без описания",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Вставить фото из Instagram.",
             "InstallTitle: Здравствуйте",
             "InstallLanguage: Какой твой язык?",

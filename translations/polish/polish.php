@@ -228,7 +228,7 @@ class YellowPolish {
             "HungarianDescription: Język węgierski.",
             "ImageDescription: Obrazy i miniatury.",
             "ImageDefaultAlt: Obraz bez opisu",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Osadzanie zdjęć z Instagrama.",
             "InstallTitle: Witaj",
             "InstallLanguage: Jaki jest twój język?",

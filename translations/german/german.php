@@ -228,7 +228,7 @@ class YellowGerman {
             "HungarianDescription: Ungarische Sprache.",
             "ImageDescription: Bilder in unterschiedlichen Größen.",
             "ImageDefaultAlt: Bild ohne Beschreibung",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Seiteninhalt von anderen Seiten einbinden.",
             "InstagramDescription: Instagram-Fotos einbinden.",
             "InstallTitle: Hallo",
             "InstallLanguage: Was ist deine Sprache?",

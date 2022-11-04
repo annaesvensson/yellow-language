@@ -228,7 +228,7 @@ class YellowTurkish {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Görüntüler ve küçük resimler.",
             "ImageDefaultAlt: Açıklama olmayan resim",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Instagram fotoğraflarını yerleştirin.",
             "InstallTitle: Merhaba",
             "InstallLanguage: Dilin nedir?",

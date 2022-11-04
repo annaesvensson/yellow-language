@@ -228,7 +228,7 @@ class YellowDanish {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: Image without description",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Hej",
             "InstallLanguage: Hvad er dit sprog?",

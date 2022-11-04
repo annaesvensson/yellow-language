@@ -228,7 +228,7 @@ class YellowFrench {
             "HungarianDescription: Hungarian language.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: Image sans description",
-            "IncludeDescription: Includes page content from other pages.",
+            "IncludeDescription: Include page content from other pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Bonjour",
             "InstallLanguage: Quelle langue parles-tu ?",
