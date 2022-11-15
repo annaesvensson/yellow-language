@@ -1,4 +1,4 @@
-# Spanish 0.8.41
+# Spanish 0.8.42
 
 Lengua española.
 

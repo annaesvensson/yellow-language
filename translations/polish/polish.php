@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowPolish {
             "EditToolbarTl: ✓ Lista zadań",
             "EditToolbarLink: Link",
             "EditToolbarFile: Plik",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Ikona",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Ikona",
             "EditToolbarStatus: Status",
             "EditToolbarUndo: Cofnij",
             "EditToolbarRedo: Ponów",
@@ -213,10 +213,9 @@ class YellowPolish {
             "EditMenuLogout: Wyloguj",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Całe mnóstwo emoji.",
+            "EmojiDescription: Całe mnóstwo emoji.",
             "EnglishDescription: Język angielski.",
             "FeedDescription: RSS z ostatnimi zmianami.",
-            "FontawesomeDescription: Ikony i symbole.",
             "FrenchDescription: Język francuski.",
             "GalleryDescription: Galeria zdjęć z wyskakującym okienkiem.",
             "GermanDescription: Język niemiecki.",
@@ -226,6 +225,7 @@ class YellowPolish {
             "HelpDescription: Pomoc dla Twojej strony.",
             "HighlightDescription: Podświetl kod źródłowy.",
             "HungarianDescription: Język węgierski.",
+            "IconDescription: Ikony i symbole.",
             "ImageDescription: Obrazy i miniatury.",
             "ImageDefaultAlt: Obraz bez opisu",
             "IncludeDescription: Include page content from other pages.",

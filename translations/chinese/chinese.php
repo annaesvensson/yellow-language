@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowChinese {
             "EditToolbarTl: ✓ 任务列表",
             "EditToolbarLink: 链接",
             "EditToolbarFile: 文件",
-            "EditToolbarEmojiawesome: 表情符",
-            "EditToolbarFontawesome: 图标",
+            "EditToolbarEmoji: 表情符",
+            "EditToolbarIcon: 图标",
             "EditToolbarStatus: 状态",
             "EditToolbarUndo: 恢复",
             "EditToolbarRedo: 重做",
@@ -213,10 +213,9 @@ class YellowChinese {
             "EditMenuLogout: 登出",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Emoji插件提供很多很多的表情符号.",
+            "EmojiDescription: Emoji插件提供很多很多的表情符号.",
             "EnglishDescription: 英文.",
             "FeedDescription: Feed插件订阅最近更新的文章.",
-            "FontawesomeDescription: Fa插件提供图标和符号.",
             "FrenchDescription: 法语.",
             "GalleryDescription: 带图片弹窗的相册插件.",
             "GermanDescription: 德语.",
@@ -226,6 +225,7 @@ class YellowChinese {
             "HelpDescription: Help插件提供网站帮助.",
             "HighlightDescription: 高亮显示源代码的插件.",
             "HungarianDescription: 匈牙利语.",
+            "IconDescription: Fa插件提供图标和符号.",
             "ImageDescription: 处理图片和缩略图的插件.",
             "ImageDefaultAlt: 图片无描述",
             "IncludeDescription: Include page content from other pages.",

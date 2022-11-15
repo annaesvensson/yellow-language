@@ -1,4 +1,4 @@
-# German 0.8.41
+# German 0.8.42
 
 Deutsche Sprache.
 

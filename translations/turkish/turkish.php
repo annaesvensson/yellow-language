@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowTurkish {
             "EditToolbarTl: ✓ Görev listesi",
             "EditToolbarLink: Bağlantı",
             "EditToolbarFile: Dosya",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Icon",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Icon",
             "EditToolbarStatus: Durum",
             "EditToolbarUndo: Geri alma",
             "EditToolbarRedo: Yeniden yap",
@@ -213,10 +213,9 @@ class YellowTurkish {
             "EditMenuLogout: Çıkış",
             "EditYellowUrl: https://datenstrom.se",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Bir sürü emoji.",
+            "EmojiDescription: Bir sürü emoji.",
             "EnglishDescription: English language.",
             "FeedDescription: Son değişikliklerle besleyin.",
-            "FontawesomeDescription: Simgeler ve semboller.",
             "FrenchDescription: French language.",
             "GalleryDescription: Açılır pencereli resim galerisi.",
             "GermanDescription: German language.",
@@ -226,6 +225,7 @@ class YellowTurkish {
             "HelpDescription: Web siteniz için yardım.",
             "HighlightDescription: Kaynak kodunu vurgulayın.",
             "HungarianDescription: Hungarian language.",
+            "IconDescription: Simgeler ve semboller.",
             "ImageDescription: Görüntüler ve küçük resimler.",
             "ImageDefaultAlt: Açıklama olmayan resim",
             "IncludeDescription: Include page content from other pages.",

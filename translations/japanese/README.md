@@ -1,4 +1,4 @@
-# Japanese 0.8.41
+# Japanese 0.8.42
 
 日本語。
 

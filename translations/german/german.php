@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowGerman {
             "EditToolbarTl: ✓ Aufgabenliste",
             "EditToolbarLink: Link",
             "EditToolbarFile: Datei",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Symbol",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Icon",
             "EditToolbarStatus: Status",
             "EditToolbarUndo: Rückgängig",
             "EditToolbarRedo: Wiederholen",
@@ -213,10 +213,9 @@ class YellowGerman {
             "EditMenuLogout: Abmelden",
             "EditYellowUrl: https://datenstrom.se/de/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/de/yellow/help/",
-            "EmojiawesomeDescription: Jede Menge Emoji.",
+            "EmojiDescription: Jede Menge Emoji.",
             "EnglishDescription: Englische Sprache.",
             "FeedDescription: Feed mit letzten Änderungen.",
-            "FontawesomeDescription: Icons und Symbole.",
             "FrenchDescription: Französische Sprache.",
             "GalleryDescription: Bildergalerie mit Popup.",
             "GermanDescription: Deutsche Sprache.",
@@ -226,6 +225,7 @@ class YellowGerman {
             "HelpDescription: Hilfe für deine Webseite.",
             "HighlightDescription: Quellcode hervorheben.",
             "HungarianDescription: Ungarische Sprache.",
+            "IconDescription: Icons und Symbole.",
             "ImageDescription: Bilder in unterschiedlichen Größen.",
             "ImageDefaultAlt: Bild ohne Beschreibung",
             "IncludeDescription: Seiteninhalt von anderen Seiten einbinden.",

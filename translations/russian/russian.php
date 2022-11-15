@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowRussian {
             "EditToolbarTl: ✓ Список заданий",
             "EditToolbarLink: Ссылка",
             "EditToolbarFile: Файл",
-            "EditToolbarEmojiawesome: Эмо́дзи",
-            "EditToolbarFontawesome: Иконка",
+            "EditToolbarEmoji: Эмо́дзи",
+            "EditToolbarIcon: Иконка",
             "EditToolbarStatus: Статус",
             "EditToolbarUndo: Отменить",
             "EditToolbarRedo: Повторить",
@@ -213,10 +213,9 @@ class YellowRussian {
             "EditMenuLogout: Выход",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Множество смайлов.",
+            "EmojiDescription: Множество смайлов.",
             "EnglishDescription: English language.",
             "FeedDescription: Лента с последними изменениями.",
-            "FontawesomeDescription: Иконки и символы.",
             "FrenchDescription: French language.",
             "GalleryDescription: Галерея изображений в всплывающем окне.",
             "GermanDescription: German language.",
@@ -226,6 +225,7 @@ class YellowRussian {
             "HelpDescription: Помощь для вашего сайта.",
             "HighlightDescription: Подсветка исходного кода.",
             "HungarianDescription: Hungarian language.",
+            "IconDescription: Иконки и символы.",
             "ImageDescription: Изображения и миниатюры.",
             "ImageDefaultAlt: Изображение без описания",
             "IncludeDescription: Include page content from other pages.",

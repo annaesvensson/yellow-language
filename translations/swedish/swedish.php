@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowSwedish {
             "EditToolbarTl: ✓ Uppgiftslista",
             "EditToolbarLink: Länk",
             "EditToolbarFile: Fil",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Symbol",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Ikon",
             "EditToolbarStatus: Status",
             "EditToolbarUndo: Ångra",
             "EditToolbarRedo: Gör om",
@@ -213,10 +213,9 @@ class YellowSwedish {
             "EditMenuLogout: Logga ut",
             "EditYellowUrl: https://datenstrom.se/sv/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/sv/yellow/help/",
-            "EmojiawesomeDescription: Massor och massor av emoji.",
+            "EmojiDescription: Massor och massor av emoji.",
             "EnglishDescription: Engelska språket.",
             "FeedDescription: Feed med senaste ändringarna.",
-            "FontawesomeDescription: Ikoner och symboler.",
             "FrenchDescription: Franska språket.",
             "GalleryDescription: Bildgalleri med popup.",
             "GermanDescription: Tyska språket.",
@@ -226,6 +225,7 @@ class YellowSwedish {
             "HelpDescription: Hjälp för din webbplats.",
             "HighlightDescription: Markera källkod.",
             "HungarianDescription: Ungerska språket.",
+            "IconDescription: Ikoner och symboler.",
             "ImageDescription: Bilder och miniatyrbilder.",
             "ImageDefaultAlt: Bild utan beskrivning",
             "IncludeDescription: Inkludera sidinnehåll från andra sidor.",

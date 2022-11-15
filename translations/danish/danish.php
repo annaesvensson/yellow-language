@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowDanish {
             "EditToolbarTl: ✓ Task list",
             "EditToolbarLink: Link",
             "EditToolbarFile: File",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Icon",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Icon",
             "EditToolbarStatus: Status",
             "EditToolbarUndo: Undo",
             "EditToolbarRedo: Redo",
@@ -213,10 +213,9 @@ class YellowDanish {
             "EditMenuLogout: Log ud",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Lots and lots of emoji.",
+            "EmojiDescription: Lots and lots of emoji.",
             "EnglishDescription: English language.",
             "FeedDescription: Feed with recent changes.",
-            "FontawesomeDescription: Icons and symbols.",
             "FrenchDescription: French language.",
             "GalleryDescription: Image gallery with popup.",
             "GermanDescription: German language.",
@@ -226,6 +225,7 @@ class YellowDanish {
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
+            "IconDescription: Icons and symbols.",
             "ImageDescription: Images and thumbnails.",
             "ImageDefaultAlt: Image without description",
             "IncludeDescription: Include page content from other pages.",

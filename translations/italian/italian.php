@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.8.41";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -197,8 +197,8 @@ class YellowItalian {
             "EditToolbarTl: ✓ Elenco attività",
             "EditToolbarLink: Link",
             "EditToolbarFile: File",
-            "EditToolbarEmojiawesome: Emoji",
-            "EditToolbarFontawesome: Icona",
+            "EditToolbarEmoji: Emoji",
+            "EditToolbarIcon: Icona",
             "EditToolbarStatus: Stato",
             "EditToolbarUndo: Annulla",
             "EditToolbarRedo: Ripeti",
@@ -213,10 +213,9 @@ class YellowItalian {
             "EditMenuLogout: Esci",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
-            "EmojiawesomeDescription: Tantissime emoji.",
+            "EmojiDescription: Tantissime emoji.",
             "EnglishDescription: Lingua inglese.",
             "FeedDescription: Canale RSS con le modifiche recenti.",
-            "FontawesomeDescription: Icone e simboli.",
             "FrenchDescription: Lingua francese.",
             "GalleryDescription: Galleria di immagini con popup.",
             "GermanDescription: Lingua tedesco.",
@@ -226,6 +225,7 @@ class YellowItalian {
             "HelpDescription: Aiuto per il tuo sito.",
             "HighlightDescription: Evidenzia sintatticamente il codice sorgente.",
             "HungarianDescription: Lingua ungherese.",
+            "IconDescription: Icone e simboli.",
             "ImageDescription: Immagini e miniature.",
             "ImageDefaultAlt: Immagine senza descrizione",
             "IncludeDescription: Include page content from other pages.",
