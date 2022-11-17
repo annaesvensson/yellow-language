@@ -12,7 +12,7 @@ Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-
 
 ## Danksagung
 
-Diese Erweiterung enthält Übersetzungen verschiedener Mitwirkender. Danke für die tolle Arbeit.
+Diese Erweiterung enthält Übersetzungen von [verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die tolle Arbeit.
 
 ## Installation
 
