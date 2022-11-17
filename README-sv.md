@@ -12,7 +12,7 @@ Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-languag
 
 ## Tack
 
-Detta tilläg innehåller översättningar av [olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för det fantastiska arbetet.
+Detta tilläg innehåller översättningar av [olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
 
 ## Installation
 

@@ -12,7 +12,7 @@ Start with the [English language file](https://github.com/annaesvensson/yellow-l
 
 ## Acknowledgments
 
-This extension includes translations by [various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thanks for the great work.
+This extension includes translations by [various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
 
 ## Installation
 
