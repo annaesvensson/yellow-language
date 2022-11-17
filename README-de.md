@@ -10,6 +10,10 @@
 
 Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder einer der [vorhandenen Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Die installierten Sprachen befinden sich im `system/extensions`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Lade deine Übersetzung zu GitHub hoch, lass uns wissen falls du Hilfe brauchst.
 
+## Danksagung
+
+Diese Erweiterung enthält Übersetzungen verschiedener Mitwirkender. Danke für die tolle Arbeit.
+
 ## Installation
 
 Diese Erweiterung ist Teil der [Standardinstallation](https://github.com/datenstrom/yellow) und kann nicht einzeln installiert werden.
