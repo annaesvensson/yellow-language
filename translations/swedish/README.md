@@ -6,7 +6,7 @@ Svenska språket.
 
 ## Hur man installerar ett tillägg
 
-[Ladda ner ZIP-filen]((https://github.com/datenstrom/yellow-extensions/raw/main/downloads/swedish.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+[Ladda ner ZIP-filen](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/swedish.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Hur man anpassar ett språk
 
