@@ -16,7 +16,7 @@ Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-
 
 ## Danksagung
 
-Diese Erweiterung enthält Übersetzungen von [verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
+Diese Erweiterung enthält [Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/translations) von [verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
 
 ## Entwickler
 

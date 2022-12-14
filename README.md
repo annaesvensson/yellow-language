@@ -16,7 +16,7 @@ Start with the [English language file](https://github.com/annaesvensson/yellow-l
 
 ## Acknowledgements
 
-This extension includes translations by [various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
+This extension includes [translations](https://github.com/annaesvensson/yellow-language/tree/main/translations) by [various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
 
 ## Developer
 
