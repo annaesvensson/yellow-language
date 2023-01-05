@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.8.43";
+    const VERSION = "0.8.42";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -72,7 +72,7 @@ class YellowCzech {
             "CoreError450Title: Chyba aktualizace",
             "CoreError450Text: Nelze se připojit k aktualizačnímu serveru. Je vyžadováno internetové spojení.",
             "CoreError500Title: Chyba serveru",
-            "CoreError500Text: Něco se pokazilo. =( [yellow error]",
+            "CoreError500Text: Něco se pokazilo. [yellow error]",
             "CsvDescription: Parser CSV souborů.",
             "CzechDescription: Čeština.",
             "DailyDescription: Ukázat denní stránky.",
