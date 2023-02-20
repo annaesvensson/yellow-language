@@ -1,5 +1,5 @@
 <?php
-// Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
+// Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
     const VERSION = "0.8.42";
