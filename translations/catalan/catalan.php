@@ -3,7 +3,8 @@
 
 class YellowCatalan {
     const VERSION = "0.8.42";
-    public $yellow;         // access to API  
+    public $yellow;         // access to API
+    
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
@@ -62,7 +63,7 @@ class YellowCatalan {
             "CoreError404Title: Arxiu no trobat",
             "CoreError404Text: L'arxiu sol·licitat no s'ha trobat. Oh no...",
             "CoreError420Title: Pàgina no pública",
-            "CoreError420Text: La pàgina sol·licitada no és pública. [error groc]",
+            "CoreError420Text: La pàgina sol·licitada no és pública. [yellow error]",
             "CoreError430Title: L'inici de sessió ha fallat",
             "CoreError430Text: El correu electrònic o la contrasenya són incorrectes. [Si us plau, torna-ho a provar](#data-action-login).",
             "CoreError434Title: Pàgina no trobada",
@@ -72,7 +73,7 @@ class YellowCatalan {
             "CoreError450Title: Error d'actualització",
             "CoreError450Text: No es pot connectar al servidor d'actualització. Cal una connexió a Internet.",
             "CoreError500Title: Error del servidor",
-            "CoreError500Text: S'ha produït un error. [error groc]",
+            "CoreError500Text: S'ha produït un error. [yellow error]",
             "CsvDescription: Analitzador de fitxers CSV.",
             "CzechDescription: Llengua txeca.",
             "DailyDescription: Mostra les pàgines diàries.",
@@ -323,6 +324,7 @@ class YellowCatalan {
             "Descripció de Wittstock: Wittstock és un tema sense classe.",
             "YoutubeDescription: Incrusta vídeos de Youtube."));
     }
+    
     // Handle update
     public function onUpdate($action) {
         $fileName = $this->yellow->system->get("coreExtensionDirectory").$this->yellow->system->get("coreSystemFile");
