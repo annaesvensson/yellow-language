@@ -22,6 +22,7 @@ class YellowDutch {
             "BreadcrumbDescription: Breadcrumb navigation.",
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Bundle website files.",
+            "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: Command line of the website.",

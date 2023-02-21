@@ -22,6 +22,7 @@ class YellowGerman {
             "BreadcrumbDescription: Brotkrümel-Navigation.",
             "BreadcrumbNavigation: Brotkrümel",
             "BundleDescription: Webseiten-Dateien bündeln.",
+            "CatalanDescription: Katalanische Sprache.",
             "ChineseDescription: Chinesische Sprache.",
             "CodefileDescription: Code-Blöcke als Textdatei herunterladen.",
             "CommandDescription: Befehlszeile der Webseite.",

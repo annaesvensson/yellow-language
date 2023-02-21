@@ -22,6 +22,7 @@ class YellowChinese {
             "BreadcrumbDescription: Breadcrumb (面包屑)导航插件.",
             "BreadcrumbNavigation: 面包屑",
             "BundleDescription: Bundle插件捆包CSS文件.",
+            "CatalanDescription: 加泰罗尼亚语。",
             "ChineseDescription: 简体中文。",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: 网站的命令行功能.",

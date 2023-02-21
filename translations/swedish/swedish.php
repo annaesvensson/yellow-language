@@ -22,6 +22,7 @@ class YellowSwedish {
             "BreadcrumbDescription: Brödcrumbnavigering.",
             "BreadcrumbNavigation: Brödcrumb",
             "BundleDescription: Bundla webbplatsfiler.",
+            "CatalanDescription: Katalanska språket.",
             "ChineseDescription: Kinesiska språket.",
             "CodefileDescription: Ladda ner kodblock som textfil.",
             "CommandDescription: Webbplatsens kommandorad.",

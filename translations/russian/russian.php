@@ -22,6 +22,7 @@ class YellowRussian {
             "BreadcrumbDescription: Навигация по навигационным цепочкам.",
             "BreadcrumbNavigation: Навигационная цепочка",
             "BundleDescription: Объединение файлов сайта.",
+            "CatalanDescription: Каталонский язык.",
             "ChineseDescription: Китайский язык.",
             "CodefileDescription: Скачать блоки кода в виде текстового файла.",
             "CommandDescription: Командная строка сайта.",

@@ -22,6 +22,7 @@ class YellowJapanese {
             "BreadcrumbDescription: Breadcrumb navigation.",
             "BreadcrumbNavigation: ブレッドクラム",
             "BundleDescription: Bundle website files.",
+            "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: Command line of the website.",

@@ -22,6 +22,7 @@ class YellowPolish {
             "BreadcrumbDescription: Nawigacja okruszkowa (breadcrumb).",
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Połącz pliki strony internetowej w zestawy.",
+            "CatalanDescription: Język kataloński.",
             "ChineseDescription: Język chińsk.",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: Wiersz poleceń witryny.",

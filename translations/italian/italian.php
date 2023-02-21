@@ -22,6 +22,7 @@ class YellowItalian {
             "BreadcrumbDescription: Percorso di navigazione.",
             "BreadcrumbNavigation: Percorso",
             "BundleDescription: Aggrega i file del sito.",
+            "CatalanDescription: Lingua catalana.",
             "ChineseDescription: Lingua cinese.",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: Linea di comando del sito.",

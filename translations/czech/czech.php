@@ -22,6 +22,7 @@ class YellowCzech {
             "BreadcrumbDescription: Drobečková navigace.",
             "BreadcrumbNavigation: Drobečkování",
             "BundleDescription: Bundle website files.",
+            "CatalanDescription: Katalánština.",
             "ChineseDescription: Čínština.",
             "CodefileDescription: Stáhnout bloky kódu jako texťák.",
             "CommandDescription: Příkazový řádek webu.",

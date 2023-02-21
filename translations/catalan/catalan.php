@@ -211,8 +211,8 @@ class YellowCatalan {
             "EditToolbarQuote: Cita",
             "EditToolbarBold: Negreta",
             "EditToolbarItalic: Cursiva",
-            "EditToolbar Strikethrough: Taxat",
-            "EditaToolbarCode: Codi",
+            "EditToolbarStrikethrough: Taxat",
+            "EditToolbarCode: Codi",
             "EditToolbarList: Llista",
             "EditToolbarUl: • Llista no ordenada",
             "EditToolbarOl: 1. Llista ordenada",
@@ -321,7 +321,7 @@ class YellowCatalan {
             "WikiTag: Etiquetes:",
             "WikiSpecialPages: Totes les pàgines",
             "WikiSpecialChanges: Canvis recents",
-            "Descripció de Wittstock: Wittstock és un tema sense classe.",
+            "WittstockDescription: Wittstock és un tema sense classe.",
             "YoutubeDescription: Incrusta vídeos de Youtube."));
     }
     

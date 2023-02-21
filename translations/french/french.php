@@ -22,6 +22,7 @@ class YellowFrench {
             "BreadcrumbDescription: Breadcrumb navigation.",
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Bundle website files.",
+            "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
             "CommandDescription: Ligne de commande du site web.",
