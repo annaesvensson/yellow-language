@@ -259,7 +259,7 @@ class YellowCatalan {
             "InstallExtensionWiki: Petit wiki",
             "InstallButton: Instal·lar",
             "InstallHomeTitle: Inici",
-            "InstallHomeText: [image photo.jpg Exemple arrodonit]\\n\\n[editar - Podeu editar aquesta pàgina en un navegador web](edit) o utilitzar un editor de text. [Consulteu ajuda](https://datenstrom.se/yellow /ajuda/).",
+            "InstallHomeText: [image photo.jpg Exemple rounded]\\n\\n[edit - Podeu editar aquesta pàgina en un navegador web] o utilitzar un editor de text. [Consulteu ajuda](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Sobre",
             "InstallAboutText: [Fet amb Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Pàgina",
