@@ -6,9 +6,9 @@ Translations for your website.
 
 <p align="center"><img src="language-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How to install a website
+## How to install a translation
 
-Installing is unzipping one file and you are ready to go. First the installer checks whether all requirements have been met, for example whether your web server is working properly. Then the installer offers you to create a user account and helps you with setting up your website. Select what you want to do and click `Install`. After the installer has done its work it will delete itself. [Learn more about installation](https://datenstrom.se/yellow/help/how-to-get-started).
+[Select language](https://github.com/annaesvensson/yellow-language/tree/main/translations), download and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to make a translation
 
@@ -16,7 +16,7 @@ Start with the [English language file](https://github.com/annaesvensson/yellow-l
 
 ## Acknowledgements
 
-This extension includes [translations](https://github.com/annaesvensson/yellow-language/tree/main/translations) by [various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
+This extension includes [translations by various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
 
 ## Developer
 
