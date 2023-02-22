@@ -6,9 +6,9 @@
 
 <p align="center"><img src="language-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
-## Wie man eine Webseite installiert
+## Wie man eine Übersetzung installiert
 
-Zum Installieren entpackt man eine Datei und los geht's. Zuerst überprüft das Installationsprogramm ob alle Anforderungen erfüllt sind, zum Beispiel ob dein Webserver richtig funktioniert. Dann bietet dir das Installationsprogramm an ein Benutzerkonto anzulegen und hilft dir beim Einrichten deiner Webseite. Wähle aus was du machen willst und klicke auf `Installieren`. Nachdem das Installationsprogramm seine Arbeit erledigt hat löscht es sich von selbst. [Weitere Informationen zur Installation](https://datenstrom.se/de/yellow/help/how-to-get-started).
+[Sprache auswählen](https://github.com/annaesvensson/yellow-language/tree/main/translations), herunterladen und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Wie man eine Übersetzung erstellt 
 
@@ -16,7 +16,7 @@ Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-
 
 ## Danksagung
 
-Diese Erweiterung enthält [Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/translations) von [verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
+Diese Erweiterung enthält [Übersetzungen von verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
 
 ## Entwickler
 
