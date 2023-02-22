@@ -6,9 +6,9 @@
 
 <p align="center"><img src="language-screenshot.png?raw=true" alt="Skärmdump"></p>
 
-## Hur man installerar en webbplats
+## Hur man installerar en översättning
 
-För att installera packa upp en fil och du är redo att gå. Först kontrollerar installationsprogrammet om alla krav har uppfyllts, till exempel om din webbserver fungerar som den ska. Sedan erbjuder installationsprogrammet dig att skapa ett användarkonto och hjälper dig att inreda din webbplats. Välj vad du vill göra och klicka på `Installera`. När installationsprogrammet har gjort sitt arbete kommer det att ta bort sig själv. [Läs mer om installation](https://datenstrom.se/sv/yellow/help/how-to-get-started).
+[Välj språk](https://github.com/annaesvensson/yellow-language/tree/main/translations), ladda ner och kopiera det till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Hur man gör en översättning
 
@@ -16,7 +16,7 @@ Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-languag
 
 ## Tack
 
-Detta tillägg innehåller [översättningar](https://github.com/annaesvensson/yellow-language/tree/main/translations) av [olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
+Detta tillägg innehåller [översättningar av olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
 
 ## Utvecklare
 
