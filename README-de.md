@@ -8,11 +8,11 @@
 
 ## Wie man eine Übersetzung installiert
 
-[Sprache auswählen](https://github.com/annaesvensson/yellow-language/tree/main/translations), herunterladen und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+[Eine Sprache auswählen](https://github.com/annaesvensson/yellow-language/tree/main/translations), ZIP-Datei herunterladen und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Wie man eine Übersetzung erstellt 
 
-Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder einer der [vorhandenen Übersetzungen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Die installierten Sprachen befinden sich im `system/extensions`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Lade deine Übersetzung zu GitHub hoch, lass uns wissen falls du Hilfe brauchst.
+[Beginne mit der deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder [einer der vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Die installierten Sprachen befinden sich im `system/extensions`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Lade deine Übersetzung zu GitHub hoch, lass uns wissen falls du Hilfe brauchst.
 
 ## Danksagung
 
