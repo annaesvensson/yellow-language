@@ -8,11 +8,11 @@ Translations for your website.
 
 ## How to install a translation
 
-[Select language](https://github.com/annaesvensson/yellow-language/tree/main/translations), download and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Select a language](https://github.com/annaesvensson/yellow-language/tree/main/translations), download ZIP file and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to make a translation
 
-Start with the [English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or one of the [available translations](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. The installed languages are stored in your `system/extensions` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Upload your translation to GitHub, let us know if you need help.
+[Start with the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or [one of the available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. The installed languages are stored in your `system/extensions` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Upload your translation to GitHub, let us know if you need help.
 
 ## Acknowledgements
 
