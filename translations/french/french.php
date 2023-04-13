@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowFrench {
             "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Ligne de commande du site web.",
             "ContactDescription: Email contact page.",
             "ContactName: Nom:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowFrench {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Créez un site web statique.",
             "StockholmDescription: Stockholm est un thème propre.",
             "SwedishDescription: Swedish language.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",

@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowTurkish {
             "CatalanDescription: Katalan dili.",
             "ChineseDescription: Çince language.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Websitesi komut satırı.",
             "ContactDescription: Email iletişim sayfası.",
             "ContactName: Adınız:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowTurkish {
             "SoundcloudDescription: Soundcloud ses parçalarını yerleştirin.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Statik bir web sitesi oluşturun.",
             "StockholmDescription: Stockholm temiz bir tema.",
             "SwedishDescription: Swedish language.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: İçerik Tablosu.",
             "TrafficDescription: Günlük dosyalarından trafik analitiği oluşturun.",
             "TurkishDescription: Turkish language.",

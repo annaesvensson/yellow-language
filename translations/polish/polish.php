@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowPolish {
             "CatalanDescription: Język kataloński.",
             "ChineseDescription: Język chińsk.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Wiersz poleceń witryny.",
             "ContactDescription: Strona kontaktowa e-mail.",
             "ContactName: Nazwa:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowPolish {
             "SoundcloudDescription: Osadzanie ścieżek dźwiękowych z Soundcloud`a.",
             "SpanishDescription: Język hiszpański.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Zbuduj statyczną stronę internetową.",
             "StockholmDescription: Stockholm to czysty (podstawowy) motyw.",
             "SwedishDescription: Język szwedzki.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Spis treści.",
             "TrafficDescription: Twórz analizy ruchu z plików dziennika.",
             "TurkishDescription: Turkish language.",

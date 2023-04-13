@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowChinese {
             "CatalanDescription: 加泰罗尼亚语。",
             "ChineseDescription: 简体中文。",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: 网站的命令行功能.",
             "ContactDescription: 邮件联系插件提供联系页面.",
             "ContactName: 姓名:",
             "ContactEmail: 邮箱:",
@@ -282,9 +281,9 @@ class YellowChinese {
             "SoundcloudDescription: 嵌入Soundcloud网站音轨的插件.",
             "SpanishDescription: 西班牙语.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: 建立一个静态网站.",
             "StockholmDescription: Stockholm是一个简洁的主题.",
             "SwedishDescription: 瑞典语.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: 内容目录插件.",
             "TrafficDescription: 从日志文件创建流量分析.",
             "TurkishDescription: 土耳其语.",

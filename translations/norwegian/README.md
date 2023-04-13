@@ -1,4 +1,4 @@
-# Norwegian 0.8.42
+# Norwegian 0.8.43
 
 Norsk språk.
 

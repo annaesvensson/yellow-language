@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowDutch {
             "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Command line of the website.",
             "ContactDescription: Email contact page.",
             "ContactName: Naam:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowDutch {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Bouw een statische website.",
             "StockholmDescription: Stockholm is een schoon thema.",
             "SwedishDescription: Swedish language.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",

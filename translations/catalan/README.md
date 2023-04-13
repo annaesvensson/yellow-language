@@ -1,4 +1,4 @@
-# Catalan 0.8.42
+# Catalan 0.8.43
 
 Llengua catalana.
 

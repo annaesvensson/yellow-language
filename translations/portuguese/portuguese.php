@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowPortuguese {
             "CatalanDescription: Catalan language.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Command line of the website.",
             "ContactDescription: Email contact page.",
             "ContactName: Nome:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowPortuguese {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Crie um site estático.",
             "StockholmDescription: Stockholm é um tema limpo.",
             "SwedishDescription: Swedish language.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",

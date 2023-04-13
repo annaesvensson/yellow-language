@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowCzech {
             "CatalanDescription: Katalánština.",
             "ChineseDescription: Čínština.",
             "CodefileDescription: Stáhnout bloky kódu jako texťák.",
-            "CommandDescription: Příkazový řádek webu.",
             "ContactDescription: Stránka s emailovým kontaktem.",
             "ContactName: Jméno:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowCzech {
             "SoundcloudDescription: Vkládej Soundcloud audio stopy.",
             "SpanishDescription: Španělština.",
             "SpoilerDescription: Schovat určité prvky na stránce.",
+            "StaticDescription: Vytvořte statický web.",
             "StockholmDescription: Stockholm je čisté téma.",
             "SwedishDescription: Švédština.",
-            "TickerDescription: Parser RSS feedu.",
             "TocDescription: Obsah.",
             "TrafficDescription: Z logu vytvořit analýzu návštěvnosti.",
             "TurkishDescription: Turečtina.",

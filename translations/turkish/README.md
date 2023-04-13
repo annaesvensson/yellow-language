@@ -1,4 +1,4 @@
-# Turkish 0.8.42
+# Turkish 0.8.43
 
 Türk dili.
 

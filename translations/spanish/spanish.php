@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowSpanish {
             "CatalanDescription: Lengua catalana.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Command line of the website.",
             "ContactDescription: Email contact page.",
             "ContactName: Nombre:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowSpanish {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Lengua española.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Crea un sitio web estático.",
             "StockholmDescription: Stockholm es un tema puro.",
             "SwedishDescription: Lenguaje sueco.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",

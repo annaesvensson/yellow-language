@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowGerman {
             "CatalanDescription: Katalanische Sprache.",
             "ChineseDescription: Chinesische Sprache.",
             "CodefileDescription: Code-Blöcke als Textdatei herunterladen.",
-            "CommandDescription: Befehlszeile der Webseite.",
             "ContactDescription: E-Mail-Kontaktseite.",
             "ContactName: Name:",
             "ContactEmail: E-Mail:",
@@ -282,9 +281,9 @@ class YellowGerman {
             "SoundcloudDescription: Soundcloud-Audio einbinden.",
             "SpanishDescription: Spanische Sprache.",
             "SpoilerDescription: Bestimmte Seitenelemente verstecken.",
+            "StaticDescription: Statische Webseite erstellen.",
             "StockholmDescription: Stockholm ist ein schlichtes Theme.",
             "SwedishDescription: Schwedische Sprache.",
-            "TickerDescription: RSS-Feed-Leser.",
             "TocDescription: Inhaltsverzeichnis anzeigen.",
             "TrafficDescription: Zugriffsanalysen aus Logdateien erstellen.",
             "TurkishDescription: Türkische Sprache.",

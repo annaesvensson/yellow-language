@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -24,7 +24,6 @@ class YellowJapanese {
             "BundleDescription: ウェブサイトの外部ファイルを一つします。",
             "ChineseDescription: 中国語です。",
             "CodefileDescription: コードブロックをテキストファイルとしてダウンロードします。",
-            "CommandDescription: ウェブサイトのコマンドライン。",
             "ContactDescription: メールによる問い合わせページを追加します。",
             "ContactName: お名前:",
             "ContactEmail: メールアドレス:",
@@ -281,9 +280,9 @@ class YellowJapanese {
             "SoundcloudDescription: Soundcloud のオーディトラックを埋め込めます。",
             "SpanishDescription: スペイン語です。",
             "SpoilerDescription: ページ内の特定要素を非表示にできます。",
+            "StaticDescription: 静的ウェブサイトを構築します。",
             "StockholmDescription: Stockholm is a clean theme.",
             "SwedishDescription: スウェーデン語です。",
-            "TickerDescription: RSS feed パーサーです。",
             "TocDescription: 目次機能を追加します。",
             "TrafficDescription: ログファイルからトラフィック分析を作成します。",
             "TurkishDescription: トルコ語です。",

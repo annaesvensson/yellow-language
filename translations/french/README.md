@@ -1,4 +1,4 @@
-# French 0.8.42
+# French 0.8.43
 
 Langue française.
 

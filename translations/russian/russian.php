@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowRussian {
             "CatalanDescription: Каталонский язык.",
             "ChineseDescription: Китайский язык.",
             "CodefileDescription: Скачать блоки кода в виде текстового файла.",
-            "CommandDescription: Командная строка сайта.",
             "ContactDescription: Страница контактов.",
             "ContactName: Имя:",
             "ContactEmail: Email:",
@@ -282,9 +281,9 @@ class YellowRussian {
             "SoundcloudDescription: Вставить аудио Soundcloud.",
             "SpanishDescription: Испанский язык.",
             "SpoilerDescription: Скрыть определенные элементы страницы.",
+            "StaticDescription: Создайте статический веб-сайт.",
             "StockholmDescription: Стокгольм - чистая тема.",
             "SwedishDescription: Шведский язык.",
-            "TickerDescription: Парсер RSS лент.",
             "TocDescription: Оглавление.",
             "TrafficDescription: Создать аналитику трафика из лог-файлов.",
             "TurkishDescription: Турецкий язык.",

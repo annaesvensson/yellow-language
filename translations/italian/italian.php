@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowItalian {
             "CatalanDescription: Lingua catalana.",
             "ChineseDescription: Lingua cinese.",
             "CodefileDescription: Download code blocks as text file.",
-            "CommandDescription: Linea di comando del sito.",
             "ContactDescription: Pagina di contatto.",
             "ContactName: Nome:",
             "ContactEmail: Indirizzo email:",
@@ -282,9 +281,9 @@ class YellowItalian {
             "SoundcloudDescription: Inserisci brani audio Soundcloud.",
             "SpanishDescription: Lingua spagnolo.",
             "SpoilerDescription: Hide certain page elements.",
+            "StaticDescription: Costruisci un sito web statico.",
             "StockholmDescription: Stockholm è un tema pulito.",
             "SwedishDescription: Lingua svedese.",
-            "TickerDescription: RSS feed parser.",
             "TocDescription: Indice.",
             "TrafficDescription: Genera analisi del traffico dai file di registro.",
             "TurkishDescription: Turkish/Türkçe with language `tr`.",

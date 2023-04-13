@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.8.42";
+    const VERSION = "0.8.43";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -25,7 +25,6 @@ class YellowCatalan {
             "CatalanDescription: Llengua catalana.",
             "ChineseDescription: Llengua xinesa.",
             "CodefileDescription: Baixeu els blocs de codi com a fitxer de text.",
-            "CommandDescription: Línia d'ordres del lloc web.",
             "ContactDescription: Pàgina de contacte per correu electrònic.",
             "ContactName: Nom:",
             "ContactEmail: Email:",
@@ -304,9 +303,9 @@ class YellowCatalan {
             "SoundcloudDescription: Incrusta pistes d'àudio de Soundcloud.",
             "SpanishDescription: Llengua espanyola.",
             "SpoilerDescription: Amaga determinats elements de la pàgina.",
+            "StaticDescription: Crear un lloc web estàtic.",
             "StockholmDescription: Stockholm és un tema pur.",
             "SwedishDescription: Llengua sueca.",
-            "TickerDescription: Analitzador de canals RSS.",
             "TocDescription: Taula de continguts.",
             "TrafficDescription: Creeu anàlisis de trànsit a partir de fitxers de registre.",
             "TurkishDescription: Idioma turc.",

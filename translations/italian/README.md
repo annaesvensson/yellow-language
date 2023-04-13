@@ -1,4 +1,4 @@
-# Italian 0.8.42
+# Italian 0.8.43
 
 Lingua italiano.
 

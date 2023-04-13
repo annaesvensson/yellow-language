@@ -1,4 +1,4 @@
-# Polish 0.8.42
+# Polish 0.8.43
 
 Język polski.
 
