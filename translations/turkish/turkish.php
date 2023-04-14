@@ -212,6 +212,7 @@ class YellowTurkish {
             "EditMenuLogout: Çıkış",
             "EditYellowUrl: https://datenstrom.se",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Bir sürü emoji.",
             "EnglishDescription: English language.",
             "FeedDescription: Son değişikliklerle besleyin.",
