@@ -212,6 +212,7 @@ class YellowGerman {
             "EditMenuLogout: Abmelden",
             "EditYellowUrl: https://datenstrom.se/de/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/de/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/de/yellow/help/what-s-new",
             "EmojiDescription: Jede Menge Emoji.",
             "EnglishDescription: Englische Sprache.",
             "FeedDescription: Feed mit letzten Änderungen.",
