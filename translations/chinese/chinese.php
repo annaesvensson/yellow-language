@@ -212,6 +212,7 @@ class YellowChinese {
             "EditMenuLogout: 登出",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Emoji插件提供很多很多的表情符号.",
             "EnglishDescription: 英文.",
             "FeedDescription: Feed插件订阅最近更新的文章.",
