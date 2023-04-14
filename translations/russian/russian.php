@@ -212,6 +212,7 @@ class YellowRussian {
             "EditMenuLogout: Выход",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Множество эмо́дзи.",
             "EnglishDescription: Английский язык.",
             "FeedDescription: Лента с последними изменениями.",

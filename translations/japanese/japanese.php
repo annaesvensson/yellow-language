@@ -211,6 +211,7 @@ class YellowJapanese {
             "EditMenuLogout: ログアウト",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: 多くの絵文字を追加します。",
             "EnglishDescription: 英語です。",
             "FeedDescription: フィード機能を追加します。",

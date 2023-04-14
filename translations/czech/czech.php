@@ -212,6 +212,7 @@ class YellowCzech {
             "EditMenuLogout: Odhlásit",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Moc a moc emoji.",
             "EnglishDescription: Angličtina.",
             "FeedDescription: Feed s posledními změnami.",

@@ -212,6 +212,7 @@ class YellowItalian {
             "EditMenuLogout: Esci",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Tantissime emoji.",
             "EnglishDescription: Lingua inglese.",
             "FeedDescription: Canale RSS con le modifiche recenti.",

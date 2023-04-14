@@ -234,6 +234,7 @@ class YellowCatalan {
             "EditMenuLogout: Sortir",
             "EditYellowUrl: https://datenstrom.se/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/yellow/help/what-s-new",
             "EmojiDescription: Un munt i un munt d'emojis.",
             "EnglishDescription: Llengua anglesa.",
             "FeedDescription: Canal amb canvis recents.",

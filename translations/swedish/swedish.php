@@ -212,6 +212,7 @@ class YellowSwedish {
             "EditMenuLogout: Logga ut",
             "EditYellowUrl: https://datenstrom.se/sv/yellow/",
             "EditYellowHelpUrl: https://datenstrom.se/sv/yellow/help/",
+            "EditYellowNewsUrl: https://datenstrom.se/sv/yellow/help/what-s-new",
             "EmojiDescription: Massor och massor av emoji.",
             "EnglishDescription: Engelska språket.",
             "FeedDescription: Feed med senaste ändringarna.",
