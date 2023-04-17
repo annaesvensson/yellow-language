@@ -257,7 +257,7 @@ class YellowJapanese {
             "PolishDescription: ポーランド語です。",
             "PortugueseDescription: ポルトガル語です。",
             "PreviousnextDescription: 前後のページリンクを表示します。",
-            "PreviousnextNavigation: ページ",
+            "PreviousnextNavigation: Page",
             "PreviousnextPagePrevious: ← 前へ: @title",
             "PreviousnextPageNext: 次へ: @title →",
             "PrivateDescription: パスワードで保護されたページ機能を追加します。",
