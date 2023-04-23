@@ -289,7 +289,7 @@ class YellowJapanese {
             "TurkishDescription: トルコ語です。",
             "TwitterDescription: ツイッターのメッセージを埋め込めます。",
             "UpdateDescription: ウェブサイトを最新の状態に保ちます。",
-            "UpdateExtensionDefaultDescription: No description available.",
+            "UpdateExtensionDefaultDescription: 説明はありません。",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",
             "UpdateExtensionTranslator: Translated by @x.",
