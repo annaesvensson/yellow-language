@@ -237,7 +237,7 @@ class YellowRussian {
             "InstallExtensionWiki: Небольшую wiki",
             "InstallButton: Установить",
             "InstallHomeTitle: Главная",
-            "InstallHomeText: [image photo.jpg Пример rounded]\\n\\n[редактировать - Вы можете редактировать эту страницу в веб-браузере] или использовать текстовый редактор. [Получить помощь](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Пример rounded]\\n\\n[edit - Вы можете редактировать эту страницу в веб-браузере] или использовать текстовый редактор. [Получить помощь](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Информация",
             "InstallAboutText: [Сделано в Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Страница",
