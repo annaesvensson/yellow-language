@@ -237,7 +237,7 @@ class YellowPortuguese {
             "InstallExtensionWiki: Wiki pequeno",
             "InstallButton: Instalar",
             "InstallHomeTitle: Home",
-            "InstallHomeText: [image photo.jpg Example rounded]\\n\\n[editar - Você pode editar esta página em um navegador da web] ou use um editor de texto. [Ajuda](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Example rounded]\\n\\n[edit - Você pode editar esta página em um navegador da web] ou use um editor de texto. [Ajuda](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Sobre",
             "InstallAboutText: [Feito com Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Página",

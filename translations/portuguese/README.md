@@ -16,4 +16,4 @@ O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. U
 
 ## Tradutor
 
-Al Garcia. [Obter ajuda](https://datenstrom.se/yellow/help/).
+Al Garcia, Quen-Quen Potter. [Obter ajuda](https://datenstrom.se/yellow/help/).
