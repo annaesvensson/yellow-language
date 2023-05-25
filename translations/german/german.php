@@ -282,7 +282,7 @@ class YellowGerman {
             "SoundcloudDescription: Soundcloud-Audio einbinden.",
             "SpanishDescription: Spanische Sprache.",
             "SpoilerDescription: Bestimmte Seitenelemente verstecken.",
-            "StaticDescription: Statische Webseite erstellen.",
+            "StaticDescription: Statische Webseite generieren.",
             "StockholmDescription: Stockholm ist ein schlichtes Theme.",
             "SwedishDescription: Schwedische Sprache.",
             "TocDescription: Inhaltsverzeichnis anzeigen.",

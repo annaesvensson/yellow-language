@@ -282,7 +282,7 @@ class YellowSwedish {
             "SoundcloudDescription: Bädda in Soundcloud-ljudspår.",
             "SpanishDescription: Spanska språket.",
             "SpoilerDescription: Dölj vissa sidelement.",
-            "StaticDescription: Bygg en statisk webbplats.",
+            "StaticDescription: Generera en statisk webbplats.",
             "StockholmDescription: Stockholm är ett rent tema.",
             "SwedishDescription: Svenska språket.",
             "TocDescription: Innehållsförteckning.",

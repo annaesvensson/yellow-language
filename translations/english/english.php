@@ -282,7 +282,7 @@ class YellowEnglish {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
-            "StaticDescription: Build a static website.",
+            "StaticDescription: Generate a static website.",
             "StockholmDescription: Stockholm is a clean theme.",
             "SwedishDescription: Swedish language.",
             "TocDescription: Table of contents.",

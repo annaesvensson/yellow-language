@@ -282,7 +282,7 @@ class YellowNorwegian {
             "SoundcloudDescription: Embed Soundcloud audio tracks.",
             "SpanishDescription: Spanish language.",
             "SpoilerDescription: Hide certain page elements.",
-            "StaticDescription: Bygg et statisk nettsted.",
+            "StaticDescription: Generer et statisk nettsted.",
             "StockholmDescription: Stockholm er et rent tema.",
             "SwedishDescription: Swedish language.",
             "TocDescription: Table of contents.",
