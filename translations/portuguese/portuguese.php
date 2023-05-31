@@ -23,6 +23,7 @@ class YellowPortuguese {
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Agrupar arquivos do site.",
             "CatalanDescription: Idioma Catalão.",
+            "CheckDescription: Encontre links quebrados.",
             "ChineseDescription: Idioma Chinês.",
             "CodefileDescription: Baixar blocos de código como arquivo de texto.",
             "CommandDescription: Linha de comando do site.",

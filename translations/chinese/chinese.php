@@ -23,6 +23,7 @@ class YellowChinese {
             "BreadcrumbNavigation: 面包屑",
             "BundleDescription: Bundle插件捆包CSS文件.",
             "CatalanDescription: 加泰罗尼亚语。",
+            "CheckDescription: 查找损坏的链接。",
             "ChineseDescription: 简体中文。",
             "CodefileDescription: Download code blocks as text file.",
             "ContactDescription: 邮件联系插件提供联系页面.",

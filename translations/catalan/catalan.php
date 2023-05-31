@@ -23,6 +23,7 @@ class YellowCatalan {
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Agrupa arxius del lloc web.",
             "CatalanDescription: Llengua catalana.",
+            "CheckDescription: Cerca enllaços trencats.",
             "ChineseDescription: Llengua xinesa.",
             "CodefileDescription: Baixeu els blocs de codi com a fitxer de text.",
             "ContactDescription: Pàgina de contacte per correu electrònic.",

@@ -22,6 +22,8 @@ class YellowJapanese {
             "BreadcrumbDescription: パンくずナビゲーションです。",
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: ウェブサイトの外部ファイルを一つします。",
+            "CatalanDescription: カタルーニャ語。",
+            "CheckDescription: 壊れたリンクを見つけます。",
             "ChineseDescription: 中国語です。",
             "CodefileDescription: コードブロックをテキストファイルとしてダウンロードします。",
             "ContactDescription: メールによる問い合わせページを追加します。",

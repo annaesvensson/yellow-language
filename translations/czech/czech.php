@@ -23,6 +23,7 @@ class YellowCzech {
             "BreadcrumbNavigation: Drobečkování",
             "BundleDescription: Bundle website files.",
             "CatalanDescription: Katalánština.",
+            "CheckDescription: Najděte nefunkční odkazy.",
             "ChineseDescription: Čínština.",
             "CodefileDescription: Stáhnout bloky kódu jako texťák.",
             "ContactDescription: Stránka s emailovým kontaktem.",

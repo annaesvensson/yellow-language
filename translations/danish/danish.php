@@ -23,6 +23,7 @@ class YellowDanish {
             "BreadcrumbNavigation: Brødkrumme",
             "BundleDescription: Bundle website files.",
             "CatalanDescription: Catalan language.",
+            "CheckDescription: Find broken links.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
             "ContactDescription: Email contact page.",

@@ -23,6 +23,7 @@ class YellowSpanish {
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Bundle website files.",
             "CatalanDescription: Lengua catalana.",
+            "CheckDescription: Encuentra enlaces rotos.",
             "ChineseDescription: Chinese language.",
             "CodefileDescription: Download code blocks as text file.",
             "ContactDescription: Email contact page.",

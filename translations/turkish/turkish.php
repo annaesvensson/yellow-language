@@ -23,6 +23,7 @@ class YellowTurkish {
             "BreadcrumbNavigation: Breadcrumb",
             "BundleDescription: Websitesindeki dosyaları grupla.",
             "CatalanDescription: Katalan dili.",
+            "CheckDescription: Bozuk bağlantıları bulun.",
             "ChineseDescription: Çince language.",
             "CodefileDescription: Download code blocks as text file.",
             "ContactDescription: Email iletişim sayfası.",
