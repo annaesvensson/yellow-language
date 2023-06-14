@@ -12,7 +12,11 @@ Translations for your website.
 
 ## How to make a translation
 
-[Start with the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or [one of the available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. The installed languages are stored in your `system/extensions` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Upload your translation to GitHub, let us know if you need help.
+[Start with the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or [one of the available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. Fork this repository and add a new language. It is enough if you translate the language file, then a maintainer can take care of the rest. Upload your changes to GitHub and create a pull request for `annaesvensson/yellow-language`.
+
+## How to improve a translation
+
+You can improve a translation if something is wrong with [one of the available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). The installed languages are stored in your `system/extensions` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Fork this repository. Upload your changes to GitHub and create a pull request for `annaesvensson/yellow-language`.
 
 ## Acknowledgements
 

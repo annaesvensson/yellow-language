@@ -12,7 +12,12 @@
 
 ## Hur man gör en översättning
 
-[Börja med svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller [ett av tillgängliga språk](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment som ingår i ett språk. De installerade språken finns i `system/extensions` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Ladda upp din översättning till GitHub, låt oss veta om du behöver hjälp.
+[Börja med svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller [ett av tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment som ingår i ett språk. 
+Gör en fork av detta repository och lägg till ett nytt språk. Det räcker om du översätter språkfilen, då kan en underhållare ta hand om resten. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
+
+## Hur man förbättrar en översättning
+
+Du kan förbättra en översättning om något är fel på [ett av tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). De installerade språken finns i `system/extensions` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
 
 ## Tack
 
