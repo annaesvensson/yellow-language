@@ -12,7 +12,7 @@
 
 ## Wie man eine Übersetzung erstellt
 
-[Beginne mit der deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder [einer der vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Mache ein Fork von diesem Repository und füge eine neue Sprache hinzu. Es reicht aus wenn du die Sprachdatei übersetzt, ein Betreuer kümmert sich dann um den Rest. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für `annaesvensson/yellow-language`.
+[Beginne mit der deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder [einer der vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Mache ein Fork von diesem Repository. Es reicht aus wenn du ein neues Verzeichnis hinzufügst und die Sprachdatei übersetzt, ein Betreuer kümmert sich dann um den Rest. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für `annaesvensson/yellow-language`.
 
 ## Wie man eine Übersetzung verbessert
 

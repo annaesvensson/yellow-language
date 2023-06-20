@@ -13,7 +13,7 @@
 ## Hur man gör en översättning
 
 [Börja med svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller [ett av tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment som ingår i ett språk. 
-Gör en fork av detta repository och lägg till ett nytt språk. Det räcker om du översätter språkfilen, då kan en underhållare ta hand om resten. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
+Gör en fork av detta repository. Det räcker om du läger till en ny mapp och översätter språkfilen, då kan en underhållare ta hand om resten. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
 
 ## Hur man förbättrar en översättning
 
