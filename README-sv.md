@@ -16,7 +16,7 @@
 
 ## Hur man förbättrar en översättning
 
-Du kan förbättra en översättning om något är fel på [ett av tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). De installerade språken finns i `system/extensions` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
+Du kan förbättra en översättning om något är fel. De installerade språken finns i `system/extensions` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för `annaesvensson/yellow-language`.
 
 ## Tack
 
