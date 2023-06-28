@@ -224,7 +224,7 @@ class YellowSwedish {
             "HighlightDescription: Markera källkod.",
             "HungarianDescription: Ungerska språket.",
             "IconDescription: Ikoner och symboler.",
-            "ImageDescription: Bilder och miniatyrbilder.",
+            "ImageDescription: Lägg till bilder och miniatyrbilder.",
             "ImageDefaultAlt: Bild utan beskrivning",
             "InstagramDescription: Bädda in Instagram-foton.",
             "InstallTitle: Hej",

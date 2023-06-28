@@ -224,7 +224,7 @@ class YellowTurkish {
             "HighlightDescription: Kaynak kodunu vurgulayın.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Simgeler ve semboller.",
-            "ImageDescription: Görüntüler ve küçük resimler.",
+            "ImageDescription: Görüntüler ve küçük resimler ekleyin.",
             "ImageDefaultAlt: Açıklama olmayan resim",
             "InstagramDescription: Instagram fotoğraflarını yerleştirin.",
             "InstallTitle: Merhaba",

@@ -224,7 +224,7 @@ class YellowCzech {
             "HighlightDescription: Zvýraznit zdrojové kódy.",
             "HungarianDescription: Maďarština.",
             "IconDescription: Ikony a symboly.",
-            "ImageDescription: Obrázky a náhledy.",
+            "ImageDescription: Přidejte obrázky a náhledy.",
             "ImageDefaultAlt: Obrázek bez popisku.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Ahoj",

@@ -224,7 +224,7 @@ class YellowFrench {
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Icons and symbols.",
-            "ImageDescription: Images and thumbnails.",
+            "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image sans description",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Bonjour",

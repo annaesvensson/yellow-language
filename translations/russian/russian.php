@@ -224,7 +224,7 @@ class YellowRussian {
             "HighlightDescription: Подсветка исходного кода.",
             "HungarianDescription: Венгерский язык.",
             "IconDescription: Иконки и символы.",
-            "ImageDescription: Изображения и миниатюры.",
+            "ImageDescription: Добавьте изображения и миниатюры.",
             "ImageDefaultAlt: Изображение без описания",
             "InstagramDescription: Вставить фото из Instagram.",
             "InstallTitle: Здравствуйте",

@@ -224,7 +224,7 @@ class YellowChinese {
             "HighlightDescription: 高亮显示源代码的插件.",
             "HungarianDescription: 匈牙利语.",
             "IconDescription: Fa插件提供图标和符号.",
-            "ImageDescription: 处理图片和缩略图的插件.",
+            "ImageDescription: 添加图像和缩略图.",
             "ImageDefaultAlt: 图片无描述",
             "InstagramDescription: 嵌入Instagram图片的插件.",
             "InstallTitle: 你好",

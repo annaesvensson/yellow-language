@@ -224,7 +224,7 @@ class YellowGerman {
             "HighlightDescription: Quellcode hervorheben.",
             "HungarianDescription: Ungarische Sprache.",
             "IconDescription: Icons und Symbole.",
-            "ImageDescription: Bilder in unterschiedlichen Größen.",
+            "ImageDescription: Bilder in unterschiedlichen Größen hinzufügen.",
             "ImageDefaultAlt: Bild ohne Beschreibung",
             "InstagramDescription: Instagram-Fotos einbinden.",
             "InstallTitle: Hallo",

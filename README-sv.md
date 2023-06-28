@@ -20,7 +20,7 @@ Du kan förbättra en översättning om något är fel. De installerade språken
 
 ## Tack
 
-Detta tillägg innehåller [översättningar av olika bidragsgivare](https://github.com/annaesvensson/yellow-language/graphs/contributors). Tack för ett bra jobb.
+Detta tillägg innehåller översättningar av olika bidragsgivare. Tack för ett bra jobb.
 
 ## Utvecklare
 

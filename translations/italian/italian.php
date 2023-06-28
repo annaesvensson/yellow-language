@@ -224,7 +224,7 @@ class YellowItalian {
             "HighlightDescription: Evidenzia sintatticamente il codice sorgente.",
             "HungarianDescription: Lingua ungherese.",
             "IconDescription: Icone e simboli.",
-            "ImageDescription: Immagini e miniature.",
+            "ImageDescription: Aggiungi immagini e miniature.",
             "ImageDefaultAlt: Immagine senza descrizione",
             "InstagramDescription: Inserisci fotografie Instagram.",
             "InstallTitle: Salve",

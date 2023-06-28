@@ -20,7 +20,7 @@ You can improve a translation if something is wrong. The installed languages are
 
 ## Acknowledgements
 
-This extension includes [translations by various contributors](https://github.com/annaesvensson/yellow-language/graphs/contributors). Thank you for the good work.
+This extension includes translations by various contributors. Thank you for the good work.
 
 ## Developer
 

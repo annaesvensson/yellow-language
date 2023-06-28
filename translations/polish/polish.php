@@ -224,7 +224,7 @@ class YellowPolish {
             "HighlightDescription: Podświetl kod źródłowy.",
             "HungarianDescription: Język węgierski.",
             "IconDescription: Ikony i symbole.",
-            "ImageDescription: Obrazy i miniatury.",
+            "ImageDescription: Dodaj obrazy i miniatury.",
             "ImageDefaultAlt: Obraz bez opisu",
             "InstagramDescription: Osadzanie zdjęć z Instagrama.",
             "InstallTitle: Witaj",

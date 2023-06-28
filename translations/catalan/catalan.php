@@ -246,7 +246,7 @@ class YellowCatalan {
             "HighlightDescription: Ressaltar el codi font.",
             "HungarianDescription: Llengua hongaresa.",
             "IconDescription: Icones i símbols.",
-            "ImageDescription: Imatges i miniatures.",
+            "ImageDescription: Afegeix imatges i miniatures.",
             "ImageDefaultAlt: Imatge sense descripció",
             "InstagramDescription: Incrusta fotos d'Instagram.",
             "InstallTitle: Hola",

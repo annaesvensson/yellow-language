@@ -223,7 +223,7 @@ class YellowPortuguese {
             "HighlightDescription: Código-fonte destacado.",
             "HungarianDescription: Idioma Húngaro.",
             "IconDescription: Ícones e símbolos.",
-            "ImageDescription: Imagens e miniaturas.",
+            "ImageDescription: Adicione imagens e miniaturas.",
             "ImageDefaultAlt: Imagem sem descrição",
             "InstagramDescription: Incorporar fotos do Instagram.",
             "InstallTitle: Olá",

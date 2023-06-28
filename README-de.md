@@ -20,7 +20,7 @@ Du kannst eine Übersetzung verbessern falls etwas nicht stimmt. Die installiert
 
 ## Danksagung
 
-Diese Erweiterung enthält [Übersetzungen von verschiedenen Mitwirkenden](https://github.com/annaesvensson/yellow-language/graphs/contributors). Danke für die gute Arbeit.
+Diese Erweiterung enthält Übersetzungen von verschiedenen Mitwirkenden. Danke für die gute Arbeit.
 
 ## Entwickler
 
