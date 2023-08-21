@@ -278,7 +278,6 @@ class YellowGerman {
             "TocDescription: Inhaltsverzeichnis anzeigen.",
             "TrafficDescription: Zugriffsanalysen aus Logdateien erstellen.",
             "TurkishDescription: Türkische Sprache.",
-            "TwitterDescription: Twitter-Nachrichten einbinden.",
             "UpdateDescription: Webseite auf dem neusten Stand halten.",
             "UpdateExtensionDefaultDescription: Keine Beschreibung vorhanden.",
             "UpdateExtensionDeveloper: Entwickelt von @x.",

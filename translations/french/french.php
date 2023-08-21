@@ -278,7 +278,6 @@ class YellowFrench {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Embed Twitter messages.",
             "UpdateDescription: Gardez votre site web à jour.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

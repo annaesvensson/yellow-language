@@ -278,7 +278,6 @@ class YellowCzech {
             "TocDescription: Obsah.",
             "TrafficDescription: Z logu vytvořit analýzu návštěvnosti.",
             "TurkishDescription: Turečtina.",
-            "TwitterDescription: Vkládej zprávy z Twitteru.",
             "UpdateDescription: Udržuj svůj web aktuální.",
             "UpdateExtensionDefaultDescription: Popis není k dispozici.",
             "UpdateExtensionDeveloper: Vyvinul(a) @x.",

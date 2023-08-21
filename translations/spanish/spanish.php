@@ -278,7 +278,6 @@ class YellowSpanish {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Embed Twitter messages.",
             "UpdateDescription: Mantenga su sitio web actualizado.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

@@ -278,7 +278,6 @@ class YellowChinese {
             "TocDescription: 内容目录插件.",
             "TrafficDescription: 从日志文件创建流量分析.",
             "TurkishDescription: 土耳其语.",
-            "TwitterDescription: 嵌入Twitter推文.",
             "UpdateDescription: 使您的网站保持最新。",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

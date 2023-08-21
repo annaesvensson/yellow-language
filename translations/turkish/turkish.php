@@ -278,7 +278,6 @@ class YellowTurkish {
             "TocDescription: İçerik Tablosu.",
             "TrafficDescription: Günlük dosyalarından trafik analitiği oluşturun.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Twitter mesajı göm.",
             "UpdateDescription: Websitenizi güncel tutunuz.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

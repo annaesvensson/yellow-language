@@ -278,7 +278,6 @@ class YellowSlovak {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Embed Twitter messages.",
             "UpdateDescription: Udržujte svoj web aktuálny.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

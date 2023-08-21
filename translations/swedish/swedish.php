@@ -278,7 +278,6 @@ class YellowSwedish {
             "TocDescription: Innehållsförteckning.",
             "TrafficDescription: Skapa trafikanalyser från loggfiler.",
             "TurkishDescription: Turkiska språket.",
-            "TwitterDescription: Bädda in Twitter-meddelanden.",
             "UpdateDescription: Håll din webbplats uppdaterad.",
             "UpdateExtensionDefaultDescription: Ingen beskrivning finns tillgänglig.",
             "UpdateExtensionDeveloper: Utvecklad av @x.",

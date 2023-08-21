@@ -278,7 +278,6 @@ class YellowPolish {
             "TocDescription: Spis treści.",
             "TrafficDescription: Twórz analizy ruchu z plików dziennika.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Osadzanie wiadomości z Twittera.",
             "UpdateDescription: Aktualizuj swoją witrynę.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

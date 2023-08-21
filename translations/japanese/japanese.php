@@ -278,7 +278,6 @@ class YellowJapanese {
             "TocDescription: 目次機能を追加します。",
             "TrafficDescription: ログファイルからトラフィック分析を作成します。",
             "TurkishDescription: トルコ語です。",
-            "TwitterDescription: ツイッターのメッセージを埋め込めます。",
             "UpdateDescription: ウェブサイトを最新の状態に保ちます。",
             "UpdateExtensionDefaultDescription: 説明はありません。",
             "UpdateExtensionDeveloper: Developed by @x.",

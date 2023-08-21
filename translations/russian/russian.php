@@ -278,7 +278,6 @@ class YellowRussian {
             "TocDescription: Оглавление.",
             "TrafficDescription: Создать аналитику трафика из лог-файлов.",
             "TurkishDescription: Турецкий язык.",
-            "TwitterDescription: Вставить сообщения Twitter.",
             "UpdateDescription: Держите свой сайт в актуальном состоянии.",
             "UpdateExtensionDefaultDescription: Описание недоступно.",
             "UpdateExtensionDeveloper: Разработчик @x.",

@@ -278,7 +278,6 @@ class YellowDanish {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "TwitterDescription: Embed Twitter messages.",
             "UpdateDescription: Hold dit websted opdateret.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",

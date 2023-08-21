@@ -278,7 +278,6 @@ class YellowPortuguese {
             "TocDescription: Índice.",
             "TrafficDescription: Crie análises de tráfego a partir de arquivos de log.",
             "TurkishDescription: Idioma Turco.",
-            "TwitterDescription: Incorporar mensagens do Twitter.",
             "UpdateDescription: Mantenha seu site atualizado.",
             "UpdateExtensionDefaultDescription: Descrição não disponível.",
             "UpdateExtensionDeveloper: Desenvolvido por @x.",

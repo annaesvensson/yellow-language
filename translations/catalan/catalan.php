@@ -300,7 +300,6 @@ class YellowCatalan {
             "TocDescription: Taula de continguts.",
             "TrafficDescription: Creeu anàlisis de trànsit a partir de fitxers de registre.",
             "TurkishDescription: Idioma turc.",
-            "TwitterDescription: Incrusta missatges de Twitter.",
             "UpdateDescription: Manteniu el lloc web actualitzat.",
             "UpdateExtensionDefaultDescription: No hi ha descripció disponible.",
             "UpdateExtensionDeveloper: Desenvolupat per @x.",
