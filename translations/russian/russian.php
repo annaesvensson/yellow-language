@@ -247,6 +247,7 @@ class YellowRussian {
             "InstallExampleImage: Это пример изображения",
             "ItalianDescription: Итальянский язык.",
             "JapaneseDescription: Японский язык.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: Форматирование текста для людей.",
             "MetaDescription: Мета-данные для людей и машин.",
             "NorwegianDescription: Норвежский язык.",

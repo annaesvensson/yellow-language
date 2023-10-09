@@ -247,6 +247,7 @@ class YellowCzech {
             "InstallExampleImage: Toto je vzorový obrázek",
             "ItalianDescription: Italština.",
             "JapaneseDescription: Japonština.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: Formátování textu pro lidi.",
             "MetaDescription: Meta data pro lidi i stroje.",
             "NorwegianDescription: Norština.",

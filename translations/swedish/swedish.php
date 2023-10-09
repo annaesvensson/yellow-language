@@ -247,6 +247,7 @@ class YellowSwedish {
             "InstallExampleImage: Detta är en exempelbild",
             "ItalianDescription: Italienska språket.",
             "JapaneseDescription: Japanska språket.",
+            "KarlskronaDescription: Karlskrona är ett semantiskt tema.",
             "MarkdownDescription: Textformatering för människor.",
             "MetaDescription: Metadata för människor och maskiner.",
             "NorwegianDescription: Norska språket.",

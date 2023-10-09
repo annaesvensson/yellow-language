@@ -247,6 +247,7 @@ class YellowChinese {
             "InstallExampleImage: 这是一个范例图片",
             "ItalianDescription: 意大利语.",
             "JapaneseDescription: 日语.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: 方便人们阅读的文本格式化插件.",
             "MetaDescription: 人和机器的元数据.",
             "NorwegianDescription: 挪威语.",

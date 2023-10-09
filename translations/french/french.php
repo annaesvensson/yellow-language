@@ -247,6 +247,7 @@ class YellowFrench {
             "InstallExampleImage: Ceci est un exemple d'image",
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: Formatage de texte pour les humains.",
             "MetaDescription: Meta data for humans and machines.",
             "NorwegianDescription: Norwegian language.",

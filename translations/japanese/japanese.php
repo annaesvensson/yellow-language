@@ -247,6 +247,7 @@ class YellowJapanese {
             "InstallExampleImage: これは画像の例です。",
             "ItalianDescription: イタリア語です。",
             "JapaneseDescription: 日本語です。",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: markdown パーサーです。",
             "MetaDescription: Meta 情報を追加します。",
             "NorwegianDescription: ノルウェー語です。",

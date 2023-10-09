@@ -247,6 +247,7 @@ class YellowTurkish {
             "InstallExampleImage: Bu bir örnek resim",
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: İnsanlar için metin biçimlendirme.",
             "MetaDescription: İnsanlar ve makineler için meta veriler.",
             "NorwegianDescription: Norwegian language.",

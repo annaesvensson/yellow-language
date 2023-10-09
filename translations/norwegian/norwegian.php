@@ -247,6 +247,7 @@ class YellowNorwegian {
             "InstallExampleImage: Dette er et eksempelbilde",
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: Text formatting for humans.",
             "MetaDescription: Meta data for humans and machines.",
             "NorwegianDescription: Norwegian language.",

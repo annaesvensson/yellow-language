@@ -247,6 +247,7 @@ class YellowPolish {
             "InstallExampleImage: To jest przykładowe zdjęcie",
             "ItalianDescription: Język włoski.",
             "JapaneseDescription: Język japoński.",
+            "KarlskronaDescription: Karlskrona is a semantic theme.",
             "MarkdownDescription: Formatowanie tekstu dla ludzi.",
             "MetaDescription: Metadane dla ludzi i maszyn.",
             "NorwegianDescription: Język norweski.",
