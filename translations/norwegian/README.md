@@ -6,7 +6,7 @@ Norsk språk.
 
 ## Hvordan installere en utvidelse
 
-[Last ned ZIP-fil](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/norwegian.zip) og kopier den til mappen `system/extensions`. [Finn ut mer om utvidelser](https://github.com/annaesvensson/yellow-update).
+[Last ned ZIP-fil](https://github.com/annaesvensson/yellow-language/raw/main/downloads/norwegian.zip) og kopier den til mappen `system/extensions`. [Finn ut mer om utvidelser](https://github.com/annaesvensson/yellow-update).
 
 ## Hvordan tilpasse et språk
 

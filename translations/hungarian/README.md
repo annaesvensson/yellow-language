@@ -6,7 +6,7 @@ Magyar nyelv.
 
 ## Hogyan kell telepíteni egy bővítményt
 
-[Töltse le a ZIP-fájlt](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/hungarian.zip), és másolja be a `system/extensions` mappájába. [További információ a bővítményekről](https://github.com/annaesvensson/yellow-update).
+[Töltse le a ZIP-fájlt](https://github.com/annaesvensson/yellow-language/raw/main/downloads/hungarian.zip), és másolja be a `system/extensions` mappájába. [További információ a bővítményekről](https://github.com/annaesvensson/yellow-update).
 
 ## Hogyan szabhatunk testre egy nyelvet
 

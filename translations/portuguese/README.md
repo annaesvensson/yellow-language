@@ -6,7 +6,7 @@ Idioma portugues.
 
 ## Como instalar uma extensão
 
-[Baixe o arquivo ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/portuguese.zip) e copie-o para a pasta `system/extensions`. [Saiba mais sobre extensões](https://github.com/annaesvensson/yellow-update).
+[Baixe o arquivo ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/portuguese.zip) e copie-o para a pasta `system/extensions`. [Saiba mais sobre extensões](https://github.com/annaesvensson/yellow-update).
 
 ## Como personalizar um idioma
 

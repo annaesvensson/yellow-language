@@ -6,7 +6,7 @@ Dansk sprog.
 
 ## Hvordan man installerer en udvidelse
 
-[Download ZIP-fil](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/danish.zip) og kopier den til din `system/extensions`-mappe. [Få mere at vide om udvidelser](https://github.com/annaesvensson/yellow-update).
+[Download ZIP-fil](https://github.com/annaesvensson/yellow-language/raw/main/downloads/danish.zip) og kopier den til din `system/extensions`-mappe. [Få mere at vide om udvidelser](https://github.com/annaesvensson/yellow-update).
 
 ## Hvordan man tilpasser et sprog
 

@@ -6,7 +6,7 @@
 
 ## 拡張機能のインストール方法
 
-[ZIP ファイルをダウンロードして](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/japanese.zip)、`system/extensions` フォルダーにコピーします。 [拡張機能の詳細](https://github.com/annaesvensson/yellow-update)。
+[ZIP ファイルをダウンロードして](https://github.com/annaesvensson/yellow-language/raw/main/downloads/japanese.zip)、`system/extensions` フォルダーにコピーします。 [拡張機能の詳細](https://github.com/annaesvensson/yellow-update)。
 
 ## 言語をカスタマイズする方法
 

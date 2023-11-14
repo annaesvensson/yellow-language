@@ -6,7 +6,7 @@
 
 ## Jak nainstalovat rozšíření
 
-[Stáhněte si soubor ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/czech.zip) a zkopírujte jej do složky `system/extensions`. [Další informace o rozšířeních](https://github.com/annaesvensson/yellow-update).
+[Stáhněte si soubor ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/czech.zip) a zkopírujte jej do složky `system/extensions`. [Další informace o rozšířeních](https://github.com/annaesvensson/yellow-update).
 
 ## Jak přizpůsobit jazyk
 

@@ -6,7 +6,7 @@ Lengua española.
 
 ## Cómo instalar una extensión
 
-[Descargue el archivo ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/spanish.zip) y cópielo en su carpeta `system/extensions`. [Más información sobre las extensiones](https://github.com/annaesvensson/yellow-update).
+[Descargue el archivo ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/spanish.zip) y cópielo en su carpeta `system/extensions`. [Más información sobre las extensiones](https://github.com/annaesvensson/yellow-update).
 
 ## Cómo personalizar un idioma
 

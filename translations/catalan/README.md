@@ -6,7 +6,7 @@ Llengua catalana.
 
 ## Com instal·lar una extensió
 
-[Baixeu el fitxer ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/catalan.zip) i copieu-lo a la carpeta del vostre `system/extensions`. [Més informació sobre les extensions](https://github.com/annaesvensson/yellow-update).
+[Baixeu el fitxer ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/catalan.zip) i copieu-lo a la carpeta del vostre `system/extensions`. [Més informació sobre les extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Com personalitzar un idioma
 

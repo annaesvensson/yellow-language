@@ -6,7 +6,7 @@ Türk dili.
 
 ## Bir uzantı nasıl kurulur
 
-[ZIP dosyasını indirin](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/turkish.zip) ve `system/extensions` klasörünüze kopyalayın. [Uzantılar hakkında daha fazla bilgi edinin](https://github.com/annaesvensson/yellow-update). 
+[ZIP dosyasını indirin](https://github.com/annaesvensson/yellow-language/raw/main/downloads/turkish.zip) ve `system/extensions` klasörünüze kopyalayın. [Uzantılar hakkında daha fazla bilgi edinin](https://github.com/annaesvensson/yellow-update). 
 
 ## Bir dil nasıl özelleştirilir
 

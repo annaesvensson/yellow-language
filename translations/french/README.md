@@ -6,7 +6,7 @@ Langue française.
 
 ## Comment installer une extension
 
-[Téléchargez le fichier ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/french.zip) et copiez-le dans votre dossier `system/extensions`. [En savoir plus sur les extensions](https://github.com/annaesvensson/yellow-update).
+[Téléchargez le fichier ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/french.zip) et copiez-le dans votre dossier `system/extensions`. [En savoir plus sur les extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Comment personnaliser une langue
 

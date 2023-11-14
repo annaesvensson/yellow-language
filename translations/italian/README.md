@@ -6,7 +6,7 @@ Lingua italiano.
 
 ## Come installare le estensioni
 
-[Scarica il file ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/italian.zip) e copialo nella cartella `system/extensions`. [Ulteriori informazioni sulle estensioni](https://github.com/annaesvensson/yellow-update).
+[Scarica il file ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/italian.zip) e copialo nella cartella `system/extensions`. [Ulteriori informazioni sulle estensioni](https://github.com/annaesvensson/yellow-update).
 
 ## Come personalizzare una lingua
 

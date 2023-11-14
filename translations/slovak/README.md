@@ -6,7 +6,7 @@ Slovenský jazyk.
 
 ## Ako nainštalovať rozšírenie
 
-[Stiahnite si súbor ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/slovak.zip) a skopírujte ho do priečinka `system/extensions`. [Ďalšie informácie o rozšíreniach](https://github.com/annaesvensson/yellow-update).
+[Stiahnite si súbor ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/slovak.zip) a skopírujte ho do priečinka `system/extensions`. [Ďalšie informácie o rozšíreniach](https://github.com/annaesvensson/yellow-update).
 
 ## Ako prispôsobiť jazyk
 

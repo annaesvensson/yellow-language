@@ -6,7 +6,7 @@
 
 ## Как установить расширение
 
-[Загрузите ZIP-файл](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/russian.zip) и скопируйте его в папку `system/extensions`. [Подробнее о расширениях](https://github.com/annaesvensson/yellow-update).
+[Загрузите ZIP-файл](https://github.com/annaesvensson/yellow-language/raw/main/downloads/russian.zip) и скопируйте его в папку `system/extensions`. [Подробнее о расширениях](https://github.com/annaesvensson/yellow-update).
 
 ## Как настроить язык
 

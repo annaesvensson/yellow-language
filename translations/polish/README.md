@@ -6,7 +6,7 @@ Język polski.
 
 ## Jak zainstalować rozszerzenie
 
-[Pobierz plik ZIP](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/polish.zip) i skopiuj go do folderu `system/extensions`. [Dowiedz się więcej o rozszerzeniach](https://github.com/annaesvensson/yellow-update).
+[Pobierz plik ZIP](https://github.com/annaesvensson/yellow-language/raw/main/downloads/polish.zip) i skopiuj go do folderu `system/extensions`. [Dowiedz się więcej o rozszerzeniach](https://github.com/annaesvensson/yellow-update).
 
 ## Jak dostosować język
 

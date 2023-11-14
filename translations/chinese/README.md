@@ -6,7 +6,7 @@
 
 ## 如何安装扩展
 
-[下载 ZIP 文件](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/chinese.zip)并将其复制到您的文件夹 `system/extensions` 中。 [了解有关扩展的更多信息](https://github.com/annaesvensson/yellow-update)。
+[下载 ZIP 文件](https://github.com/annaesvensson/yellow-language/raw/main/downloads/chinese.zip)并将其复制到您的文件夹 `system/extensions` 中。 [了解有关扩展的更多信息](https://github.com/annaesvensson/yellow-update)。
 
 ## 如何自定义语言
 

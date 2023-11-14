@@ -6,7 +6,7 @@ Nederlandse taal.
 
 ## Hoe een extensie te installeren
 
-[Download het ZIP-bestand](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/dutch.zip) en kopieer het naar de map `system/extensions`. [Meer informatie over extensies](https://github.com/annaesvensson/yellow-update).
+[Download het ZIP-bestand](https://github.com/annaesvensson/yellow-language/raw/main/downloads/dutch.zip) en kopieer het naar de map `system/extensions`. [Meer informatie over extensies](https://github.com/annaesvensson/yellow-update).
 
 ## Hoe een taal aan te passen
 

@@ -6,7 +6,7 @@ English language.
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/datenstrom/yellow-extensions/raw/main/downloads/english.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/annaesvensson/yellow-language/raw/main/downloads/english.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to customise a language
 
