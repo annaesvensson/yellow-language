@@ -2,7 +2,7 @@
 
 Dansk sprog.
 
-<p align="center"><img src="danish-screenshot.png?raw=true" alt="Skærmbillede"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Skærmbillede"></p>
 
 ## Hvordan man installerer en udvidelse
 

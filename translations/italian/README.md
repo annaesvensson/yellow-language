@@ -2,7 +2,7 @@
 
 Lingua italiano.
 
-<p align="center"><img src="italian-screenshot.png?raw=true" alt="Immagine dello schermo"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Immagine dello schermo"></p>
 
 ## Come installare le estensioni
 

@@ -4,7 +4,7 @@
 
 Übersetzungen für deine Webseite.
 
-<p align="center"><img src="language-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Bildschirmfoto"></p>
 
 ## Wie man eine Übersetzung installiert
 

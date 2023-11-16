@@ -2,7 +2,7 @@
 
 Türk dili.
 
-<p align="center"><img src="turkish-screenshot.png?raw=true" alt="Ekran görüntüsü"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Ekran görüntüsü"></p>
 
 ## Bir uzantı nasıl kurulur
 

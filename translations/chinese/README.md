@@ -2,7 +2,7 @@
 
 简体中文。
 
-<p align="center"><img src="chinese-screenshot.png?raw=true" alt="截屏"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="截屏"></p>
 
 ## 如何安装扩展
 
