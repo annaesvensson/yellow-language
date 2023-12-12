@@ -2,7 +2,7 @@
 
 Nederlandse taal.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Schermafbeelding"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Schermafbeelding"></p>
 
 ## Hoe een extensie te installeren
 

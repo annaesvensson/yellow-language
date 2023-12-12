@@ -2,7 +2,7 @@
 
 日本語。
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="スクリーンショット"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="スクリーンショット"></p>
 
 ## 拡張機能のインストール方法
 

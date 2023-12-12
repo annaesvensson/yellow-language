@@ -2,7 +2,7 @@
 
 Idioma portugues.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Captura de tela"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Captura de tela"></p>
 
 ## Como instalar uma extensão
 

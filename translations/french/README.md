@@ -2,7 +2,7 @@
 
 Langue française.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Capture d'écran"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Capture d'écran"></p>
 
 ## Comment installer une extension
 

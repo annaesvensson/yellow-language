@@ -2,7 +2,7 @@
 
 Magyar nyelv.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Képernyőkép"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Képernyőkép"></p>
 
 ## Hogyan kell telepíteni egy bővítményt
 

@@ -2,7 +2,7 @@
 
 Llengua catalana.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Captura de pantalla"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Captura de pantalla"></p>
 
 ## Com instal·lar una extensió
 

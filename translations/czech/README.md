@@ -2,7 +2,7 @@
 
 Český jazyk.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Snímek obrazovky"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Snímek obrazovky"></p>
 
 ## Jak nainstalovat rozšíření
 
