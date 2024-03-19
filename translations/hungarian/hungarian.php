@@ -14,6 +14,8 @@ class YellowHungarian {
             "LanguageDescription: Magyar",
             "LanguageTranslator: Ádám Tuba",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin egy téma Dieter Rams ihlette.",
             "BlogDescription: Blog for your website.",
             "BlogBy: by",

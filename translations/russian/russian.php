@@ -14,6 +14,8 @@ class YellowRussian {
             "LanguageDescription: Русский",
             "LanguageTranslator: Сергей Ворон",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Берлин - это тема, вдохновленная Dieter Rams.",
             "BlogDescription: Блог для вашего сайта.",
             "BlogBy: Автор",

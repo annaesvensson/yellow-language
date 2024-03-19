@@ -14,6 +14,8 @@ class YellowSlovak {
             "LanguageDescription: Slovenčina",
             "LanguageTranslator: Ádám Tuba",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin je téma inšpirovaná Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: od",

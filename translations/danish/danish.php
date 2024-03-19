@@ -14,6 +14,8 @@ class YellowDanish {
             "LanguageDescription: Dansk",
             "LanguageTranslator: David Garcia",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin er et tema inspireret af Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: af",

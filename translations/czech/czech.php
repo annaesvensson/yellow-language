@@ -14,6 +14,8 @@ class YellowCzech {
             "LanguageDescription: Čeština",
             "LanguageTranslator: Ufo Vyhuleny, albi",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Zpět nahoru",
             "BerlinDescription: Berlín je téma inspirované Dieterem Ramsem.",
             "BlogDescription: Blog pro tvoje stránky.",
             "BlogBy: Vytvořil",

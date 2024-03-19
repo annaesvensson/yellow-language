@@ -14,6 +14,8 @@ class YellowItalian {
             "LanguageDescription: Italiano",
             "LanguageTranslator: Giovanni Salmeri",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Torna all'inizio",
             "BerlinDescription: Berlin è un tema ispirato da Dieter Rams.",
             "BlogDescription: Blog per il tuo sito.",
             "BlogBy: di",

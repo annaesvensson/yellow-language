@@ -14,6 +14,8 @@ class YellowSwedish {
             "LanguageDescription: Svenska",
             "LanguageTranslator: Anna Svensson",
             "AnchorDescription: Visa ankarlänkar bredvid rubriker.",
+            "BacktotopDescription: Länk till toppen.",
+            "BacktotopLabel: Tillbaka till toppen",
             "BerlinDescription: Berlin är ett tema inspirerat av Dieter Rams.",
             "BlogDescription: Blogg för din webbplats.",
             "BlogBy: av",

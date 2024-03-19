@@ -14,6 +14,8 @@ class YellowDutch {
             "LanguageDescription: Nederlands",
             "LanguageTranslator: Robin Vannieuwenhuijse",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Terug naar boven",
             "BerlinDescription: Berlijn is een thema geïnspireerd door Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: door",

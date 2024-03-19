@@ -14,6 +14,8 @@ class YellowSpanish {
             "LanguageDescription: Español",
             "LanguageTranslator: Al Garcia, David Garcia",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Volver arriba",
             "BerlinDescription: Berlin es un tema inspirado en Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: por",

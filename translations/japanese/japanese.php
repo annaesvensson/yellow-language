@@ -14,6 +14,8 @@ class YellowJapanese {
             "LanguageDescription: 日本語",
             "LanguageTranslator: Yuhko Senuma, Tomonori Ikeda",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin is a theme inspired by Dieter Rams.",
             "BlogDescription: ウェブサイト用のブログ機能です。",
             "BlogBy: 作成者:",

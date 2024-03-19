@@ -14,6 +14,8 @@ class YellowChinese {
             "LanguageDescription: 简体中文",
             "LanguageTranslator: Hyson Lee",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin是一个漂亮的主题，灵感来自Dieter Rams.",
             "BlogDescription: 你网站的博客.",
             "BlogBy: 作者:",

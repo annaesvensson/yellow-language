@@ -14,6 +14,8 @@ class YellowCatalan {
             "LanguageDescription: Català",
             "LanguageTranslator: Andreu Ferrer",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin és un tema inspirat en Dieter Rams.",
             "BlogDescription: Blog per al vostre lloc web.",
             "BlogBy: per",

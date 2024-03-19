@@ -14,6 +14,8 @@ class YellowTurkish {
             "LanguageDescription: Türkçe",
             "LanguageTranslator: Osman Kars",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin, Dieter Rams`tan esinlenen güzel bir temadır.",
             "BlogDescription: Websiteniz için blog.",
             "BlogBy: tarafından",

@@ -14,6 +14,8 @@ class YellowEnglish {
             "LanguageDescription: English",
             "LanguageTranslator: Mark Seuffert",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin is a theme inspired by Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: by",

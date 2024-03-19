@@ -14,6 +14,8 @@ class YellowPolish {
             "LanguageDescription: Polski",
             "LanguageTranslator: Paweł Klockiewicz, Kanbeq",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin to motyw zainspirowany Dieter Rams.",
             "BlogDescription: System blogowania dla Twojej strony.",
             "BlogBy: przez",

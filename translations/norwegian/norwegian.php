@@ -14,6 +14,8 @@ class YellowNorwegian {
             "LanguageDescription: Norsk Bokmål",
             "LanguageTranslator: Per Arne Solvik",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Back to top",
             "BerlinDescription: Berlin er et tema inspirert av Dieter Rams.",
             "BlogDescription: Blog for your website.",
             "BlogBy: av",

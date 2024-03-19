@@ -14,6 +14,8 @@ class YellowFrench {
             "LanguageDescription: Français",
             "LanguageTranslator: Juh Nibreh",
             "AnchorDescription: Show anchor links next to headings.",
+            "BacktotopDescription: Back-to-top link.",
+            "BacktotopLabel: Retour au début",
             "BerlinDescription: Berlin est un thème inspiré de Dieter Rams.",
             "BlogDescription: Blog pour votre site web.",
             "BlogBy: par",
