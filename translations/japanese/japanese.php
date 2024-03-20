@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.43";
+    const VERSION = "0.8.44";
     public $yellow;         // access to API
     
     // Handle initialisation

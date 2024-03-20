@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.8.43";
+    const VERSION = "0.8.44";
     public $yellow;         // access to API
     
     // Handle initialisation

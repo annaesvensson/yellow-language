@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.8.43";
+    const VERSION = "0.8.44";
     public $yellow;         // access to API
     
     // Handle initialisation
