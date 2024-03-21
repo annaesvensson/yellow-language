@@ -222,7 +222,6 @@ class YellowCzech {
             "GermanDescription: Němčina.",
             "GooglecalendarDescription: Vkládej Google kalendáře.",
             "GooglemapDescription: Vkládej Google mapy.",
-            "HelloworldDescription: Rozanimovat text.",
             "HelpDescription: Nápověda pro tvůj web.",
             "HighlightDescription: Zvýraznit zdrojové kódy.",
             "HungarianDescription: Maďarština.",

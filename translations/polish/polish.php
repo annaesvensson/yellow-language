@@ -222,7 +222,6 @@ class YellowPolish {
             "GermanDescription: Język niemiecki.",
             "GooglecalendarDescription: Osadzanie Kalendarza Google.",
             "GooglemapDescription: Osadzanie Map Google.",
-            "HelloworldDescription: Make animated text.",
             "HelpDescription: Pomoc dla Twojej strony.",
             "HighlightDescription: Podświetl kod źródłowy.",
             "HungarianDescription: Język węgierski.",

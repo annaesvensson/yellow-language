@@ -222,7 +222,6 @@ class YellowJapanese {
             "GermanDescription: ドイツ語です。",
             "GooglecalendarDescription: Goggleカレンダーを埋め込めます。",
             "GooglemapDescription: Googleマップを埋め込めます。",
-            "HelloworldDescription: 動的なテキストを作成します。",
             "HelpDescription: ウェブサイトのためのヘルプです。",
             "HighlightDescription: ソースコードをシンタックスハイライト表示します。",
             "HungarianDescription: ハンガリー語です。",

@@ -222,7 +222,6 @@ class YellowRussian {
             "GermanDescription: Немецкий язык.",
             "GooglecalendarDescription: Вставить календарь Google.",
             "GooglemapDescription: Вставить карту Google.",
-            "HelloworldDescription: Сделать анимированный текст.",
             "HelpDescription: Помощь для вашего сайта.",
             "HighlightDescription: Подсветка исходного кода.",
             "HungarianDescription: Венгерский язык.",

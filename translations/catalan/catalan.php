@@ -222,7 +222,6 @@ class YellowCatalan {
             "GermanDescription: Llengua alemanya.",
             "GooglecalendarDescription: Incrusta el calendari de Google.",
             "GooglemapDescription: Incrusta el mapa de Google.",
-            "HelloworldDescription: Crea text animat.",
             "HelpDescription: Ajuda per al vostre lloc web.",
             "HighlightDescription: Ressaltar el codi font.",
             "HungarianDescription: Llengua hongaresa.",

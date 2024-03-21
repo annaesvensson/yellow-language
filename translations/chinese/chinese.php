@@ -222,7 +222,6 @@ class YellowChinese {
             "GermanDescription: 德语.",
             "GooglecalendarDescription: 嵌入Google日历的插件.",
             "GooglemapDescription: 嵌入Google地图的插件.",
-            "HelloworldDescription: 创建动画文本.",
             "HelpDescription: Help插件提供网站帮助.",
             "HighlightDescription: 高亮显示源代码的插件.",
             "HungarianDescription: 匈牙利语.",

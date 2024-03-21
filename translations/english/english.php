@@ -222,7 +222,6 @@ class YellowEnglish {
             "GermanDescription: German language.",
             "GooglecalendarDescription: Embed Google calendar.",
             "GooglemapDescription: Embed Google map.",
-            "HelloworldDescription: Make animated text.",
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",

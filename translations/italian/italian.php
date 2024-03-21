@@ -222,7 +222,6 @@ class YellowItalian {
             "GermanDescription: Lingua tedesco.",
             "GooglecalendarDescription: Inserisci un calendario Google.",
             "GooglemapDescription: Inserisci una mappa Google.",
-            "HelloworldDescription: Make animated text.",
             "HelpDescription: Aiuto per il tuo sito.",
             "HighlightDescription: Evidenzia sintatticamente il codice sorgente.",
             "HungarianDescription: Lingua ungherese.",

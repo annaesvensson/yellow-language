@@ -222,7 +222,6 @@ class YellowSwedish {
             "GermanDescription: Tyska språket.",
             "GooglecalendarDescription: Bädda in Google-kalender.",
             "GooglemapDescription: Bädda in Google-karta.",
-            "HelloworldDescription: Skapa animerad text.",
             "HelpDescription: Hjälp för din webbplats.",
             "HighlightDescription: Markera källkod.",
             "HungarianDescription: Ungerska språket.",

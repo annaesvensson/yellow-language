@@ -222,7 +222,6 @@ class YellowTurkish {
             "GermanDescription: German language.",
             "GooglecalendarDescription: Google takvimini yerleştirin.",
             "GooglemapDescription: Google haritasını yerleştirin.",
-            "HelloworldDescription: Make animated text.",
             "HelpDescription: Web siteniz için yardım.",
             "HighlightDescription: Kaynak kodunu vurgulayın.",
             "HungarianDescription: Hungarian language.",
