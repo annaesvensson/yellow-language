@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowGerman {
             "InstallExtensionWiki: Kleines Wiki",
             "InstallButton: Installieren",
             "InstallHomeTitle: Startseite",
-            "InstallHomeText: [image photo.jpg Beispiel rounded]\\n\\n[edit - Du kannst diese Seite im Webbrowser bearbeiten] oder einen Texteditor benutzen. [Hilfe finden](https://datenstrom.se/de/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Beispiel rounded]\\n\\n[edit - Du kannst diese Seite bearbeiten] oder einen Texteditor benutzen. [Hilfe finden](https://datenstrom.se/de/yellow/help/).",
             "InstallAboutTitle: Über",
             "InstallAboutText: [Erstellt mit Datenstrom Yellow](https://datenstrom.se/de/yellow/).",
             "InstallDefaultTitle: Seite",

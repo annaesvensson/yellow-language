@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowCatalan {
             "InstallExtensionWiki: Petit wiki",
             "InstallButton: Instal·lar",
             "InstallHomeTitle: Inici",
-            "InstallHomeText: [image photo.jpg Exemple rounded]\\n\\n[edit - Podeu editar aquesta pàgina en un navegador web] o utilitzar un editor de text. [Consulteu ajuda](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Exemple rounded]\\n\\n[edit - Podeu editar aquesta pàgina] o utilitzar un editor de text. [Consulteu ajuda](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Sobre",
             "InstallAboutText: [Fet amb Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Pàgina",

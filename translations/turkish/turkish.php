@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowTurkish {
             "InstallExtensionWiki: Küçük wiki",
             "InstallButton: Yükle",
             "InstallHomeTitle: Ana Sayfa",
-            "InstallHomeText: [image photo.jpg Misal rounded]\\n\\n[edit - Bu sayfayı bir web tarayıcısında düzenleyebilir] veya bir metin düzenleyici kullanabilirsiniz. [Yardım almak](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Misal rounded]\\n\\n[edit - Bu sayfayı düzenleyebilir] veya bir metin düzenleyici kullanabilirsiniz. [Yardım almak](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Bilgi",
             "InstallAboutText: [Datenstrom Yellow ile yapılmıştır](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Sayfa",

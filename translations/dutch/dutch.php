@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowDutch {
             "InstallExtensionWiki: Kleine wiki",
             "InstallButton: Installeren",
             "InstallHomeTitle: Home",
-            "InstallHomeText: [image photo.jpg Example rounded]\\n\\n[edit - You can edit this page in a web browser] or use a text editor. [Get help](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Example rounded]\\n\\n[edit - You can edit this page] or use a text editor. [Get help](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: About",
             "InstallAboutText: [Made with Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Page",

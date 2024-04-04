@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowItalian {
             "InstallExtensionWiki: Un piccolo wiki",
             "InstallButton: Installa",
             "InstallHomeTitle: Inizio",
-            "InstallHomeText: [image photo.jpg Esempio rounded]\\n\\n[edit - Puoi modificare questa pagina in un browser] o utilizzare un editor di testo. [Chiedi aiuto](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Esempio rounded]\\n\\n[edit - Puoi modificare questa pagina] o utilizzare un editor di testo. [Chiedi aiuto](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Informazioni",
             "InstallAboutText: [Realizzato con Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Pagina",

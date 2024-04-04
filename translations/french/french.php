@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowFrench {
             "InstallExtensionWiki: Petit wiki",
             "InstallButton: Installer",
             "InstallHomeTitle: Accueil",
-            "InstallHomeText: [image photo.jpg Exemple rounded]\\n\\n[edit - Vous pouvez modifier cette page dans un navigateur web] ou utiliser un éditeur de texte. [Obtenir de l'aide](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Exemple rounded]\\n\\n[edit - Vous pouvez modifier cette page] ou utiliser un éditeur de texte. [Obtenir de l'aide](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: À propos",
             "InstallAboutText: [Fabriqué avec Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Page",

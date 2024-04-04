@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowSwedish {
             "InstallExtensionWiki: Liten wiki",
             "InstallButton: Installera",
             "InstallHomeTitle: Hem",
-            "InstallHomeText: [image photo.jpg Exempel rounded]\\n\\n[edit - Du kan redigera den här sidan i en webbläsare] eller använda en textredigerare. [Få hjälp](https://datenstrom.se/sv/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Exempel rounded]\\n\\n[edit - Du kan redigera den här sidan] eller använda en textredigerare. [Få hjälp](https://datenstrom.se/sv/yellow/help/).",
             "InstallAboutTitle: Om",
             "InstallAboutText: [Gjord med hjälp av Datenstrom Yellow](https://datenstrom.se/sv/yellow/).",
             "InstallDefaultTitle: Sida",

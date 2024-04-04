@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowNorwegian {
             "InstallExtensionWiki: Liten wiki",
             "InstallButton: Installer",
             "InstallHomeTitle: Hjem",
-            "InstallHomeText: [image photo.jpg Eksempel rounded]\\n\\n[edit - Du kan redigere denne siden i en nettleser] eller bruke et tekstredigeringsprogram. [Få hjelp](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Eksempel rounded]\\n\\n[edit - Du kan redigere denne siden] eller bruke et tekstredigeringsprogram. [Få hjelp](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Om",
             "InstallAboutText: [Laget med hjelp av Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Side",

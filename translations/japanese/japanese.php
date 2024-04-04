@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowJapanese {
             "InstallExtensionWiki: 小さなウィキ",
             "InstallButton: インストール",
             "InstallHomeTitle: ホーム",
-            "InstallHomeText: [image photo.jpg 例 rounded]\\n\\n[edit - このページはウェブブラウザで編集できます]またはテキストエディタを使用してください。 [助けを得ます](https://datenstrom.se/yellow/help/)。",
+            "InstallHomeText: [image photo.jpg 例 rounded]\\n\\n[edit -このページは編集できます]またはテキストエディタを使用してください。 [助けを得ます](https://datenstrom.se/yellow/help/)。",
             "InstallAboutTitle: 情報",
             "InstallAboutText: [Datenstrom Yellow で作られました](https://datenstrom.se/yellow/)。",
             "InstallDefaultTitle: ページ",

@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowChinese {
             "InstallExtensionWiki: 小维基",
             "InstallButton: 安装",
             "InstallHomeTitle: 首页",
-            "InstallHomeText: [image photo.jpg 图片示例 rounded]\\n\\n[edit - 您可以在网络浏览器中编辑此页面] 或使用文本编辑器。 [得到帮助](https://datenstrom.se/yellow/help/)。",
+            "InstallHomeText: [image photo.jpg 图片示例 rounded]\\n\\n[edit -您可以编辑此页面] 或使用文本编辑器。 [得到帮助](https://datenstrom.se/yellow/help/)。",
             "InstallAboutTitle: 信息",
             "InstallAboutText: [制作 Datenstrom Yellow](https://datenstrom.se/yellow/)。",
             "InstallDefaultTitle: 页面",

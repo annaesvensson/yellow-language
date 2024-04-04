@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowSpanish {
             "InstallExtensionWiki: Pequeño wiki",
             "InstallButton: Instalar",
             "InstallHomeTitle: Inicio",
-            "InstallHomeText: [image photo.jpg Ejemplo rounded]\\n\\n[edit - Puede editar esta página en un navegador web] o utilizar un editor de texto. [Consigue ayuda](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Ejemplo rounded]\\n\\n[edit - Puede editar esta página] o utilizar un editor de texto. [Consigue ayuda](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: Acerca de",
             "InstallAboutText: [Hecho con Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Page",

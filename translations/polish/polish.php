@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.8.44";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -237,7 +237,7 @@ class YellowPolish {
             "InstallExtensionWiki: Mała wiki",
             "InstallButton: Zainstaluj",
             "InstallHomeTitle: Strona główna",
-            "InstallHomeText: [image photo.jpg Przykład rounded]\\n\\n[edit - Możesz edytować tę stronę w przeglądarce internetowej] lub skorzystać z edytora tekstu. [Uzyskać pomoc](https://datenstrom.se/yellow/help/).",
+            "InstallHomeText: [image photo.jpg Przykład rounded]\\n\\n[edit - Możesz edytować tę stronę] lub skorzystać z edytora tekstu. [Uzyskać pomoc](https://datenstrom.se/yellow/help/).",
             "InstallAboutTitle: O",
             "InstallAboutText: [Wykonane w Datenstrom Yellow](https://datenstrom.se/yellow/).",
             "InstallDefaultTitle: Strona",
