@@ -16,7 +16,7 @@ Translations for your website.
 
 ## How to improve a translation
 
-You can improve a translation if something is wrong. The installed languages are stored in your `system/extensions` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
+You can improve a translation if something is wrong. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
 
 ## Acknowledgements
 

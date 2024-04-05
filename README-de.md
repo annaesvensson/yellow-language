@@ -16,7 +16,7 @@
 
 ## Wie man eine Übersetzung verbessert
 
-Du kannst eine Übersetzung verbessern falls etwas nicht stimmt. Die installierten Sprachen befinden sich im `system/extensions`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
+Du kannst eine Übersetzung verbessern falls etwas nicht stimmt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
 
 ## Danksagung
 
