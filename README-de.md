@@ -6,13 +6,13 @@
 
 <p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
 
-## Wie man eine Übersetzung installiert
+## Wie man eine Erweiterung installiert
 
-[Eine Sprache auswählen](https://github.com/annaesvensson/yellow-language/tree/main/translations), ZIP-Datei herunterladen und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+[ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-language/raw/main/downloads/german.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 ## Wie man eine Übersetzung erstellt
 
-[Beginne mit der deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder [einer der vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Es reicht aus wenn du die Sprachdatei übersetzt und in ein neues Verzeichnis legst, ein Betreuer kümmert sich dann um den Rest. Hast du eine Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
+Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder einer der [vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine in einer Sprache enthalten sind. Es reicht aus wenn du die deutsche Sprachdatei übersetzt und in ein neues Verzeichnis legst. Ein Betreuer kann sich um alles weitere kümmern. Hast du eine Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
 
 ## Wie man eine Übersetzung verbessert
 

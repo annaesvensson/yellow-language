@@ -6,13 +6,13 @@
 
 <p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
 
-## Hur man installerar en översättning
+## Hur man installerar ett tillägg
 
-[Välj ett språk](https://github.com/annaesvensson/yellow-language/tree/main/translations), ladda ner ZIP-filen och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-language/raw/main/downloads/swedish.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Hur man gör en översättning
 
-[Börja med svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller [ett av tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment som ingår i ett språk. Det räcker om du översätter språkfilen och lägger den i en ny mapp, då kan en underhållare ta hand om resten. Gjorde du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för repository `annaesvensson/yellow-language`.
+Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller ett av [tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment som ingår i ett språk. Det räcker om du översätter svenska språkfilen och lägger den i en ny mapp. En underhållare kan ta hand om allt annat. Gjorde du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
 ## Hur man förbättrar en översättning
 

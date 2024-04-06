@@ -6,13 +6,13 @@ Translations for your website.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
-## How to install a translation
+## How to install an extension
 
-[Select a language](https://github.com/annaesvensson/yellow-language/tree/main/translations), download ZIP file and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/annaesvensson/yellow-language/raw/main/downloads/english.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to make a translation
 
-[Start with the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or [one of the available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. It is enough if you translate the language file and put it into a new folder, then a maintainer can take care of the rest. Did you make a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
+Start with the [English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or one of the [available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are included in a language. It is enough if you translate the English language file and put it into a new folder. A maintainer can take care of the everything else. Did you make a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
 
 ## How to improve a translation
 
