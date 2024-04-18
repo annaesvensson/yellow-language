@@ -12,7 +12,7 @@
 
 ## Wie man eine Übersetzung erstellt
 
-Bei der Installation einer Webseite wirst du mit einem Hallo in deiner Sprache begrüßt. Wenn deine Sprache fehlt, erstellen eine Übersetzung. Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder einer der [vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine vorhanden sind. Es reicht aus wenn du die deutsche Sprachdatei übersetzt. Ein Betreuer kann sich um alles weitere kümmern. Hast du eine Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
+Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt. Du kannst eine Übersetzung erstellen falls eine Sprache fehlt. Beginne mit der [deutschen Sprachdatei](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) oder einer der [vorhandenen Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations). Das zeigt dir welche Textzeilen und Textbausteine vorhanden sind. Es reicht aus wenn du die deutsche Sprachdatei übersetzt. Ein Betreuer kann sich um alles weitere kümmern. Hast du eine Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen zu GitHub hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
 
 ## Wie man eine Übersetzung verbessert
 
