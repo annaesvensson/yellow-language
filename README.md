@@ -12,11 +12,11 @@ Translations for your website.
 
 ## How to make a translation
 
-When you install a website you are greeted with a hello. You can make a translation if a language is missing. Start with the [English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or one of the [available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are available. It is enough if you translate the English language file. A maintainer can take care of everything else. Did you make a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
+When you install a website you are greeted with a hello. You can make a translation if a language is missing. Start with the [English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) or one of the [available languages](https://github.com/annaesvensson/yellow-language/tree/main/translations). This will show you which text lines and text fragments are available. It is enough if you translate the English language file. A maintainer can take care of everything else. Did you make a translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
 ## How to improve a translation
 
-You can improve a translation if something is wrong. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork this repository. Upload your changes to GitHub and create a pull request for the repository `annaesvensson/yellow-language`.
+You can improve a translation if something is wrong. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
 ## Acknowledgements
 

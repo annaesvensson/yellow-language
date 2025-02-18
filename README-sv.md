@@ -12,11 +12,11 @@
 
 ## Hur man gör en översättning
 
-När du installerar en webbplats hälsas du med ett hej. Du kan göra en översättning om ett språk saknas. Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller ett av [tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment är tillgängliga. Det räcker om du översätter svenska språkfilen. En underhållare kan ta hand om allt annat. Gjorde du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för repository `annaesvensson/yellow-language`.
+När du installerar en webbplats hälsas du med ett hej. Du kan göra en översättning om ett språk saknas. Börja med [svenska språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) eller ett av [tillgängliga språken](https://github.com/annaesvensson/yellow-language/tree/main/translations). Detta visa dig vilka textrader och textfragment är tillgängliga. Det räcker om du översätter svenska språkfilen. En underhållare kan ta hand om allt annat. Gjorde du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
 ## Hur man förbättrar en översättning
 
-Du kan förbättra en översättning om något är fel. De installerade språken finns i `system/workers` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar till GitHub och skapa en pull-request för repository `annaesvensson/yellow-language`.
+Du kan förbättra en översättning om något är fel. De installerade språken finns i `system/workers` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
 ## Tack
 
