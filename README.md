@@ -12,7 +12,7 @@ Translations for your website.
 
 ## How to make a translation
 
-When you install a website you are greeted with a hello. You can [translate the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) if a language is missing. This will show you which text lines and text fragments are available. A maintainer can take care of everything else. Did you make a translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
+When you install a website you are greeted with a hello. You can [translate the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) if a language is missing. This will show you which text lines and text fragments are available. A maintainer takes care of everything else. Did you make a translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
 ## How to improve a translation
 
