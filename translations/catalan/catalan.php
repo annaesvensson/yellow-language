@@ -220,8 +220,6 @@ class YellowCatalan {
             "GalleryDescription: Galeria d'imatges amb finestra emergent.",
             "GenerateDescription: Crear un lloc web estàtic.",
             "GermanDescription: Llengua alemanya.",
-            "GooglecalendarDescription: Incrusta el calendari de Google.",
-            "GooglemapDescription: Incrusta el mapa de Google.",
             "HelpDescription: Ajuda per al vostre lloc web.",
             "HighlightDescription: Ressaltar el codi font.",
             "HungarianDescription: Llengua hongaresa.",
@@ -292,8 +290,7 @@ class YellowCatalan {
             "WikiTag: Etiquetes:",
             "WikiSpecialPages: Totes les pàgines",
             "WikiSpecialChanges: Canvis recents",
-            "WittstockDescription: Wittstock és un tema sense classe.",
-            "YoutubeDescription: Incrusta vídeos de Youtube."));
+            "WittstockDescription: Wittstock és un tema sense classe."));
     }
     
     // Handle update

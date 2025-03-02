@@ -220,8 +220,6 @@ class YellowCzech {
             "GalleryDescription: Rozklikávací galerie obrázků.",
             "GenerateDescription: Vytvořte statický web.",
             "GermanDescription: Němčina.",
-            "GooglecalendarDescription: Vkládej Google kalendáře.",
-            "GooglemapDescription: Vkládej Google mapy.",
             "HelpDescription: Nápověda pro tvůj web.",
             "HighlightDescription: Zvýraznit zdrojové kódy.",
             "HungarianDescription: Maďarština.",
@@ -292,8 +290,7 @@ class YellowCzech {
             "WikiTag: Tagy:",
             "WikiSpecialPages: Všechny stránky",
             "WikiSpecialChanges: Poslední změny",
-            "WittstockDescription: Wittstock je téma bez použití tříd.",
-            "YoutubeDescription: Vkládej Youtube videa."));
+            "WittstockDescription: Wittstock je téma bez použití tříd."));
     }
     
     // Handle update

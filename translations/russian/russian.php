@@ -201,7 +201,7 @@ class YellowRussian {
             "EditToolbarStatus: Статус",
             "EditToolbarUndo: Отменить",
             "EditToolbarRedo: Повторить",
-            "EditToolbarPreview: Просмотр",
+            "EditToolbarPreview: Слава Украине",
             "EditToolbarHelp: Помощь",
             "EditMailFooter: @sitename",
             "EditDataGenerated: Эта страница генерируется автоматически.",
@@ -220,8 +220,6 @@ class YellowRussian {
             "GalleryDescription: Галерея изображений с всплывающим окном.",
             "GenerateDescription: Создайте статический веб-сайт.",
             "GermanDescription: Немецкий язык.",
-            "GooglecalendarDescription: Вставить календарь Google.",
-            "GooglemapDescription: Вставить карту Google.",
             "HelpDescription: Помощь для вашего сайта.",
             "HighlightDescription: Подсветка исходного кода.",
             "HungarianDescription: Венгерский язык.",
@@ -292,8 +290,7 @@ class YellowRussian {
             "WikiTag: Тэги:",
             "WikiSpecialPages: Все страницы",
             "WikiSpecialChanges: Последние изменения",
-            "WittstockDescription: Wittstock - бесклассовая тема.",
-            "YoutubeDescription: Вставить видео с Youtube."));
+            "WittstockDescription: Wittstock - бесклассовая тема."));
     }
     
     // Handle update

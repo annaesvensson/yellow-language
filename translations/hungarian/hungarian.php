@@ -220,8 +220,6 @@ class YellowHungarian {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Statikus weboldal készítése.",
             "GermanDescription: German language.",
-            "GooglecalendarDescription: Embed Google calendar.",
-            "GooglemapDescription: Embed Google map.",
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
@@ -292,8 +290,7 @@ class YellowHungarian {
             "WikiTag: Címke:",
             "WikiSpecialPages: Az összes oldal",
             "WikiSpecialChanges: Legutóbbi változások",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Embed Youtube videos."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

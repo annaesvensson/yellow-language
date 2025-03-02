@@ -2,7 +2,7 @@
 // English extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/english
 
 class YellowEnglish {
-    const VERSION = "0.9.1";
+    const VERSION = "0.9.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,8 +220,6 @@ class YellowEnglish {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Generate a static website.",
             "GermanDescription: German language.",
-            "GooglecalendarDescription: Embed Google calendar.",
-            "GooglemapDescription: Embed Google map.",
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
@@ -292,8 +290,7 @@ class YellowEnglish {
             "WikiTag: Tags:",
             "WikiSpecialPages: All pages",
             "WikiSpecialChanges: Recent changes",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Embed Youtube videos."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

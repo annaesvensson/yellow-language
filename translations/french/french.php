@@ -220,8 +220,6 @@ class YellowFrench {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Créez un site web statique.",
             "GermanDescription: German language.",
-            "GooglecalendarDescription: Embed Google calendar.",
-            "GooglemapDescription: Embed Google map.",
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
@@ -292,8 +290,7 @@ class YellowFrench {
             "WikiTag: Tags:",
             "WikiSpecialPages: Toutes les pages",
             "WikiSpecialChanges: Changements récents",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Embed Youtube videos."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

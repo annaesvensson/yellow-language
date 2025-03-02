@@ -220,8 +220,6 @@ class YellowDanish {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Generer en statisk hjemmeside.",
             "GermanDescription: German language.",
-            "GooglecalendarDescription: Embed Google calendar.",
-            "GooglemapDescription: Embed Google map.",
             "HelpDescription: Help for your website.",
             "HighlightDescription: Highlight source code.",
             "HungarianDescription: Hungarian language.",
@@ -292,8 +290,7 @@ class YellowDanish {
             "WikiTag: Tags:",
             "WikiSpecialPages: Alle sider",
             "WikiSpecialChanges: Ny ændringer",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Embed Youtube videos."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

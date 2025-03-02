@@ -220,8 +220,6 @@ class YellowTurkish {
             "GalleryDescription: Açılır pencereli resim galerisi.",
             "GenerateDescription: Statik bir web sitesi oluşturun.",
             "GermanDescription: German language.",
-            "GooglecalendarDescription: Google takvimini yerleştirin.",
-            "GooglemapDescription: Google haritasını yerleştirin.",
             "HelpDescription: Web siteniz için yardım.",
             "HighlightDescription: Kaynak kodunu vurgulayın.",
             "HungarianDescription: Hungarian language.",
@@ -292,8 +290,7 @@ class YellowTurkish {
             "WikiTag: Etiketler:",
             "WikiSpecialPages: Tüm Tayfalar",
             "WikiSpecialChanges: Son Değişiklikler",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Youtube videosu göm."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

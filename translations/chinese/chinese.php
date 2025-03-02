@@ -220,8 +220,6 @@ class YellowChinese {
             "GalleryDescription: 带图片弹窗的相册插件.",
             "GenerateDescription: 建立一个静态网站.",
             "GermanDescription: 德语.",
-            "GooglecalendarDescription: 嵌入Google日历的插件.",
-            "GooglemapDescription: 嵌入Google地图的插件.",
             "HelpDescription: Help插件提供网站帮助.",
             "HighlightDescription: 高亮显示源代码的插件.",
             "HungarianDescription: 匈牙利语.",
@@ -292,8 +290,7 @@ class YellowChinese {
             "WikiTag: 标签:",
             "WikiSpecialPages: 所有页面",
             "WikiSpecialChanges: 最近更改",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: 嵌入Youtube网站视频."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

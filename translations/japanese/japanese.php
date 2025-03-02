@@ -220,8 +220,6 @@ class YellowJapanese {
             "GalleryDescription: ポップアップ表示する画像ギャラリーです。",
             "GenerateDescription: 静的ウェブサイトを構築します。",
             "GermanDescription: ドイツ語です。",
-            "GooglecalendarDescription: Goggleカレンダーを埋め込めます。",
-            "GooglemapDescription: Googleマップを埋め込めます。",
             "HelpDescription: ウェブサイトのためのヘルプです。",
             "HighlightDescription: ソースコードをシンタックスハイライト表示します。",
             "HungarianDescription: ハンガリー語です。",
@@ -292,8 +290,7 @@ class YellowJapanese {
             "WikiTag: タグ:",
             "WikiSpecialPages: 全てのページ",
             "WikiSpecialChanges: 最近の更新状況",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: YouTube 動画を埋め込めます。"));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

@@ -220,8 +220,6 @@ class YellowPolish {
             "GalleryDescription: Galeria zdjęć z wyskakującym okienkiem.",
             "GenerateDescription: Zbuduj statyczną stronę internetową.",
             "GermanDescription: Język niemiecki.",
-            "GooglecalendarDescription: Osadzanie Kalendarza Google.",
-            "GooglemapDescription: Osadzanie Map Google.",
             "HelpDescription: Pomoc dla Twojej strony.",
             "HighlightDescription: Podświetl kod źródłowy.",
             "HungarianDescription: Język węgierski.",
@@ -292,8 +290,7 @@ class YellowPolish {
             "WikiTag: Tagi:",
             "WikiSpecialPages: Wszystkie strony",
             "WikiSpecialChanges: Ostatnie zmiany",
-            "WittstockDescription: Wittstock is a classless theme.",
-            "YoutubeDescription: Osadzanie filmów z YouTube."));
+            "WittstockDescription: Wittstock is a classless theme."));
     }
     
     // Handle update

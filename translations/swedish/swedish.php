@@ -220,8 +220,6 @@ class YellowSwedish {
             "GalleryDescription: Bildgalleri med popup.",
             "GenerateDescription: Generera en statisk webbplats.",
             "GermanDescription: Tyska språket.",
-            "GooglecalendarDescription: Bädda in Google-kalender.",
-            "GooglemapDescription: Bädda in Google-karta.",
             "HelpDescription: Hjälp för din webbplats.",
             "HighlightDescription: Markera källkod.",
             "HungarianDescription: Ungerska språket.",
@@ -292,8 +290,7 @@ class YellowSwedish {
             "WikiTag: Taggar:",
             "WikiSpecialPages: Alla sidor",
             "WikiSpecialChanges: Senaste ändringarna",
-            "WittstockDescription: Wittstock är ett klasslöst tema.",
-            "YoutubeDescription: Bädda in Youtube-videor."));
+            "WittstockDescription: Wittstock är ett klasslöst tema."));
     }
     
     // Handle update
