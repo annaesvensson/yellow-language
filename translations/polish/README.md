@@ -1,4 +1,4 @@
-# Polish 0.9.1
+# Polish 0.9.2
 
 Język polski.
 

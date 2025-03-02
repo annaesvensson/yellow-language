@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "0.9.1";
+    const VERSION = "0.9.2";
     public $yellow;         // access to API
     
     // Handle initialisation

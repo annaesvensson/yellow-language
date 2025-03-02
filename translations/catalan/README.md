@@ -1,4 +1,4 @@
-# Catalan 0.9.1
+# Catalan 0.9.2
 
 Llengua catalana.
 

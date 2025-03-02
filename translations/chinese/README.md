@@ -1,4 +1,4 @@
-# Chinese 0.9.1
+# Chinese 0.9.2
 
 简体中文。
 

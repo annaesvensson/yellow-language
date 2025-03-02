@@ -1,4 +1,4 @@
-# Japanese 0.9.1
+# Japanese 0.9.2
 
 日本語。
 

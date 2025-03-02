@@ -1,4 +1,4 @@
-# Danish 0.9.1
+# Danish 0.9.2
 
 Dansk sprog.
 

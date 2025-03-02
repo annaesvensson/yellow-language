@@ -1,4 +1,4 @@
-# Slovak 0.9.1
+# Slovak 0.9.2
 
 Slovenský jazyk.
 

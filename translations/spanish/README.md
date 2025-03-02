@@ -1,4 +1,4 @@
-# Spanish 0.9.1
+# Spanish 0.9.2
 
 Lengua española.
 

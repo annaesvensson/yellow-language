@@ -1,4 +1,4 @@
-# Italian 0.9.1
+# Italian 0.9.2
 
 Lingua italiano.
 
