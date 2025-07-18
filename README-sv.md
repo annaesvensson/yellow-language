@@ -10,7 +10,7 @@
 
 [Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-language/raw/main/downloads/swedish.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
-## Hur man gör en ny översättning
+## Hur man gör en översättning
 
 När du installerar en webbplats hälsas du med ett hej. Du kan [översätta språkfilen](https://github.com/annaesvensson/yellow-language/blob/main/translations/swedish/swedish.php) om ett språk saknas. Detta visa dig vilka textrader och textfragment är tillgängliga. En underhållare tar hand om allt annat. Gjorde du en ny översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
