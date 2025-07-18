@@ -10,7 +10,7 @@
 
 [ZIP-Datei herunterladen](https://github.com/annaesvensson/yellow-language/raw/main/downloads/german.zip) und in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
-## Wie man eine neue Übersetzung erstellt
+## Wie man eine Übersetzung erstellt
 
 Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt. Du kannst die [Sprachdatei übersetzen](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) falls eine Sprache fehlt. Das zeigt dir welche Textzeilen und Textbausteine vorhanden sind. Ein Betreuer kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
 
