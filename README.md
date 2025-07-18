@@ -10,7 +10,7 @@ Translations for your website.
 
 [Download ZIP file](https://github.com/annaesvensson/yellow-language/raw/main/downloads/english.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
-## How to make a new translation
+## How to make a translation
 
 When you install a website you are greeted with a hello. You can [translate the language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) if a language is missing. This will show you which text lines and text fragments are available. A maintainer takes care of everything else. Did you make a new translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
