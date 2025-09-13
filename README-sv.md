@@ -16,7 +16,7 @@ När du installerar en webbplats hälsas du med ett hej. Du kan [översätta spr
 
 ## Hur man förbättrar en översättning
 
-Du kan förbättra en översättning om något är fel. De installerade språken finns i `system/workers` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
+Du kan förbättra en översättning om något är fel eller saknas. De installerade språken finns i `system/workers` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
 ## Tack
 
