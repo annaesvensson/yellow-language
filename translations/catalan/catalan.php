@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -182,9 +182,9 @@ class YellowCatalan {
             "EditToolbarH1: Heading 1",
             "EditToolbarH2: Heading 2",
             "EditToolbarH3: Heading 3",
-            "EditToolbarParagraph: text normal",
+            "EditToolbarParagraph: Text normal",
+            "EditToolbarImportant: Text important",
             "EditToolbarPre: Codi font",
-            "EditToolbarNotice: Avís",
             "EditToolbarQuote: Cita",
             "EditToolbarBold: Negreta",
             "EditToolbarItalic: Cursiva",

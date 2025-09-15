@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowGerman {
             "EditToolbarH2: Überschrift 2",
             "EditToolbarH3: Überschrift 3",
             "EditToolbarParagraph: Normaler Text",
+            "EditToolbarImportant: Wichtiger Text",
             "EditToolbarPre: Quellcode",
-            "EditToolbarNotice: Hinweis",
             "EditToolbarQuote: Zitat",
             "EditToolbarBold: Fettschrift",
             "EditToolbarItalic: Kursiv",

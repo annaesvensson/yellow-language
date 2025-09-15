@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowItalian {
             "EditToolbarH2: Titolo 2",
             "EditToolbarH3: Titolo 3",
             "EditToolbarParagraph: Testo normale",
+            "EditToolbarImportant: Testo importante",
             "EditToolbarPre: Codice sorgente",
-            "EditToolbarNotice: Avviso",
             "EditToolbarQuote: Citazione",
             "EditToolbarBold: Neretto",
             "EditToolbarItalic: Corsivo",

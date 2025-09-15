@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowFrench {
             "EditToolbarH2: Titre 2",
             "EditToolbarH3: Titre 3",
             "EditToolbarParagraph: Texte normal",
+            "EditToolbarImportant: Texte important",
             "EditToolbarPre: Code source",
-            "EditToolbarNotice: Avis",
             "EditToolbarQuote: Citation",
             "EditToolbarBold: Gras",
             "EditToolbarItalic: Italique",

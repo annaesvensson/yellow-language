@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowPolish {
             "EditToolbarH2: Nagłówek 2",
             "EditToolbarH3: Nagłówek 3",
             "EditToolbarParagraph: Normalny tekst",
+            "EditToolbarImportant: Important text",
             "EditToolbarPre: Kod źródłowy",
-            "EditToolbarNotice: Ostrzeżenie",
             "EditToolbarQuote: Cytat",
             "EditToolbarBold: Pogrubienie",
             "EditToolbarItalic: Kursywa",

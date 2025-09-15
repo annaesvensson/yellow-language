@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowTurkish {
             "EditToolbarH2: Başlık 2",
             "EditToolbarH3: Başlık 3",
             "EditToolbarParagraph: Normal yazı",
+            "EditToolbarImportant: Önemli yazı",
             "EditToolbarPre: Kaynak Kodu",
-            "EditToolbarNotice: Farkına varmak",
             "EditToolbarQuote: Quote",
             "EditToolbarBold: Kalın",
             "EditToolbarItalic: Italic",

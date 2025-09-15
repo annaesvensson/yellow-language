@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowJapanese {
             "EditToolbarH2: 見出し2",
             "EditToolbarH3: 見出し3",
             "EditToolbarParagraph: ノーマル",
+            "EditToolbarImportant: 重要なテキスト",
             "EditToolbarPre: ソース",
-            "EditToolbarNotice: 通知",
             "EditToolbarQuote: 引用",
             "EditToolbarBold: 太字",
             "EditToolbarItalic: 斜体",

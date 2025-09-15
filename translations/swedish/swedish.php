@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowSwedish {
             "EditToolbarH2: Rubrik 2",
             "EditToolbarH3: Rubrik 3",
             "EditToolbarParagraph: Normal text",
+            "EditToolbarImportant: Viktig text",
             "EditToolbarPre: Källkod",
-            "EditToolbarNotice: Indikation",
             "EditToolbarQuote: Citat",
             "EditToolbarBold: Fet",
             "EditToolbarItalic: Kursiv",

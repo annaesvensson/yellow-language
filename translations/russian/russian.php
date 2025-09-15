@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowRussian {
             "EditToolbarH2: Заголовок 2",
             "EditToolbarH3: Заголовок 3",
             "EditToolbarParagraph: Обычный текст",
+            "EditToolbarImportant: Важный текст",
             "EditToolbarPre: Исходный код",
-            "EditToolbarNotice: Уведомление",
             "EditToolbarQuote: Цитата",
             "EditToolbarBold: Жирный",
             "EditToolbarItalic: Курсивный",

@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowDanish {
             "EditToolbarH2: Heading 2",
             "EditToolbarH3: Heading 3",
             "EditToolbarParagraph: Normal text",
+            "EditToolbarImportant: Important text",
             "EditToolbarPre: Source code",
-            "EditToolbarNotice: Notice",
             "EditToolbarQuote: Quote",
             "EditToolbarBold: Bold",
             "EditToolbarItalic: Italic",

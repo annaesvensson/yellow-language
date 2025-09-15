@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowNorwegian {
             "EditToolbarH2: Overskrift 2",
             "EditToolbarH3: Overskrift 3",
             "EditToolbarParagraph: Normal tekst",
+            "EditToolbarImportant: Vigtik tekst",
             "EditToolbarPre: Kildekode",
-            "EditToolbarNotice: Notis",
             "EditToolbarQuote: Sitat",
             "EditToolbarBold: Fet",
             "EditToolbarItalic: Kursiv",

@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowDutch {
             "EditToolbarH2: Hoofding 2",
             "EditToolbarH3: Hoofding 3",
             "EditToolbarParagraph: Normale tekst",
+            "EditToolbarImportant: Belangrijke tekst",
             "EditToolbarPre: Broncode",
-            "EditToolbarNotice: Kennisgeving",
             "EditToolbarQuote: Citaat",
             "EditToolbarBold: Vet",
             "EditToolbarItalic: Cursief",

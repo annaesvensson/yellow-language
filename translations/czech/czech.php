@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowCzech {
             "EditToolbarH2: Nadpis 2",
             "EditToolbarH3: Nadpis 3",
             "EditToolbarParagraph: Běžný text",
+            "EditToolbarImportant: Important text",
             "EditToolbarPre: Zdrojový kód",
-            "EditToolbarNotice: Zvýraznění",
             "EditToolbarQuote: Citace",
             "EditToolbarBold: Tlustě",
             "EditToolbarItalic: Kurzíva",

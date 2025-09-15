@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowChinese {
             "EditToolbarH2: 标题 2",
             "EditToolbarH3: 标题 3",
             "EditToolbarParagraph: 常规文本",
+            "EditToolbarImportant: 重要文本",
             "EditToolbarPre: 源代码",
-            "EditToolbarNotice: 通知",
             "EditToolbarQuote: 引用",
             "EditToolbarBold: 粗体",
             "EditToolbarItalic: 斜体",

@@ -1,4 +1,4 @@
-# Swedish 0.9.2
+# Swedish 0.9.3
 
 Svenska språket.
 

@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "0.9.2";
+    const VERSION = "0.9.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -183,8 +183,8 @@ class YellowPortuguese {
             "EditToolbarH2: Cabeçalho 2",
             "EditToolbarH3: Cabeçalho 3",
             "EditToolbarParagraph: Texto Normal",
+            "EditToolbarImportant: Texto Importante",
             "EditToolbarPre: Código Fonte",
-            "EditToolbarNotice: Aviso",
             "EditToolbarQuote: Citação",
             "EditToolbarBold: Negrito",
             "EditToolbarItalic: Italico",
