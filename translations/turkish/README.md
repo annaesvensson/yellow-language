@@ -10,7 +10,7 @@ Türk dili.
 
 ## Bir dil nasıl özelleştirilir
 
-Tüm dil ayarları `system/extensions/yellow-language.ini` dosyasında saklanır. Bu ayarları düzenleyebilir ve ayrıca resim yazıları gibi kendi dil ayarlarınızı ekleyebilirsiniz. Web sitesi güncellendiğinde yaptığınız değişikliklerin üzerine yazılmaz.
+Tüm dil ayarları `system/extensions/yellow-language.ini` dosyasında saklanır. Bu dosyayı istediğiniz gibi değiştirebilir ve ayrıca resim yazıları gibi kendi dil ayarlarınızı ekleyebilirsiniz. Web sitesi güncellendiğinde yaptığınız değişikliklerin üzerine yazılmaz.
 
 Varsayılan dil, `system/extensions/yellow-system.ini` dosyasında tanımlanmıştır. Her sayfanın üst kısmındaki [sayfa ayarlarında](https://github.com/annaesvensson/yellow-core#settings-page) farklı bir dil tanımlanabilir, örneğin `Language: tr`. [Diller hakkında daha fazla bilgi edinin](https://datenstrom.se/yellow/help/how-to-customise-languages).
 

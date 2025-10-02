@@ -10,7 +10,7 @@
 
 ## 如何自定义语言
 
-所有语言设置都存储在文件 `system/extensions/yellow-language.ini` 中。 您可以编辑这些设置并添加您自己的语言设置，例如图像标题。 当网站更新时，您的更改不会被覆盖。
+所有语言设置都存储在文件 `system/extensions/yellow-language.ini` 中。 您可以根据需要更改此文件，并添加您自己的语言设置，例如图片标题。网站更新时，您的更改不会被覆盖。
 
 默认语言在文件 `system/extensions/yellow-system.ini` 中定义。 可以在每个页面顶部的 [页面设置](https://github.com/annaesvensson/yellow-core#settings-page) 中定义不同的语言，例如 `Language: zh`。 [了解有关语言的更多信息](https://datenstrom.se/yellow/help/how-to-customise-languages)。
 

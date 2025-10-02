@@ -10,7 +10,7 @@ Magyar nyelv.
 
 ## Hogyan szabhatunk testre egy nyelvet
 
-Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Módosíthatja ezeket a beállításokat, és hozzáadhatja saját nyelvi beállításait is, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
+Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Ezt a fájlt kedved szerint módosíthatod, és hozzáadhatja saját nyelvi beállításait is, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
 
 Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`. [További információ a nyelvekről](https://datenstrom.se/yellow/help/how-to-customise-languages).
 

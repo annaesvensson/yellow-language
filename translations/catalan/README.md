@@ -10,7 +10,7 @@ Llengua catalana.
 
 ## Com personalitzar un idioma
 
-Totes les configuracions d'idiomes s'emmagatzemen al fitxer `system/extensions/yellow-language.ini`. Podeu editar aquesta configuració i també afegir la vostra pròpia configuració d'idioma, per exemple, llegendes d'imatges. Els vostres canvis no se sobreescriuran quan s'actualitzi el lloc web.
+Totes les configuracions d'idiomes s'emmagatzemen al fitxer `system/extensions/yellow-language.ini`. Podeu canviar aquest fitxer com vulgueu i també afegir la vostra pròpia configuració d'idioma, per exemple, llegendes d'imatges. Els vostres canvis no se sobreescriuran quan s'actualitzi el lloc web.
 
 L'idioma predeterminat es defineix al fitxer `system/extensions/yellow-system.ini`. També pot definir un idioma diferent a la [configuració de la pàgina](https://github.com/annaesvensson/yellow-core#settings-page) a la part superior de cada pàgina, per exemple `Language: ca`. [Més informació sobre idiomes](https://datenstrom.se/yellow/help/how-to-customise-languages).
 

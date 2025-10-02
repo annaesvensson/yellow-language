@@ -10,7 +10,7 @@ Slovenský jazyk.
 
 ## Ako prispôsobiť jazyk
 
-Všetky nastavenia jazykov sú uložené v súbore `system/extensions/yellow-language.ini`. Tieto nastavenia môžete upraviť a tiež pridať svoje vlastné jazykové nastavenia, napríklad popisky obrázkov. Vaše zmeny sa pri aktualizácii webovej stránky neprepíšu.
+Všetky nastavenia jazykov sú uložené v súbore `system/extensions/yellow-language.ini`. Tento súbor môžete podľa potreby zmeniť a pridať aj vlastné jazykové nastavenia, napríklad popisky obrázkov. Vaše zmeny sa pri aktualizácii webovej stránky neprepíšu.
 
 Predvolený jazyk je definovaný v súbore `system/extensions/yellow-system.ini`. Iný jazyk možno definovať v [nastaveniach stránky](https://github.com/annaesvensson/yellow-core#settings-page) v hornej časti každej stránky, napríklad `Language: sk`. [Ďalšie informácie o jazykoch](https://datenstrom.se/yellow/help/how-to-customise-languages).
 

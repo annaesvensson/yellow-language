@@ -10,7 +10,7 @@ Langue française.
 
 ## Comment personnaliser une langue
 
-Tous les paramètres de langues sont stockés dans le fichier `system/extensions/yellow-language.ini`. Vous pouvez modifier ces paramètres et également ajouter vos propres paramètres de langue, par exemple des légendes d'image. Vos modifications ne seront pas écrasées lors de la mise à jour du site web.
+Tous les paramètres de langues sont stockés dans le fichier `system/extensions/yellow-language.ini`. Vous pouvez modifier ce fichier à votre guise et également ajouter vos propres paramètres de langue, par exemple des légendes d'image. Vos modifications ne seront pas écrasées lors de la mise à jour du site web.
 
 La langue par défaut est définie dans le fichier `system/extensions/yellow-system.ini`. Une langue différente peut être définie dans les [paramètres de la page](https://github.com/annaesvensson/yellow-core#settings-page) en haut de chaque page, par exemple `Langue: fr`. [En savoir plus sur les langues](https://datenstrom.se/yellow/help/how-to-customise-languages).
 

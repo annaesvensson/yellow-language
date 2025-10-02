@@ -10,7 +10,7 @@ Svenska språket.
 
 ## Hur man anpassar ett språk
 
-Alla språkinställningar lagras i filen `system/extensions/yellow-language.ini`. Du kan redigera dessa inställningar och även lägga till dina egna språkinställningar, till exempel bildtexter. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
+Alla språkinställningar lagras i filen `system/extensions/yellow-language.ini`. Du kan ändra den här filen som du vill och även lägga till dina egna språkinställningar, till exempel bildtexter. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
 
 Standardspråket definieras i filen `system/extensions/yellow-system.ini`. Ett annat språk kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på varje sida, till exempel `Language: sv`. [Läs mer om språk](https://datenstrom.se/sv/yellow/help/how-to-customise-languages).
 
