@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowItalian {
             "TocDescription: Indice.",
             "TrafficDescription: Genera analisi del traffico dai file di registro.",
             "TurkishDescription: Turkish/Türkçe with language `tr`.",
-            "UpdateDescription: Mantieni aggiornato il tuo sito.",
+            "UpdateDescription: Mantieni aggiornate le tue estensioni.",
             "UpdateExtensionDefaultDescription: Nessuna descrizione è disponibile.",
             "UpdateExtensionDeveloper: Sviluppato da @x.",
             "UpdateExtensionDesigner: Progettato da @x.",

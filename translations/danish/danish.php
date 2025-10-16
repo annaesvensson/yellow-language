@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowDanish {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "UpdateDescription: Hold dit websted opdateret.",
+            "UpdateDescription: Hold dine udvidelser opdaterede.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",

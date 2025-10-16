@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowSwedish {
             "TocDescription: Innehållsförteckning.",
             "TrafficDescription: Skapa trafikanalyser från loggfiler.",
             "TurkishDescription: Turkiska språket.",
-            "UpdateDescription: Håll din webbplats uppdaterad.",
+            "UpdateDescription: Håll dina tillägg uppdaterade.",
             "UpdateExtensionDefaultDescription: Ingen beskrivning finns tillgänglig.",
             "UpdateExtensionDeveloper: Utvecklad av @x.",
             "UpdateExtensionDesigner: Designad av @x.",

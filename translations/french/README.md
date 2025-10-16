@@ -1,4 +1,4 @@
-# French 0.9.3
+# French 0.9.4
 
 Langue française.
 

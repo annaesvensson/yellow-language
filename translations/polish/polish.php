@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowPolish {
             "TocDescription: Spis treści.",
             "TrafficDescription: Twórz analizy ruchu z plików dziennika.",
             "TurkishDescription: Turkish language.",
-            "UpdateDescription: Aktualizuj swoją witrynę.",
+            "UpdateDescription: Utrzymuj swoje rozszerzenia na bieżąco.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",

@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowCatalan {
             "TocDescription: Taula de continguts.",
             "TrafficDescription: Creeu anàlisis de trànsit a partir de fitxers de registre.",
             "TurkishDescription: Idioma turc.",
-            "UpdateDescription: Manteniu el lloc web actualitzat.",
+            "UpdateDescription: Mantingueu les vostres extensions actualitzades.",
             "UpdateExtensionDefaultDescription: No hi ha descripció disponible.",
             "UpdateExtensionDeveloper: Desenvolupat per @x.",
             "UpdateExtensionDesigner: Dissenyat per @x.",

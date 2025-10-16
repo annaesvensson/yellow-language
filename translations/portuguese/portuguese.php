@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowPortuguese {
             "TocDescription: Índice.",
             "TrafficDescription: Crie análises de tráfego a partir de arquivos de log.",
             "TurkishDescription: Idioma Turco.",
-            "UpdateDescription: Mantenha seu site atualizado.",
+            "UpdateDescription: Mantenha as suas extensões atualizadas.",
             "UpdateExtensionDefaultDescription: Descrição não disponível.",
             "UpdateExtensionDeveloper: Desenvolvido por @x.",
             "UpdateExtensionDesigner: Projetado por @x.",

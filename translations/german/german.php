@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowGerman {
             "TocDescription: Inhaltsverzeichnis anzeigen.",
             "TrafficDescription: Zugriffsanalysen aus Logdateien erstellen.",
             "TurkishDescription: Türkische Sprache.",
-            "UpdateDescription: Webseite auf dem neusten Stand halten.",
+            "UpdateDescription: Erweiterungen auf dem neusten Stand halten.",
             "UpdateExtensionDefaultDescription: Keine Beschreibung vorhanden.",
             "UpdateExtensionDeveloper: Entwickelt von @x.",
             "UpdateExtensionDesigner: Entworfen von @x.",

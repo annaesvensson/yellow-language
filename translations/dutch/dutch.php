@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowDutch {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "UpdateDescription: Houd uw website up-to-date.",
+            "UpdateDescription: Houd uw extensies up-to-date.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",

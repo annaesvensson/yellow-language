@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowSpanish {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "UpdateDescription: Mantenga su sitio web actualizado.",
+            "UpdateDescription: Mantenga sus extensiones actualizadas.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",

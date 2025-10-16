@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowSlovak {
             "TocDescription: Table of contents.",
             "TrafficDescription: Create traffic analytics from log files.",
             "TurkishDescription: Turkish language.",
-            "UpdateDescription: Udržujte svoj web aktuálny.",
+            "UpdateDescription: Udržujte svoje rozšírenia aktuálne.",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",

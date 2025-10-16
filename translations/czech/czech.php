@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowCzech {
             "TocDescription: Obsah.",
             "TrafficDescription: Z logu vytvořit analýzu návštěvnosti.",
             "TurkishDescription: Turečtina.",
-            "UpdateDescription: Udržuj svůj web aktuální.",
+            "UpdateDescription: Udržujte svá rozšíření aktuální.",
             "UpdateExtensionDefaultDescription: Popis není k dispozici.",
             "UpdateExtensionDeveloper: Vyvinul(a) @x.",
             "UpdateExtensionDesigner: Navrhnul(a) @x.",

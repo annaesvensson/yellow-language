@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -280,7 +280,7 @@ class YellowChinese {
             "TocDescription: 内容目录插件.",
             "TrafficDescription: 从日志文件创建流量分析.",
             "TurkishDescription: 土耳其语.",
-            "UpdateDescription: 使您的网站保持最新。",
+            "UpdateDescription: 保持你的扩展程序为最新版本。",
             "UpdateExtensionDefaultDescription: No description available.",
             "UpdateExtensionDeveloper: Developed by @x.",
             "UpdateExtensionDesigner: Designed by @x.",
