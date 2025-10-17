@@ -14,6 +14,8 @@ Translations for your website.
 
 When you install a website you are greeted with a hello. You can [translate the English language file](https://github.com/annaesvensson/yellow-language/blob/main/translations/english/english.php) if a language is missing. This will show you which text lines and text fragments are available. A maintainer takes care of everything else. Did you make a new translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
+Alternatively you can create an issue and copy/paste the language file.
+
 ## How to improve a translation
 
 You can improve a translation if something is wrong or missing. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.

@@ -14,6 +14,8 @@
 
 Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt. Du kannst die [deutsche Sprachdatei übersetzen](https://github.com/annaesvensson/yellow-language/blob/main/translations/german/german.php) falls eine Sprache fehlt. Das zeigt dir welche Textzeilen und Textbausteine vorhanden sind. Ein Betreuer kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
 
+Alternativ kannst du ein Issue erstellen und die Sprachdatei kopieren/einfügen.
+
 ## Wie man eine Übersetzung verbessert
 
 Du kannst eine Übersetzung verbessern falls etwas nicht stimmt oder fehlt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork von diesem Repository. Lade deine Änderungen hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
