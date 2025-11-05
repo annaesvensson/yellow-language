@@ -184,7 +184,7 @@ class YellowPortuguese {
             "EditToolbarH3: Cabeçalho 3",
             "EditToolbarParagraph: Texto Normal",
             "EditToolbarImportant: Texto Importante",
-            "EditToolbarPre: Código Fonte",
+            "EditToolbarPre: Bloco de código",
             "EditToolbarQuote: Citação",
             "EditToolbarBold: Negrito",
             "EditToolbarItalic: Italico",

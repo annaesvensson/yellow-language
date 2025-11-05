@@ -184,7 +184,7 @@ class YellowCatalan {
             "EditToolbarH3: Heading 3",
             "EditToolbarParagraph: Text normal",
             "EditToolbarImportant: Text important",
-            "EditToolbarPre: Codi font",
+            "EditToolbarPre: Bloc de codi",
             "EditToolbarQuote: Cita",
             "EditToolbarBold: Negreta",
             "EditToolbarItalic: Cursiva",
