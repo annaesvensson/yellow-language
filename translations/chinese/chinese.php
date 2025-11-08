@@ -62,7 +62,7 @@ class YellowChinese {
             "CoreDateWeekstart: 星期日",
             "CoreDecimalSeparator: .",
             "CoreError404Title: 文件未找到",
-            "CoreError404Text: 找不到请求的文件。 不好了...",
+            "CoreError404Text: 找不到请求的文件。 不好了…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: 登录失败",

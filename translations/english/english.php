@@ -62,7 +62,7 @@ class YellowEnglish {
             "CoreDateWeekstart: Monday",
             "CoreDecimalSeparator: .",
             "CoreError404Title: File not found",
-            "CoreError404Text: The requested file was not found. Oh no...",
+            "CoreError404Text: The requested file was not found. Oh no…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: Login failed",

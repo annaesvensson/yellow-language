@@ -62,7 +62,7 @@ class YellowNorwegian {
             "CoreDateWeekstart: Mandag",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Filen kunne ikke lokaliseres",
-            "CoreError404Text: Den begärda filen kunde inte hittas. Å nej...",
+            "CoreError404Text: Den begärda filen kunde inte hittas. Å nej…",
             "CoreError420Title: Siden er ikke offentlig",
             "CoreError420Text: Den begärda siden er ikke offentlig. [yellow error]",
             "CoreError430Title: Innlogging feilet",

@@ -62,7 +62,7 @@ class YellowSlovak {
             "CoreDateWeekstart: Pondelok",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Datoteka ni najdena",
-            "CoreError404Text: Zahtevane datoteke ni bilo mogoče najti. Oh ne ...",
+            "CoreError404Text: Zahtevane datoteke ni bilo mogoče najti. Oh ne…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: Login failed",

@@ -62,7 +62,7 @@ class YellowPolish {
             "CoreDateWeekstart: poniedziałek",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Nie znaleziono pliku",
-            "CoreError404Text: Żądany plik nie został znaleziony. O nie...",
+            "CoreError404Text: Żądany plik nie został znaleziony. O nie…",
             "CoreError420Title: Strona nie jest publiczna",
             "CoreError420Text: Żądana strona nie jest publiczna. [yellow error]",
             "CoreError430Title: Logowanie nie powiodło się",

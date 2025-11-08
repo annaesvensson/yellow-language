@@ -62,7 +62,7 @@ class YellowTurkish {
             "CoreDateWeekstart: Pazartesi",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Dosya Bulunamadı",
-            "CoreError404Text: Aradığınız sayfa bulunamadı.",
+            "CoreError404Text: İstenilen dosya bulunamadı. Ah hayır…",
             "CoreError420Title: Sayfa herkese açık değil",
             "CoreError420Text: İstenen sayfa herkese açık değil. [yellow error]",
             "CoreError430Title: Hatalı giriş.",

@@ -62,7 +62,7 @@ class YellowJapanese {
             "CoreDateWeekstart: 月曜日",
             "CoreDecimalSeparator: .",
             "CoreError404Title: ファイルが見つかりません",
-            "CoreError404Text: 要求されたファイルは見つかりませんでした。",
+            "CoreError404Text: 要求されたファイルは見つかりませんでした。ああだめだ…",
             "CoreError420Title: ページが公開されていません",
             "CoreError420Text: 要求されたページは非公開です。 [yellow error]",
             "CoreError430Title: ログインに失敗しました",

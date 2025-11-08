@@ -62,7 +62,7 @@ class YellowCzech {
             "CoreDateWeekstart: pondělí",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Soubor nenalezen",
-            "CoreError404Text: Požadovaný soubor nebyl nalezen. Ach ne...",
+            "CoreError404Text: Požadovaný soubor nebyl nalezen. Ach ne…",
             "CoreError420Title: Stránka není veřejná",
             "CoreError420Text: Požadovaná stránka není veřejná. [yellow error]",
             "CoreError430Title: Přihlášení se nezdařilo",

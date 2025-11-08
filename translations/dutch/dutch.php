@@ -62,7 +62,7 @@ class YellowDutch {
             "CoreDateWeekstart: maandag",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Bestand niet gevonden",
-            "CoreError404Text: Het gevraagde bestand is niet gevonden. Oh nee...",
+            "CoreError404Text: Het gevraagde bestand is niet gevonden. Oh nee…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: Login failed",

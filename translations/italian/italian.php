@@ -62,7 +62,7 @@ class YellowItalian {
             "CoreDateWeekstart: lunedì",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Pagina non trovata",
-            "CoreError404Text: La pagina richiesta non è stata trovata. Oh no...",
+            "CoreError404Text: La pagina richiesta non è stata trovata. Oh no…",
             "CoreError420Title: Pagina non pubblica",
             "CoreError420Text: La pagina richiesta non è pubblica. [yellow error]",
             "CoreError430Title: Accesso non riuscito",

@@ -62,7 +62,7 @@ class YellowHungarian {
             "CoreDateWeekstart: Hétfő",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Fájl nem található",
-            "CoreError404Text: A kért fájl nem található. Óh ne...",
+            "CoreError404Text: A kért fájl nem található. Óh ne…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: Login failed",

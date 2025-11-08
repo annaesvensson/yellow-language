@@ -62,7 +62,7 @@ class YellowSwedish {
             "CoreDateWeekstart: Måndag",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Filen hittades inte",
-            "CoreError404Text: Den begärda filen kunde inte hittas. Å nej...",
+            "CoreError404Text: Den begärda filen kunde inte hittas. Å nej…",
             "CoreError420Title: Sidan är inte offentlig",
             "CoreError420Text: Den begärda sidan är inte offentlig. [yellow error]",
             "CoreError430Title: Inloggningen misslyckades",

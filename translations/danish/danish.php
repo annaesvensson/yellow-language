@@ -62,7 +62,7 @@ class YellowDanish {
             "CoreDateWeekstart: mandag",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Fil ikke fundet",
-            "CoreError404Text: Den ønskede fil blev ikke fundet. Åh nej...",
+            "CoreError404Text: Den ønskede fil blev ikke fundet. Åh nej…",
             "CoreError420Title: Page not public",
             "CoreError420Text: The requested page is not public. [yellow error]",
             "CoreError430Title: Login failed",
