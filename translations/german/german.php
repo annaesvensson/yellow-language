@@ -62,7 +62,7 @@ class YellowGerman {
             "CoreDateWeekstart: Montag",
             "CoreDecimalSeparator: ,",
             "CoreError404Title: Datei nicht gefunden",
-            "CoreError404Text: Die angeforderte Datei wurde nicht gefunden. Oh nein…",
+            "CoreError404Text: Die angeforderte Datei wurde nicht gefunden. Oh nein …",
             "CoreError420Title: Seite nicht öffentlich",
             "CoreError420Text: Die angeforderte Seite ist nicht öffentlich. [yellow error]",
             "CoreError430Title: Anmeldung fehlgeschlagen",
