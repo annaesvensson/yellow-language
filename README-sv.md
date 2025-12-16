@@ -22,7 +22,7 @@ Du kan förbättra en översättning om något är fel eller saknas. De installe
 
 ## Tack
 
-Detta tillägg innehåller översättningar av olika bidragsgivare. Tack för ett bra jobb.
+Detta tillägg innehåller arbete av olika översättare: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Tack för ett bra jobb.
 
 ## Utvecklare
 

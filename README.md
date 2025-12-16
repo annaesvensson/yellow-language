@@ -22,7 +22,7 @@ You can improve a translation if something is wrong or missing. The installed la
 
 ## Acknowledgements
 
-This extension includes translations by various contributors. Thank you for the good work.
+This extension includes the work of various translators: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Thank you for the good work.
 
 ## Developer
 

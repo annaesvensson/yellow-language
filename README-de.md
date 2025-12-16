@@ -22,7 +22,7 @@ Du kannst eine Übersetzung verbessern falls etwas nicht stimmt oder fehlt. Die 
 
 ## Danksagung
 
-Diese Erweiterung enthält Übersetzungen von verschiedenen Mitwirkenden. Danke für die gute Arbeit.
+Diese Erweiterung enthält die Arbeit von verschiedenen Übersetzern: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Danke für die gute Arbeit.
 
 ## Entwickler
 
