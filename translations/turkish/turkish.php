@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowTurkish {
             "GalleryDescription: Açılır pencereli resim galerisi.",
             "GenerateDescription: Statik bir web sitesi oluşturun.",
             "GermanDescription: German language.",
-            "HelpDescription: Web siteniz için yardım.",
+            "HelpDescription: Temel bilgilerin belgelendirilmesi.",
             "HighlightDescription: Kod bloklarını vurgula.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Simgeler ve semboller.",

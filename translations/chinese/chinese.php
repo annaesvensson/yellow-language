@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowChinese {
             "GalleryDescription: 带图片弹窗的相册插件.",
             "GenerateDescription: 建立一个静态网站.",
             "GermanDescription: 德语.",
-            "HelpDescription: Help插件提供网站帮助.",
+            "HelpDescription: 基础知识文档.",
             "HighlightDescription: 高亮显示代码块.",
             "HungarianDescription: 匈牙利语.",
             "IconDescription: Fa插件提供图标和符号.",

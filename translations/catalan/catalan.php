@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowCatalan {
             "GalleryDescription: Galeria d'imatges amb finestra emergent.",
             "GenerateDescription: Crear un lloc web estàtic.",
             "GermanDescription: Llengua alemanya.",
-            "HelpDescription: Ajuda per al vostre lloc web.",
+            "HelpDescription: Documentació dels conceptes bàsics.",
             "HighlightDescription: Ressaltar el codi font.",
             "HungarianDescription: Llengua hongaresa.",
             "IconDescription: Icones i símbols.",

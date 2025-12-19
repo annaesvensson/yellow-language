@@ -1,4 +1,4 @@
-# Czech 0.9.4
+# Czech 0.9.5
 
 Český jazyk.
 

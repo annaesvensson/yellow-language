@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowSpanish {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Crea un sitio web estático.",
             "GermanDescription: German language.",
-            "HelpDescription: Help for your website.",
+            "HelpDescription: Documentation of the basics.",
             "HighlightDescription: Highlight code blocks.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Icons and symbols.",

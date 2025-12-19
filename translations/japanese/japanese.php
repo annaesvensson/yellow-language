@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowJapanese {
             "GalleryDescription: ポップアップ表示する画像ギャラリーです。",
             "GenerateDescription: 静的ウェブサイトを構築します。",
             "GermanDescription: ドイツ語です。",
-            "HelpDescription: ウェブサイトのためのヘルプです。",
+            "HelpDescription: 基礎についてのドキュメント。",
             "HighlightDescription: コード ブロックを強調表示します。",
             "HungarianDescription: ハンガリー語です。",
             "IconDescription: アイコンとシンボルを追加します。",

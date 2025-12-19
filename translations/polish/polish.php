@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowPolish {
             "GalleryDescription: Galeria zdjęć z wyskakującym okienkiem.",
             "GenerateDescription: Zbuduj statyczną stronę internetową.",
             "GermanDescription: Język niemiecki.",
-            "HelpDescription: Pomoc dla Twojej strony.",
+            "HelpDescription: Dokumentacja podstaw.",
             "HighlightDescription: Podświetlaj bloki kodu.",
             "HungarianDescription: Język węgierski.",
             "IconDescription: Ikony i symbole.",

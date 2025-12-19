@@ -1,4 +1,4 @@
-# Norwegian 0.9.4
+# Norwegian 0.9.5
 
 Norsk språk.
 

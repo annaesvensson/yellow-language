@@ -1,4 +1,4 @@
-# Hungarian 0.9.4
+# Hungarian 0.9.5
 
 Magyar nyelv.
 

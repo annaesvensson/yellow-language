@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowItalian {
             "GalleryDescription: Galleria di immagini con popup.",
             "GenerateDescription: Costruisci un sito web statico.",
             "GermanDescription: Lingua tedesco.",
-            "HelpDescription: Aiuto per il tuo sito.",
+            "HelpDescription: Documentazione delle nozioni di base.",
             "HighlightDescription: Evidenzia i blocchi di codice.",
             "HungarianDescription: Lingua ungherese.",
             "IconDescription: Icone e simboli.",

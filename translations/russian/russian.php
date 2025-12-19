@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowRussian {
             "GalleryDescription: Галерея изображений с всплывающим окном.",
             "GenerateDescription: Создайте статический веб-сайт.",
             "GermanDescription: Немецкий язык.",
-            "HelpDescription: Помощь для вашего сайта.",
+            "HelpDescription: Документирование основных положений.",
             "HighlightDescription: Выделите блоки кода.",
             "HungarianDescription: Венгерский язык.",
             "IconDescription: Иконки и символы.",

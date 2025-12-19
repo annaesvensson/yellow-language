@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowPortuguese {
             "GalleryDescription: Galeria de imagens com popup.",
             "GenerateDescription: Generate a static website.",
             "GermanDescription: Idioma Alemão.",
-            "HelpDescription: Ajuda para o seu website.",
+            "HelpDescription: Documentação dos conceitos básicos.",
             "HighlightDescription: Código-fonte destacado.",
             "HungarianDescription: Idioma Húngaro.",
             "IconDescription: Ícones e símbolos.",

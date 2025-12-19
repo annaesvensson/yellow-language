@@ -1,4 +1,4 @@
-# Portuguese 0.9.4
+# Portuguese 0.9.5
 
 Idioma portugues.
 

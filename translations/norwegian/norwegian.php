@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "0.9.4";
+    const VERSION = "0.9.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -220,7 +220,7 @@ class YellowNorwegian {
             "GalleryDescription: Image gallery with popup.",
             "GenerateDescription: Generer et statisk nettsted.",
             "GermanDescription: German language.",
-            "HelpDescription: Help for your website.",
+            "HelpDescription: Documentation of the basics.",
             "HighlightDescription: Highlight code blocks.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Icons and symbols.",
