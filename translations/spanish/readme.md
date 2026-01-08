@@ -2,7 +2,7 @@
 
 Lengua española.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Captura de pantalla"></p>
+<p align="center"><img src="screenshot.png" alt="Captura de pantalla"></p>
 
 ## Cómo instalar una extensión
 

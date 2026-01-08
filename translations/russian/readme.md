@@ -2,7 +2,7 @@
 
 Русский язык.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Скриншот"></p>
+<p align="center"><img src="screenshot.png" alt="Скриншот"></p>
 
 ## Как установить расширение
 

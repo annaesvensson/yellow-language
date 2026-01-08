@@ -2,7 +2,7 @@
 
 Slovenský jazyk.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Snímka obrazovky"></p>
+<p align="center"><img src="screenshot.png" alt="Snímka obrazovky"></p>
 
 ## Ako nainštalovať rozšírenie
 

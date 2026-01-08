@@ -2,7 +2,7 @@
 
 Język polski.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Zrzut ekranu"></p>
+<p align="center"><img src="screenshot.png" alt="Zrzut ekranu"></p>
 
 ## Jak zainstalować rozszerzenie
 

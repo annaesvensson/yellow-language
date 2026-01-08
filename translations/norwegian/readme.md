@@ -2,7 +2,7 @@
 
 Norsk språk.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Skjermdump"></p>
+<p align="center"><img src="screenshot.png" alt="Skjermdump"></p>
 
 ## Hvordan installere en utvidelse
 
