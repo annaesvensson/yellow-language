@@ -1,6 +1,6 @@
 # Catalan 0.9.5
 
-Llengua catalana.
+Llengua catalana. Traduït per Andreu Ferrer.
 
 <p align="center"><img src="screenshot.png" alt="Captura de pantalla"></p>
 
@@ -14,6 +14,4 @@ Totes les configuracions d'idiomes s'emmagatzemen al fitxer `system/extensions/y
 
 L'idioma predeterminat es defineix al fitxer `system/extensions/yellow-system.ini`. També pot definir un idioma diferent a la [configuració de la pàgina](https://github.com/annaesvensson/yellow-core#settings-page) a la part superior de cada pàgina, per exemple `Language: ca`. [Més informació sobre idiomes](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Traductor
-
-Andreu Ferrer. [Aconsegueix ajuda](https://datenstrom.se/yellow/help/).
+Tens preguntes? [Aconsegueix ajuda](https://datenstrom.se/yellow/help/).

@@ -1,6 +1,6 @@
 # Swedish 0.9.5
 
-Svenska språket.
+Svenska språket. Översatt av Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
@@ -14,6 +14,4 @@ Alla språkinställningar lagras i filen `system/extensions/yellow-language.ini`
 
 Standardspråket definieras i filen `system/extensions/yellow-system.ini`. Ett annat språk kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/readme-sv.md#inställningar-page) högst upp på varje sida, till exempel `Language: sv`. [Läs mer om språk](https://datenstrom.se/sv/yellow/help/how-to-customise-languages).
 
-## Översättare
-
-Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).

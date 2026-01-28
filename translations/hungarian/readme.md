@@ -1,6 +1,6 @@
 # Hungarian 0.9.5
 
-Magyar nyelv.
+Magyar nyelv. Ádám Tuba fordítása.
 
 <p align="center"><img src="screenshot.png" alt="Képernyőkép"></p>
 
@@ -14,6 +14,4 @@ Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlba
 
 Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`. [További információ a nyelvekről](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Fordító
-
-Ádám Tuba. [Kaphat segítséget](https://datenstrom.se/yellow/help/).
+Kérdései vannak? [Kérjen segítséget](https://datenstrom.se/yellow/help/).

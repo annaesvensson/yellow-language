@@ -1,6 +1,6 @@
 # English 0.9.5
 
-English language.
+English language. Translated by Mark Seuffert.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -14,6 +14,4 @@ All language settings are stored in file `system/extensions/yellow-language.ini`
 
 The default language is defined in file `system/extensions/yellow-system.ini`. A different language can be defined in the [page settings](https://github.com/annaesvensson/yellow-core#settings-page) at the top of each page, for example `Language: en`. [Learn more about languages](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Translator
-
-Mark Seuffert. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

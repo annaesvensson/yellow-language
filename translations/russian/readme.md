@@ -1,6 +1,6 @@
 # Russian 0.9.5
 
-Русский язык.
+Русский язык. Перевод Сергей Ворон.
 
 <p align="center"><img src="screenshot.png" alt="Скриншот"></p>
 
@@ -14,6 +14,4 @@
 
 Язык по умолчанию определяется в файле `system/extensions/yellow-system.ini`. Другой язык можно определить в [настройках страницы](https://github.com/annaesvensson/yellow-core#settings-page) в верхней части каждой страницы, например `Language: ru`. [Подробнее о языках](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Перевод
-
-Сергей Ворон. [Получить помощь](https://datenstrom.se/yellow/help/).
+Есть вопросы? [Получить помощь](https://datenstrom.se/yellow/help/).

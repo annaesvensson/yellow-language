@@ -1,6 +1,6 @@
 # Spanish 0.9.5
 
-Lengua española.
+Lengua española. Traducido por Al Garcia, David Garcia.
 
 <p align="center"><img src="screenshot.png" alt="Captura de pantalla"></p>
 
@@ -14,6 +14,4 @@ Todas las configuraciones de idiomas se almacenan en el archivo `system/extensio
 
 El idioma predeterminado se define en el archivo `system/extensions/yellow-system.ini`. Se puede definir un idioma diferente en la [configuración de la página](https://github.com/annaesvensson/yellow-core#settings-page) en la parte superior de cada página, por ejemplo `Language: es`. [Más información sobre idiomas](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Traductor
-
-Al Garcia, David Garcia. [Consigue ayuda](https://datenstrom.se/yellow/help/).
+¿Tienes preguntas? [Consigue ayuda](https://datenstrom.se/yellow/help/).

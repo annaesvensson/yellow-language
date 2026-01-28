@@ -1,6 +1,6 @@
 # Slovak 0.9.5
 
-Slovenský jazyk.
+Slovenský jazyk. Preložil Ádám Tuba.
 
 <p align="center"><img src="screenshot.png" alt="Snímka obrazovky"></p>
 
@@ -14,6 +14,4 @@ Všetky nastavenia jazykov sú uložené v súbore `system/extensions/yellow-lan
 
 Predvolený jazyk je definovaný v súbore `system/extensions/yellow-system.ini`. Iný jazyk možno definovať v [nastaveniach stránky](https://github.com/annaesvensson/yellow-core#settings-page) v hornej časti každej stránky, napríklad `Language: sk`. [Ďalšie informácie o jazykoch](https://datenstrom.se/yellow/help/how-to-customise-languages).
 
-## Prekladateľ
-
-Ádám Tuba. [Získajte pomoc](https://datenstrom.se/yellow/help/).
+Máte otázky? [Získajte pomoc](https://datenstrom.se/yellow/help/).
