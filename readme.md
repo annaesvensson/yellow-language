@@ -10,7 +10,7 @@ Translations for your website. Developed by Anna Svensson.
 
 ## How to make a translation
 
-When you install a website you are greeted with a hello. You can [translate the English language file](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) if a language is missing. This will show you which text lines and text fragments are available. A maintainer takes care of everything else. Did you make a new translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
+When you install a website you are greeted with a hello and see a selection of possible languages. You can [translate the English language file](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) if your language is missing. The language file will show you which text lines and text fragments are available. A maintainer takes care of everything else. Did you make a new translation? Fork this repository. Upload your changes and create a pull request for the repository `annaesvensson/yellow-language`.
 
 Alternatively you can [create an issue](https://github.com/annaesvensson/yellow-language/issues) and copy/paste the language file.
 
