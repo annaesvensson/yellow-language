@@ -2,7 +2,7 @@
 
 简体中文。由 Hyson Lee 翻译。
 
-<p align="center"><img src="screenshot.png" alt="截屏"></p>
+<p align="center"><img src="screenshot.png" alt="截屏" /></p>
 
 ## 如何安装扩展
 

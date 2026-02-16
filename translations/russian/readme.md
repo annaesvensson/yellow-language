@@ -2,7 +2,7 @@
 
 Русский язык. Перевод Сергей Ворон.
 
-<p align="center"><img src="screenshot.png" alt="Скриншот"></p>
+<p align="center"><img src="screenshot.png" alt="Скриншот" /></p>
 
 ## Как установить расширение
 

@@ -2,7 +2,7 @@
 
 Langue française. Traduit par Juh Nibreh.
 
-<p align="center"><img src="screenshot.png" alt="Capture d'écran"></p>
+<p align="center"><img src="screenshot.png" alt="Capture d'écran" /></p>
 
 ## Comment installer une extension
 

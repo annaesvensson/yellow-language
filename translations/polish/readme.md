@@ -2,7 +2,7 @@
 
 Język polski. Przetłumaczone przez Paweł Klockiewicz, Kanbeq.
 
-<p align="center"><img src="screenshot.png" alt="Zrzut ekranu"></p>
+<p align="center"><img src="screenshot.png" alt="Zrzut ekranu" /></p>
 
 ## Jak zainstalować rozszerzenie
 

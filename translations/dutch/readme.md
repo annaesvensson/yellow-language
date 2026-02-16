@@ -2,7 +2,7 @@
 
 Nederlandse taal. Vertaald door Robin Vannieuwenhuijse.
 
-<p align="center"><img src="screenshot.png" alt="Schermafbeelding"></p>
+<p align="center"><img src="screenshot.png" alt="Schermafbeelding" /></p>
 
 ## Hoe een extensie te installeren
 

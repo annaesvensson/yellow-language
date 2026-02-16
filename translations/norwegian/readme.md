@@ -2,7 +2,7 @@
 
 Norsk språk. Oversatt av Per Arne Solvik.
 
-<p align="center"><img src="screenshot.png" alt="Skjermdump"></p>
+<p align="center"><img src="screenshot.png" alt="Skjermdump" /></p>
 
 ## Hvordan installere en utvidelse
 

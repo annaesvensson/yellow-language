@@ -2,7 +2,7 @@
 
 Llengua catalana. Traduït per Andreu Ferrer.
 
-<p align="center"><img src="screenshot.png" alt="Captura de pantalla"></p>
+<p align="center"><img src="screenshot.png" alt="Captura de pantalla" /></p>
 
 ## Com instal·lar una extensió
 

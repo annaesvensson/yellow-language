@@ -2,7 +2,7 @@
 
 日本語。Yuhko Senuma、Tomonori Ikeda による翻訳。
 
-<p align="center"><img src="screenshot.png" alt="スクリーンショット"></p>
+<p align="center"><img src="screenshot.png" alt="スクリーンショット" /></p>
 
 ## 拡張機能のインストール方法
 

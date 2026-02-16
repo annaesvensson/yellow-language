@@ -2,7 +2,7 @@
 
 Idioma portugues. Traduzido por Al Garcia, Quen-Quen Potter.
 
-<p align="center"><img src="screenshot.png" alt="Captura de tela"></p>
+<p align="center"><img src="screenshot.png" alt="Captura de tela" /></p>
 
 ## Como instalar uma extensão
 

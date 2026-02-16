@@ -2,7 +2,7 @@
 
 Lingua italiano. Tradotto da Giovanni Salmeri.
 
-<p align="center"><img src="screenshot.png" alt="Immagine dello schermo"></p>
+<p align="center"><img src="screenshot.png" alt="Immagine dello schermo" /></p>
 
 ## Come installare le estensioni
 

@@ -2,7 +2,7 @@
 
 Český jazyk. Přeložil Ufo Vyhuleny.
 
-<p align="center"><img src="screenshot.png" alt="Snímek obrazovky"></p>
+<p align="center"><img src="screenshot.png" alt="Snímek obrazovky" /></p>
 
 ## Jak nainstalovat rozšíření
 

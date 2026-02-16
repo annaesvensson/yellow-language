@@ -2,7 +2,7 @@
 
 Svenska språket. Översatt av Anna Svensson.
 
-<p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
+<p align="center"><img src="screenshot.png" alt="Skärmdump" /></p>
 
 ## Hur man installerar ett tillägg
 

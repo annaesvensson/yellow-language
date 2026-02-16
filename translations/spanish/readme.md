@@ -2,7 +2,7 @@
 
 Lengua española. Traducido por Al Garcia, David Garcia.
 
-<p align="center"><img src="screenshot.png" alt="Captura de pantalla"></p>
+<p align="center"><img src="screenshot.png" alt="Captura de pantalla" /></p>
 
 ## Cómo instalar una extensión
 

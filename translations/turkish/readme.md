@@ -2,7 +2,7 @@
 
 Türk dili. Osman Kars tarafından çevrilmiştir.
 
-<p align="center"><img src="screenshot.png" alt="Ekran görüntüsü"></p>
+<p align="center"><img src="screenshot.png" alt="Ekran görüntüsü" /></p>
 
 ## Bir uzantı nasıl kurulur
 

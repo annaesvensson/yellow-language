@@ -2,7 +2,7 @@
 
 Dansk sprog. Oversat af David Garcia.
 
-<p align="center"><img src="screenshot.png" alt="Skærmbillede"></p>
+<p align="center"><img src="screenshot.png" alt="Skærmbillede" /></p>
 
 ## Hvordan man installerer en udvidelse
 

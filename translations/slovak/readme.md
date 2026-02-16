@@ -2,7 +2,7 @@
 
 Slovenský jazyk. Preložil Ádám Tuba.
 
-<p align="center"><img src="screenshot.png" alt="Snímka obrazovky"></p>
+<p align="center"><img src="screenshot.png" alt="Snímka obrazovky" /></p>
 
 ## Ako nainštalovať rozšírenie
 
