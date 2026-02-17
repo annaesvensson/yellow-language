@@ -226,6 +226,7 @@ class YellowPortuguese {
             "IconDescription: Ícones e símbolos.",
             "ImageDescription: Adicione imagens e miniaturas.",
             "ImageDefaultAlt: Imagem sem descrição",
+            "IncludeDescription: Incluir páginas compartilhadas.",
             "InstagramDescription: Incorporar fotos do Instagram.",
             "InstallTitle: Olá",
             "InstallLanguage: Qual é o seu idioma?",

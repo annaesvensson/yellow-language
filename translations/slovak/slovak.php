@@ -226,6 +226,7 @@ class YellowSlovak {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image without description",
+            "IncludeDescription: Zahrnúť zdieľané stránky.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Zdravo",
             "InstallLanguage: Aký je váš jazyk?",

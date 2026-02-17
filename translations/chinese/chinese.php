@@ -226,6 +226,7 @@ class YellowChinese {
             "IconDescription: Fa插件提供图标和符号.",
             "ImageDescription: 添加图像和缩略图.",
             "ImageDefaultAlt: 图片无描述",
+            "IncludeDescription: 包含共享页面.",
             "InstagramDescription: 嵌入Instagram图片的插件.",
             "InstallTitle: 你好",
             "InstallLanguage: 你说什么语言？",

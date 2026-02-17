@@ -226,6 +226,7 @@ class YellowHungarian {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image without description",
+            "IncludeDescription: Megosztott oldalak hozzáadása.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Helló",
             "InstallLanguage: Mi a nyelved?",

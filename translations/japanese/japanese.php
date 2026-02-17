@@ -226,6 +226,7 @@ class YellowJapanese {
             "IconDescription: アイコンとシンボルを追加します。",
             "ImageDescription: 画像とサムネイルを追加します。",
             "ImageDefaultAlt: 説明のない画像です。",
+            "IncludeDescription: 共有ページを含む.",
             "InstagramDescription: インスタグラムを埋め込めます。",
             "InstallTitle: こんにちは",
             "InstallLanguage: あなたの言語は何ですか？",

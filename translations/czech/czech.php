@@ -226,6 +226,7 @@ class YellowCzech {
             "IconDescription: Ikony a symboly.",
             "ImageDescription: Přidejte obrázky a náhledy.",
             "ImageDefaultAlt: Obrázek bez popisku.",
+            "IncludeDescription: Zahrnout sdílené stránky.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Ahoj",
             "InstallLanguage: Jaký je tvůj jazyk?",

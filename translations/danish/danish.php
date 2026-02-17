@@ -226,6 +226,7 @@ class YellowDanish {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image without description",
+            "IncludeDescription: Inkluder delte sider.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Hej",
             "InstallLanguage: Hvad er dit sprog?",

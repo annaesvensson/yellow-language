@@ -226,6 +226,7 @@ class YellowDutch {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image without description",
+            "IncludeDescription: Gedeelde pagina's opnemen.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Hallo",
             "InstallLanguage: Welke taal spreek jij?",

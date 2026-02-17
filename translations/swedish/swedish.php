@@ -226,6 +226,7 @@ class YellowSwedish {
             "IconDescription: Ikoner och symboler.",
             "ImageDescription: Lägg till bilder och miniatyrbilder.",
             "ImageDefaultAlt: Bild utan beskrivning",
+            "IncludeDescription: Inkludera delade sidor.",
             "InstagramDescription: Bädda in Instagram-foton.",
             "InstallTitle: Hej",
             "InstallLanguage: Vad är ditt språk?",

@@ -226,6 +226,7 @@ class YellowTurkish {
             "IconDescription: Simgeler ve semboller.",
             "ImageDescription: Görüntüler ve küçük resimler ekleyin.",
             "ImageDefaultAlt: Açıklama olmayan resim",
+            "IncludeDescription: Paylaşılan sayfaları dahil et.",
             "InstagramDescription: Instagram fotoğraflarını yerleştirin.",
             "InstallTitle: Merhaba",
             "InstallLanguage: Dilin nedir?",

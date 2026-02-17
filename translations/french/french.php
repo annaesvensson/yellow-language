@@ -226,6 +226,7 @@ class YellowFrench {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image sans description",
+            "IncludeDescription: Inclure des pages partagées.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Bonjour",
             "InstallLanguage: Quelle langue parles-tu ?",

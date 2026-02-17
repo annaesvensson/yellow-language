@@ -226,6 +226,7 @@ class YellowCatalan {
             "IconDescription: Icones i símbols.",
             "ImageDescription: Afegeix imatges i miniatures.",
             "ImageDefaultAlt: Imatge sense descripció",
+            "IncludeDescription: Incloure pàgines compartides.",
             "InstagramDescription: Incrusta fotos d'Instagram.",
             "InstallTitle: Hola",
             "InstallLanguage: Quin és el seu idioma?",

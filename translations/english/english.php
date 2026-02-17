@@ -226,6 +226,7 @@ class YellowEnglish {
             "IconDescription: Icons and symbols.",
             "ImageDescription: Add images and thumbnails.",
             "ImageDefaultAlt: Image without description",
+            "IncludeDescription: Include shared pages.",
             "InstagramDescription: Embed Instagram photos.",
             "InstallTitle: Hello",
             "InstallLanguage: What's your language?",

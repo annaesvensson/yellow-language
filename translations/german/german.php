@@ -226,6 +226,7 @@ class YellowGerman {
             "IconDescription: Icons und Symbole.",
             "ImageDescription: Bilder in unterschiedlichen Größen hinzufügen.",
             "ImageDefaultAlt: Bild ohne Beschreibung",
+            "IncludeDescription: Geteilte Seiten einbinden.",
             "InstagramDescription: Instagram-Fotos einbinden.",
             "InstallTitle: Hallo",
             "InstallLanguage: Was ist deine Sprache?",

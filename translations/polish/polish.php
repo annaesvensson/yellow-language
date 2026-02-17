@@ -226,6 +226,7 @@ class YellowPolish {
             "IconDescription: Ikony i symbole.",
             "ImageDescription: Dodaj obrazy i miniatury.",
             "ImageDefaultAlt: Obraz bez opisu",
+            "IncludeDescription: Dołącz udostępnione strony.",
             "InstagramDescription: Osadzanie zdjęć z Instagrama.",
             "InstallTitle: Witaj",
             "InstallLanguage: Jaki jest twój język?",

@@ -226,6 +226,7 @@ class YellowRussian {
             "IconDescription: Иконки и символы.",
             "ImageDescription: Добавьте изображения и миниатюры.",
             "ImageDefaultAlt: Изображение без описания",
+            "IncludeDescription: Включить общие страницы.",
             "InstagramDescription: Вставить фото из Instagram.",
             "InstallTitle: Здравствуйте",
             "InstallLanguage: Какой ваш язык?",
