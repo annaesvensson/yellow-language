@@ -12,8 +12,6 @@
 
 När du installerar en webbplats hälsas du med ett hej och ser ett urval av språk. För närvarande finns det [cirka 20 språk](https://github.com/annaesvensson/yellow-language/tree/main/translations) tillgängliga. Du kan [översätta engelska språkfilen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) om ditt språk saknas. Den engelska språkfilen visar vilka textrader och textfragment som finns tillgängliga och behöver översättas. En underhållare tar hand om allt annat. Gjorde du en ny översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
 
-Alternativt kan du [skapa en issue](https://github.com/annaesvensson/yellow-language/issues) och kopiera/klistra in språkfilen.
-
 ## Hur man förbättrar en översättning
 
 Du kan förbättra en översättning om något är fel eller saknas. De installerade språken finns i `system/workers` mappen. Ibland innehåller de textrader på engelska, som inte har översatts. Därför är det bra att då och då kolla om allt är okej. Förbättrade du en översättning? Gör en fork av detta repository. Ladda upp dina ändringar och skapa en pull-request för repository `annaesvensson/yellow-language`.
