@@ -36,7 +36,7 @@ class YellowGerman {
             "ContactMailSpam: [Spam]",
             "ContactMailHeader: Du hast eine Nachricht von @sender erhalten:",
             "ContactMailFooter: Diese E-Mail wurde über @sitename verschickt - @title",
-            "ContactStatusNone: Sag Hallo! Dein Feedback ist sehr willkommen.",
+            "ContactStatusNone: Sag Hallo! Wir freuen uns über dein Feedback.",
             "ContactStatusIncomplete: Bitte alle Felder ausfüllen.",
             "ContactStatusInvalid: Bitte eine gültige E-Mail angeben.",
             "ContactStatusReview: Bitte entferne Links aus der Nachricht.",

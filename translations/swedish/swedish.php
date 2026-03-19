@@ -36,7 +36,7 @@ class YellowSwedish {
             "ContactMailSpam: [Spam]",
             "ContactMailHeader: Du har fått ett meddelande av @sender:",
             "ContactMailFooter: Detta mail skickades via @sitename - @title",
-            "ContactStatusNone: Säg hej. Din feedback är väldigt välkommen.",
+            "ContactStatusNone: Säg hej. Vi tar gärna emot dina synpunkter.",
             "ContactStatusIncomplete: Vänligen fyll i alla fält.",
             "ContactStatusInvalid: Vänligen ange en giltig emailadress.",
             "ContactStatusReview: Vänligen ta bort länkar från meddelandet.",
