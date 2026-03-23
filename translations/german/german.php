@@ -66,7 +66,7 @@ class YellowGerman {
             "CoreError420Title: Seite nicht öffentlich",
             "CoreError420Text: Die angeforderte Seite ist nicht öffentlich. [yellow error]",
             "CoreError430Title: Anmeldung fehlgeschlagen",
-            "CoreError430Text: E-Mail oder Kennwort ist falsch. [Bitte erneut versuchen](#data-action-login).",
+            "CoreError430Text: Die E-Mail oder das Kennwort ist falsch. [Bitte erneut versuchen](#data-action-login).",
             "CoreError434Title: Seite nicht gefunden",
             "CoreError434Text: Die angeforderte Seite wurde nicht gefunden. [Du kannst diese Seite erstellen](#data-action-edit).",
             "CoreError435Title: Seite nicht gefunden",
