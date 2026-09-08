@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowCatalan {
             "ItalianDescription: Llengua italiana.",
             "JapaneseDescription: Llengua japonesa.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Crear i mantenir extensions.",
             "MarkdownDescription: Format de text per a humans.",
             "MetaDescription: Metadades per a humans i màquines.",
             "NorwegianDescription: Llengua noruega.",
@@ -263,7 +264,6 @@ class YellowCatalan {
             "PrivateDescription: suport per a pàgines protegides amb contrasenya.",
             "PrivatePageError: Introduïu la contrasenya.",
             "ProfileDescription: Perfil de l'autor per a pàgines de bloc.",
-            "PublishDescription: Crear i publicar extensions.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Llengua russa.",
             "SearchDescription: Cerca de text complet.",

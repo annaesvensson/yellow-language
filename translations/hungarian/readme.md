@@ -1,4 +1,4 @@
-# Hungarian 0.9.5
+# Hungarian 0.9.6
 
 Magyar nyelv. Ádám Tuba fordítása.
 

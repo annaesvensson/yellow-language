@@ -1,4 +1,4 @@
-# Turkish 0.9.5
+# Turkish 0.9.6
 
 Türk dili. Osman Kars tarafından çevrilmiştir.
 

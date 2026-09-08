@@ -1,4 +1,4 @@
-# French 0.9.5
+# French 0.9.6
 
 Langue française. Traduit par Juh Nibreh.
 

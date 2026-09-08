@@ -1,4 +1,4 @@
-# Catalan 0.9.5
+# Catalan 0.9.6
 
 Llengua catalana. Traduït per Andreu Ferrer.
 

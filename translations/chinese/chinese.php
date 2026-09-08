@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowChinese {
             "ItalianDescription: 意大利语.",
             "JapaneseDescription: 日语.",
             "KarlskronaDescription: Karlskrona是一个语义化主题.",
+            "MaintainDescription: 创建和维护扩展.",
             "MarkdownDescription: 方便人们阅读的文本格式化插件.",
             "MetaDescription: 人和机器的元数据.",
             "NorwegianDescription: 挪威语.",
@@ -263,7 +264,6 @@ class YellowChinese {
             "PrivateDescription: 支持密码保护页面.",
             "PrivatePageError: 请输入密码.",
             "ProfileDescription: 博客页面作者简介.",
-            "PublishDescription: 制作和发布扩展.",
             "ReadingtimeDescription: 显示页面内容的预估阅读时长.",
             "RussianDescription: 俄语.",
             "SearchDescription: 全文搜索.",

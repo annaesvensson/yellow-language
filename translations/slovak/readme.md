@@ -1,4 +1,4 @@
-# Slovak 0.9.5
+# Slovak 0.9.6
 
 Slovenský jazyk. Preložil Ádám Tuba.
 

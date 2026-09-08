@@ -1,4 +1,4 @@
-# Swedish 0.9.5
+# Swedish 0.9.6
 
 Svenska språket. Översatt av Anna Svensson.
 

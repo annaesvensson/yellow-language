@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowJapanese {
             "ItalianDescription: イタリア語です。",
             "JapaneseDescription: 日本語です。",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Make and maintain extensions.",
             "MarkdownDescription: markdown パーサーです。",
             "MetaDescription: Meta 情報を追加します。",
             "NorwegianDescription: ノルウェー語です。",
@@ -263,7 +264,6 @@ class YellowJapanese {
             "PrivateDescription: パスワードで保護されたページ機能を追加します。",
             "PrivatePageError: パスワードを入力してください。",
             "ProfileDescription: ブログに著者ページを追加します。",
-            "PublishDescription: 拡張機能の作成と公開をします。",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: ロシア語です。",
             "SearchDescription: フルテキスト検索機能を追加します。",

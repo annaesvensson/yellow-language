@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowCzech {
             "ItalianDescription: Italština.",
             "JapaneseDescription: Japonština.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Vyrob a spravovat rozšíření.",
             "MarkdownDescription: Formátování textu pro lidi.",
             "MetaDescription: Meta data pro lidi i stroje.",
             "NorwegianDescription: Norština.",
@@ -263,7 +264,6 @@ class YellowCzech {
             "PrivateDescription: Podpora pro stránky chráněné heslem.",
             "PrivatePageError: Zadej prosím heslo.",
             "ProfileDescription: Profil autora pro stránky blogu.",
-            "PublishDescription: Vyrob a zveřejni rozšíření.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Ruština.",
             "SearchDescription: Fultextové vyhledávání.",

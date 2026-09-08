@@ -1,4 +1,4 @@
-# Language 0.9.5
+# Language 0.9.6
 
 Translations for your website. Developed by Anna Svensson.
 

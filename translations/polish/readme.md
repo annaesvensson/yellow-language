@@ -1,4 +1,4 @@
-# Polish 0.9.5
+# Polish 0.9.6
 
 Język polski. Przetłumaczone przez Paweł Klockiewicz, Kanbeq.
 

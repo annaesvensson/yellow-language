@@ -1,4 +1,4 @@
-# Japanese 0.9.5
+# Japanese 0.9.6
 
 日本語。Yuhko Senuma、Tomonori Ikeda による翻訳。
 

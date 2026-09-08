@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowRussian {
             "ItalianDescription: Итальянский язык.",
             "JapaneseDescription: Японский язык.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Создавать и поддерживать расширения.",
             "MarkdownDescription: Форматирование текста для людей.",
             "MetaDescription: Мета-данные для людей и машин.",
             "NorwegianDescription: Норвежский язык.",
@@ -263,7 +264,6 @@ class YellowRussian {
             "PrivateDescription: Поддержка защищенных паролем страниц.",
             "PrivatePageError: Пожалуйста, введите пароль.",
             "ProfileDescription: Профиль автора для страниц блога.",
-            "PublishDescription: Создавайте и публикуйте расширения.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Русский язык.",
             "SearchDescription: Полнотекстовый поиск.",

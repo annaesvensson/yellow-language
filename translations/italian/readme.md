@@ -1,4 +1,4 @@
-# Italian 0.9.5
+# Italian 0.9.6
 
 Lingua italiano. Tradotto da Giovanni Salmeri.
 

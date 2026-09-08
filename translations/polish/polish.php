@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowPolish {
             "ItalianDescription: Język włoski.",
             "JapaneseDescription: Język japoński.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Make and maintain extensions.",
             "MarkdownDescription: Formatowanie tekstu dla ludzi.",
             "MetaDescription: Metadane dla ludzi i maszyn.",
             "NorwegianDescription: Język norweski.",
@@ -263,7 +264,6 @@ class YellowPolish {
             "PrivateDescription: Support for password-protected pages.",
             "PrivatePageError: Please enter the password.",
             "ProfileDescription: Author profile for blog pages.",
-            "PublishDescription: Twórz i publikuj rozszerzenia.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Język rosyjski.",
             "SearchDescription: Wyszukiwanie pełnotekstowe.",

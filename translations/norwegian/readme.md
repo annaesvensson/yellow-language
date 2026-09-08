@@ -1,4 +1,4 @@
-# Norwegian 0.9.5
+# Norwegian 0.9.6
 
 Norsk språk. Oversatt av Per Arne Solvik.
 

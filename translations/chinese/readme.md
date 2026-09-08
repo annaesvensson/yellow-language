@@ -1,4 +1,4 @@
-# Chinese 0.9.5
+# Chinese 0.9.6
 
 简体中文。由 Hyson Lee 翻译。
 

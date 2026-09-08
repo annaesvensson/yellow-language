@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowPortuguese {
             "ItalianDescription: Idioma Italiano.",
             "JapaneseDescription: Idioma Japonês.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Make and maintain extensions.",
             "MarkdownDescription: Formatação de texto para humanos.",
             "MetaDescription: Metadados para humanos e máquinas.",
             "NorwegianDescription: Idioma Norueguês.",
@@ -263,7 +264,6 @@ class YellowPortuguese {
             "PrivateDescription: Suporte para páginas protegidas por senha.",
             "PrivatePageError: Por favor inserir a senha.",
             "ProfileDescription: Perfil do autor para páginas de blog.",
-            "PublishDescription: Criar e publicar extensões.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Idioma Russo.",
             "SearchDescription: Pesquisa de texto completo.",

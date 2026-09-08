@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowTurkish {
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Uzantılar oluşturun ve bakımını yapın.",
             "MarkdownDescription: İnsanlar için metin biçimlendirme.",
             "MetaDescription: İnsanlar ve makineler için meta veriler.",
             "NorwegianDescription: Norwegian language.",
@@ -263,7 +264,6 @@ class YellowTurkish {
             "PrivateDescription: Support for password-protected pages.",
             "PrivatePageError: Please enter the password.",
             "ProfileDescription: Author profile for blog pages.",
-            "PublishDescription: Uzantıları oluşturun ve yayınlayın.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Russian language.",
             "SearchDescription: Tam metin araması.",

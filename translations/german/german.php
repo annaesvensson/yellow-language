@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowGerman {
             "ItalianDescription: Italienische Sprache.",
             "JapaneseDescription: Japanische Sprache.",
             "KarlskronaDescription: Karlskrona ist ein semantisches Theme.",
+            "MaintainDescription: Erweiterungen erstellen und pflegen.",
             "MarkdownDescription: Textformatierung für Menschen.",
             "MetaDescription: Metadaten für Menschen und Maschinen.",
             "NorwegianDescription: Norwegische Sprache.",
@@ -263,7 +264,6 @@ class YellowGerman {
             "PrivateDescription: Unterstützung für passwortgeschützte Seiten.",
             "PrivatePageError: Bitte gib das Kennwort ein.",
             "ProfileDescription: Autorenprofil für Blogseiten.",
-            "PublishDescription: Erweiterungen erstellen und veröffentlichen.",
             "ReadingtimeDescription: Zeigt die geschätzte Lesezeit für den Seiteninhalt an.",
             "RussianDescription: Russische Sprache.",
             "SearchDescription: Volltext-Suche.",

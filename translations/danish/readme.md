@@ -1,4 +1,4 @@
-# Danish 0.9.5
+# Danish 0.9.6
 
 Dansk sprog. Oversat af David Garcia.
 

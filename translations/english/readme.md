@@ -1,4 +1,4 @@
-# English 0.9.5
+# English 0.9.6
 
 English language. Translated by Mark Seuffert.
 

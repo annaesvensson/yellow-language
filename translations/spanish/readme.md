@@ -1,4 +1,4 @@
-# Spanish 0.9.5
+# Spanish 0.9.6
 
 Lengua española. Traducido por Al Garcia, David Garcia.
 

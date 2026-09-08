@@ -1,4 +1,4 @@
-# Dutch 0.9.5
+# Dutch 0.9.6
 
 Nederlandse taal. Vertaald door Robin Vannieuwenhuijse.
 

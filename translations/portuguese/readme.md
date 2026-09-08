@@ -1,4 +1,4 @@
-# Portuguese 0.9.5
+# Portuguese 0.9.6
 
 Idioma portugues. Traduzido por Al Garcia, Quen-Quen Potter.
 

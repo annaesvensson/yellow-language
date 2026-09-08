@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowFrench {
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Make and maintain extensions.",
             "MarkdownDescription: Formatage de texte pour les humains.",
             "MetaDescription: Meta data for humans and machines.",
             "NorwegianDescription: Norwegian language.",
@@ -263,7 +264,6 @@ class YellowFrench {
             "PrivateDescription: Prise en charge des pages protégées par un mot de passe.",
             "PrivatePageError: Veuillez entrer le mot de passe.",
             "ProfileDescription: Author profile for blog pages.",
-            "PublishDescription: Make and publish extensions.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Russian language.",
             "SearchDescription: Full-text search.",

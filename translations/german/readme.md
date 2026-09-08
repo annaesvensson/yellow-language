@@ -1,4 +1,4 @@
-# German 0.9.5
+# German 0.9.6
 
 Deutsche Sprache. Übersetzt von David Fehrmann.
 

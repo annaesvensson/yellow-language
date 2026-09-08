@@ -1,4 +1,4 @@
-# Czech 0.9.5
+# Czech 0.9.6
 
 Český jazyk. Přeložil Ufo Vyhuleny.
 

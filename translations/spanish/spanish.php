@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowSpanish {
             "ItalianDescription: Italian language.",
             "JapaneseDescription: Japanese language.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Make and maintain extensions.",
             "MarkdownDescription: Text formatting for humans.",
             "MetaDescription: Meta data for humans and machines.",
             "NorwegianDescription: Norwegian language.",
@@ -263,7 +264,6 @@ class YellowSpanish {
             "PrivateDescription: Support for password-protected pages.",
             "PrivatePageError: Please enter the password.",
             "ProfileDescription: Author profile for blog pages.",
-            "PublishDescription: Make and publish extensions.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Russian language.",
             "SearchDescription: Full-text search.",

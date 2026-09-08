@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowSwedish {
             "ItalianDescription: Italienska språket.",
             "JapaneseDescription: Japanska språket.",
             "KarlskronaDescription: Karlskrona är ett semantiskt tema.",
+            "MaintainDescription: Göra och underhålla tillägg.",
             "MarkdownDescription: Textformatering för människor.",
             "MetaDescription: Metadata för människor och maskiner.",
             "NorwegianDescription: Norska språket.",
@@ -263,7 +264,6 @@ class YellowSwedish {
             "PrivateDescription: Stöd för lösenordsskyddade sidor.",
             "PrivatePageError: Ange ditt lösenord.",
             "ProfileDescription: Författarprofil för bloggsidor.",
-            "PublishDescription: Göra och publicera tillägg.",
             "ReadingtimeDescription: Visa den uppskattade lästiden för sidans innehåll.",
             "RussianDescription: Ryska språket.",
             "SearchDescription: Heltekstsökning.",

@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "0.9.5";
+    const VERSION = "0.9.6";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -249,6 +249,7 @@ class YellowItalian {
             "ItalianDescription: Lingua italiano.",
             "JapaneseDescription: Lingua giapponese.",
             "KarlskronaDescription: Karlskrona is a semantic theme.",
+            "MaintainDescription: Crea e gestire estensioni.",
             "MarkdownDescription: Formattazione facile del testo.",
             "MetaDescription: Metadati per uomini e macchine.",
             "NorwegianDescription: Lingua norvegese.",
@@ -263,7 +264,6 @@ class YellowItalian {
             "PrivateDescription: Support for password-protected pages.",
             "PrivatePageError: Please enter the password.",
             "ProfileDescription: Author profile for blog pages.",
-            "PublishDescription: Crea e pubblica estensioni.",
             "ReadingtimeDescription: Show estimated reading time for page content.",
             "RussianDescription: Lingua russo.",
             "SearchDescription: Ricerca globale.",
