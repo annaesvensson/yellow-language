@@ -10,11 +10,11 @@
 
 ## Wie man eine Übersetzung erstellt
 
-Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt und siehst eine Auswahl von Sprachen. Derzeit sind [etwa 20 Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations) verfügbar. Du kannst die [englische Sprachdatei übersetzen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) falls deine Sprache fehlt. Die englische Sprachdatei zeigt dir welche Textzeilen und Textbausteine vorhanden sind und übersetzt werden müssen. Ein Betreuer kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork von diesem Repository. Lade deine Änderungen hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
+Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt und siehst eine Auswahl von Sprachen. Derzeit sind [etwa 20 Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations) verfügbar. Du kannst die [englische Sprachdatei übersetzen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) falls deine Sprache fehlt. Die englische Sprachdatei zeigt dir welche Textzeilen und Textbausteine vorhanden sind und übersetzt werden müssen. Ein Betreuer kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
 
 ## Wie man eine Übersetzung verbessert
 
-Du kannst eine Übersetzung verbessern falls etwas nicht stimmt oder fehlt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork von diesem Repository. Lade deine Änderungen hoch und erzeuge einen Pull-Request für das Repository `annaesvensson/yellow-language`.
+Du kannst eine Übersetzung verbessern falls etwas nicht stimmt oder fehlt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
 
 ## Danksagung
 
