@@ -14,7 +14,7 @@ Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt und siehs
 
 ## Wie man eine Übersetzung verbessert
 
-Du kannst eine Übersetzung verbessern falls etwas nicht stimmt oder fehlt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
+Du kannst Übersetzungen verbessern falls etwas nicht stimmt oder fehlt. Die installierten Sprachen befinden sich im `system/workers`-Verzeichnis. Manchmal enthalten sie Textzeilen in englischer Sprache, die nicht übersetzt wurden. Deshalb ist es gut, von Zeit zu Zeit nachzusehen, ob alles in Ordnung ist. Hast du eine Übersetzung verbessert? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
 
 ## Danksagung
 

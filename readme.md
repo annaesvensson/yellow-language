@@ -14,7 +14,7 @@ When you install a website you are greeted with a hello and see a selection of l
 
 ## How to improve a translation
 
-You can improve a translation if something is wrong or missing. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork the repository `annaesvensson/yellow-language` and send a pull request to the developer.
+You can improve translations if something is wrong or missing. The installed languages are stored in your `system/workers` folder. Sometimes they contain text lines in English, which have not been translated. That's why it's good to check from time to time that everything looks okay. Did you improve a translation? Fork the repository `annaesvensson/yellow-language` and send a pull request to the developer.
 
 ## Acknowledgements
 
