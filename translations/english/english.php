@@ -26,7 +26,7 @@ class YellowEnglish {
             "CatalanDescription: Catalan language.",
             "CheckDescription: Find broken links.",
             "ChineseDescription: Chinese language.",
-            "ContactDescription: Email contact page.",
+            "ContactDescription: Contact form for sending emails.",
             "ContactName: Name:",
             "ContactEmail: Email:",
             "ContactMessage: Message:",

@@ -26,7 +26,7 @@ class YellowChinese {
             "CatalanDescription: 加泰罗尼亚语。",
             "CheckDescription: 查找损坏的链接。",
             "ChineseDescription: 简体中文。",
-            "ContactDescription: 邮件联系插件提供联系页面.",
+            "ContactDescription: 发送电子邮件的联系表单。",
             "ContactName: 姓名:",
             "ContactEmail: 邮箱:",
             "ContactMessage: 信息:",

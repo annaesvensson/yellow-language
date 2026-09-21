@@ -26,7 +26,7 @@ class YellowGerman {
             "CatalanDescription: Katalanische Sprache.",
             "CheckDescription: Defekte Links finden.",
             "ChineseDescription: Chinesische Sprache.",
-            "ContactDescription: E-Mail-Kontaktseite.",
+            "ContactDescription: Kontaktformular zum Versenden von E-Mails.",
             "ContactName: Name:",
             "ContactEmail: E-Mail:",
             "ContactMessage: Nachricht:",

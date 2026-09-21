@@ -26,7 +26,7 @@ class YellowCatalan {
             "CatalanDescription: Llengua catalana.",
             "CheckDescription: Cerca enllaços trencats.",
             "ChineseDescription: Llengua xinesa.",
-            "ContactDescription: Pàgina de contacte per correu electrònic.",
+            "ContactDescription: Contact form for sending emails.",
             "ContactName: Nom:",
             "ContactEmail: Email:",
             "ContactMessage: Missatge:",

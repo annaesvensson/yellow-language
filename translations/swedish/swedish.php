@@ -26,7 +26,7 @@ class YellowSwedish {
             "CatalanDescription: Katalanska språket.",
             "CheckDescription: Hitta trasiga länkar.",
             "ChineseDescription: Kinesiska språket.",
-            "ContactDescription: E-post kontaktsida.",
+            "ContactDescription: Kontaktformulär för att skicka e-post.",
             "ContactName: Namn:",
             "ContactEmail: Email:",
             "ContactMessage: Meddelande:",

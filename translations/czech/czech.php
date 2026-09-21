@@ -26,7 +26,7 @@ class YellowCzech {
             "CatalanDescription: Katalánština.",
             "CheckDescription: Najděte nefunkční odkazy.",
             "ChineseDescription: Čínština.",
-            "ContactDescription: Stránka s emailovým kontaktem.",
+            "ContactDescription: Kontaktní formulář pro zasílání e-mailů.",
             "ContactName: Jméno:",
             "ContactEmail: Email:",
             "ContactMessage: Zpráva:",

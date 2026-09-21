@@ -26,7 +26,7 @@ class YellowRussian {
             "CatalanDescription: Каталонский язык.",
             "CheckDescription: Найдите битые ссылки.",
             "ChineseDescription: Китайский язык.",
-            "ContactDescription: Страница контактов.",
+            "ContactDescription: Форма обратной связи для отправки писем.",
             "ContactName: Имя:",
             "ContactEmail: Email:",
             "ContactMessage: Сообщение:",

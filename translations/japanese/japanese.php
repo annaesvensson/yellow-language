@@ -26,7 +26,7 @@ class YellowJapanese {
             "CatalanDescription: カタルーニャ語。",
             "CheckDescription: 壊れたリンクを見つけます。",
             "ChineseDescription: 中国語です。",
-            "ContactDescription: メールによる問い合わせページを追加します。",
+            "ContactDescription: メール送信の連絡先フォーム。",
             "ContactName: お名前:",
             "ContactEmail: メールアドレス:",
             "ContactMessage: 送信内容:",

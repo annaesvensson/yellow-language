@@ -26,7 +26,7 @@ class YellowItalian {
             "CatalanDescription: Lingua catalana.",
             "CheckDescription: Trova collegamenti interrotti.",
             "ChineseDescription: Lingua cinese.",
-            "ContactDescription: Pagina di contatto.",
+            "ContactDescription: Modulo di contatto per inviare email.",
             "ContactName: Nome:",
             "ContactEmail: Indirizzo email:",
             "ContactMessage: Messaggio:",
