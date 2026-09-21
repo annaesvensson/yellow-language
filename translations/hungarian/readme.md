@@ -1,6 +1,6 @@
 # Hungarian 0.9.6
 
-Magyar nyelv. Ádám Tuba fordítása.
+Magyar nyelv. Anna Svensson fejlesztette.
 
 <p align="center"><img src="screenshot.png" alt="Képernyőkép" /></p>
 
@@ -13,5 +13,9 @@ Magyar nyelv. Ádám Tuba fordítása.
 Az összes nyelvi beállítás a `system/extensions/yellow-language.ini` fájlban tárolódik. Ezt a fájlt kedved szerint módosíthatod, és hozzáadhatja saját nyelvi beállításait is, például képaláírásokat. A módosítások nem íródnak felül a webhely frissítésekor.
 
 Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határozza meg. Az egyes oldalak tetején található [oldalbeállítások](https://github.com/annaesvensson/yellow-core#settings-page) között más nyelv definiálható, például `Language: hu`. [További információ a nyelvekről](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Köszönet
+
+Ez a kiegészítő Ádám Tuba hozzájárulásait tartalmazza. Köszönjük a kiváló együttműködést.
 
 Kérdései vannak? [Kérjen segítséget](https://datenstrom.se/yellow/help/).

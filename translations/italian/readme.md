@@ -1,6 +1,6 @@
 # Italian 0.9.6
 
-Lingua italiano. Tradotto da Giovanni Salmeri.
+Lingua italiano. Sviluppato da Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Immagine dello schermo" /></p>
 
@@ -13,5 +13,9 @@ Lingua italiano. Tradotto da Giovanni Salmeri.
 Tutte le impostazioni delle lingue sono memorizzate nel file `system/extensions/yellow-language.ini`. Puoi modificare questo file come preferisci e anche aggiungere le tue impostazioni di lingua, ad esempio le didascalie delle immagini. Le tue modifiche non verranno sovrascritte quando il sito web verrà aggiornato.
 
 La lingua predefinita è definita nel file `system/extensions/yellow-system.ini`. È possibile definire una lingua diversa nelle [impostazioni della pagina](https://github.com/annaesvensson/yellow-core#settings-page) nella parte superiore di ogni pagina, ad esempio `Language: it`. [Ulteriori informazioni sulle lingue](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Ringraziamenti
+
+Questa estensione contiene contributi di Giovanni Salmeri. Grazie per l'ottima collaborazione.
 
 Hai domande? [Chiedi aiuto](https://datenstrom.se/yellow/help/).

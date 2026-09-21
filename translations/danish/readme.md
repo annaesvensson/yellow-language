@@ -1,6 +1,6 @@
 # Danish 0.9.6
 
-Dansk sprog. Oversat af David Garcia.
+Dansk sprog. Udviklet af Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Skærmbillede" /></p>
 
@@ -13,5 +13,9 @@ Dansk sprog. Oversat af David Garcia.
 Alle sprogindstillinger er gemt i filen `system/extensions/yellow-language.ini`. Du kan ændre denne fil som du vil og også tilføje dine egne sprogindstillinger, for eksempel billedtekster. Dine ændringer vil ikke blive overskrevet, når hjemmesiden er opdateret.
 
 Standardsproget er defineret i filen `system/extensions/yellow-system.ini`. Et andet sprog kan defineres i [sideindstillinger](https://github.com/annaesvensson/yellow-core#settings-page) øverst på hver side, for eksempel `Language: da`. [Få mere at vide om sprog](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Tak
+
+Denne udvidelse indeholder bidrag fra David Garcia. Tak for det gode samarbejde.
 
 Har du spørgsmål? [Få hjælp](https://datenstrom.se/yellow/help/).

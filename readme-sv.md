@@ -10,7 +10,7 @@
 
 ## Hur man gör en översättning
 
-När du installerar en webbplats hälsas du med ett hej och ser ett urval av språk. För närvarande finns det [cirka 20 språk](https://github.com/annaesvensson/yellow-language/tree/main/translations) tillgängliga. Du kan [översätta engelska språkfilen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) om ditt språk saknas. Den engelska språkfilen visar vilka textrader och textfragment som finns tillgängliga och behöver översättas. En underhållare tar hand om allt annat. Gjorde du en ny översättning? Gör en fork av repository `annaesvensson/yellow-language` och skicka en pull-request till utvecklaren.
+När du installerar en webbplats hälsas du med ett hej och ser ett urval av språk. För närvarande finns det [cirka 20 språk](https://github.com/annaesvensson/yellow-language/tree/main/translations) tillgängliga. Du kan [översätta engelska språkfilen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) om ditt språk saknas. Den engelska språkfilen visar vilka textrader och textfragment som finns tillgängliga och behöver översättas. Den ansvariga utvecklaren tar hand om allt annat. Gjorde du en ny översättning? Gör en fork av repository `annaesvensson/yellow-language` och skicka en pull-request till utvecklaren.
 
 ## Hur man förbättrar en översättning
 
@@ -18,6 +18,6 @@ Du kan förbättra översättningar om något är fel eller saknas. De installer
 
 ## Tack
 
-Detta tillägg innehåller arbete av olika översättare: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Tack för ett bra jobb.
+Detta tillägg innehåller bidrag från Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Emma Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Tack för ett gott samarbete.
 
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).

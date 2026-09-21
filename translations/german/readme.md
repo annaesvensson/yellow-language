@@ -1,6 +1,6 @@
 # German 0.9.6
 
-Deutsche Sprache. Übersetzt von David Fehrmann.
+Deutsche Sprache. Entwickelt von Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Bildschirmfoto" /></p>
 
@@ -13,5 +13,9 @@ Deutsche Sprache. Übersetzt von David Fehrmann.
 Alle Spracheinstellungen sind in der Datei `system/extensions/yellow-language.ini` gespeichert. Du kannst diese Datei beliebig ändern und auch deine eigenen Spracheinstellungen hinzufügen, beispielsweise Bildunterschriften. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
 
 Die Standardsprache wird in der Datei `system/extensions/yellow-system.ini` festgelegt. Eine andere Sprache lässt sich in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md#einstellungen-seite) ganz oben auf jeder Seite festlegen, zum Beispiel `Language: de`. [Weitere Informationen zu Sprachen](https://datenstrom.se/de/yellow/help/how-to-customise-languages).
+
+## Danksagung
+
+Diese Erweiterung enthält Beiträge von David Fehrmann. Danke für die gute Zusammenarbeit.
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

@@ -1,6 +1,6 @@
 # Catalan 0.9.6
 
-Llengua catalana. Traduït per Andreu Ferrer.
+Llengua catalana. Desenvolupat per Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Captura de pantalla" /></p>
 
@@ -13,5 +13,9 @@ Llengua catalana. Traduït per Andreu Ferrer.
 Totes les configuracions d'idiomes s'emmagatzemen al fitxer `system/extensions/yellow-language.ini`. Podeu canviar aquest fitxer com vulgueu i també afegir la vostra pròpia configuració d'idioma, per exemple, llegendes d'imatges. Els vostres canvis no se sobreescriuran quan s'actualitzi el lloc web.
 
 L'idioma predeterminat es defineix al fitxer `system/extensions/yellow-system.ini`. També pot definir un idioma diferent a la [configuració de la pàgina](https://github.com/annaesvensson/yellow-core#settings-page) a la part superior de cada pàgina, per exemple `Language: ca`. [Més informació sobre idiomes](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Agraïments
+
+Aquesta extensió inclou contribucions de Andreu Ferrer. Gràcies per la vostra excel·lent col·laboració.
 
 Tens preguntes? [Aconsegueix ajuda](https://datenstrom.se/yellow/help/).

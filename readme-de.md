@@ -10,7 +10,7 @@
 
 ## Wie man eine Übersetzung erstellt
 
-Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt und siehst eine Auswahl von Sprachen. Derzeit sind [etwa 20 Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations) verfügbar. Du kannst die [englische Sprachdatei übersetzen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) falls deine Sprache fehlt. Die englische Sprachdatei zeigt dir welche Textzeilen und Textbausteine vorhanden sind und übersetzt werden müssen. Ein Betreuer kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
+Bei der Installation einer Webseite wirst du mit einem Hallo begrüßt und siehst eine Auswahl von Sprachen. Derzeit sind [etwa 20 Sprachen](https://github.com/annaesvensson/yellow-language/tree/main/translations) verfügbar. Du kannst die [englische Sprachdatei übersetzen](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) falls deine Sprache fehlt. Die englische Sprachdatei zeigt dir welche Textzeilen und Textbausteine vorhanden sind und übersetzt werden müssen. Der verantwortliche Entwickler kümmert sich um alles weitere. Hast du eine neue Übersetzung erstellt? Mache ein Fork vom Repository `annaesvensson/yellow-language` und sende einen Pull-Request an den Entwickler.
 
 ## Wie man eine Übersetzung verbessert
 
@@ -18,6 +18,6 @@ Du kannst Übersetzungen verbessern falls etwas nicht stimmt oder fehlt. Die ins
 
 ## Danksagung
 
-Diese Erweiterung enthält die Arbeit von verschiedenen Übersetzern: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Danke für die gute Arbeit.
+Diese Erweiterung enthält Beiträge von Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Emma Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Danke für die gute Zusammenarbeit.
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

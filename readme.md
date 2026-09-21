@@ -10,7 +10,7 @@ Translations for your website. Developed by Anna Svensson.
 
 ## How to make a translation
 
-When you install a website you are greeted with a hello and see a selection of languages. At the moment there are [about 20 languages](https://github.com/annaesvensson/yellow-language/tree/main/translations) available. You can [translate the English language file](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) if your language is missing. The English language file will show you which text lines and text fragments are available and need to be translated. A maintainer takes care of everything else. Did you make a new translation? Fork the repository `annaesvensson/yellow-language` and send a pull request to the developer.
+When you install a website you are greeted with a hello and see a selection of languages. At the moment there are [about 20 languages](https://github.com/annaesvensson/yellow-language/tree/main/translations) available. You can [translate the English language file](https://raw.githubusercontent.com/annaesvensson/yellow-language/refs/heads/main/translations/english/english.php) if your language is missing. The English language file will show you which text lines and text fragments are available and need to be translated. The responsible developer takes care of everything else. Did you make a new translation? Fork the repository `annaesvensson/yellow-language` and send a pull request to the developer.
 
 ## How to improve a translation
 
@@ -18,6 +18,6 @@ You can improve translations if something is wrong or missing. The installed lan
 
 ## Acknowledgements
 
-This extension includes the work of various translators: Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Thank you for the good work.
+This extension includes contributions by Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Emma Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Thank you for a good cooperation.
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

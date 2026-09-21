@@ -1,6 +1,6 @@
 # Turkish 0.9.6
 
-Türk dili. Osman Kars tarafından çevrilmiştir.
+Türk dili. Anna Svensson tarafından geliştirilmiştir.
 
 <p align="center"><img src="screenshot.png" alt="Ekran görüntüsü" /></p>
 
@@ -13,5 +13,9 @@ Türk dili. Osman Kars tarafından çevrilmiştir.
 Tüm dil ayarları `system/extensions/yellow-language.ini` dosyasında saklanır. Bu dosyayı istediğiniz gibi değiştirebilir ve ayrıca resim yazıları gibi kendi dil ayarlarınızı ekleyebilirsiniz. Web sitesi güncellendiğinde yaptığınız değişikliklerin üzerine yazılmaz.
 
 Varsayılan dil, `system/extensions/yellow-system.ini` dosyasında tanımlanmıştır. Her sayfanın üst kısmındaki [sayfa ayarlarında](https://github.com/annaesvensson/yellow-core#settings-page) farklı bir dil tanımlanabilir, örneğin `Language: tr`. [Diller hakkında daha fazla bilgi edinin](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Teşekkürler
+
+Bu eklenti, Osman Kars'nin katkılarını içermektedir. Harika işbirliğin için teşekkürler.
 
 Sorularınız mı var? [Yardım alın](https://datenstrom.se/yellow/help/).

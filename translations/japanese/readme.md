@@ -1,6 +1,6 @@
 # Japanese 0.9.6
 
-日本語。Yuhko Senuma、Tomonori Ikeda による翻訳。
+日本語。Anna Svensson によって開発されました。
 
 <p align="center"><img src="screenshot.png" alt="スクリーンショット" /></p>
 
@@ -13,5 +13,9 @@
 すべての言語設定は、ファイル `system/extensions/yellow-language.ini` に保存されます。 このファイルは自由に変更でき、画像のキャプションなど、独自の言語設定を追加することもできます。 Web サイトが更新されても、変更は上書きされません。
 
 デフォルトの言語は、ファイル `system/extensions/yellow-system.ini` で定義されています。 各ページの上部にある [ページ設定](https://github.com/annaesvensson/yellow-core#settings-page) で別の言語を定義できます。たとえば `Language: ja`。 [言語の詳細](https://datenstrom.se/yellow/help/how-to-customise-languages)。
+
+## 謝辞
+
+この拡張機能には Yuhko Senuma、Tomonori Ikeda による貢献が含まれています。ご協力ありがとうございました。
 
 ご質問はございますか？ [助けを得る](https://datenstrom.se/yellow/help/)。

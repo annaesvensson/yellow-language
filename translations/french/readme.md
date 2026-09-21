@@ -1,6 +1,6 @@
 # French 0.9.6
 
-Langue française. Traduit par Juh Nibreh.
+Langue française. Développé par Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Capture d'écran" /></p>
 
@@ -13,5 +13,9 @@ Langue française. Traduit par Juh Nibreh.
 Tous les paramètres de langues sont stockés dans le fichier `system/extensions/yellow-language.ini`. Vous pouvez modifier ce fichier à votre guise et également ajouter vos propres paramètres de langue, par exemple des légendes d'image. Vos modifications ne seront pas écrasées lors de la mise à jour du site web.
 
 La langue par défaut est définie dans le fichier `system/extensions/yellow-system.ini`. Une langue différente peut être définie dans les [paramètres de la page](https://github.com/annaesvensson/yellow-core#settings-page) en haut de chaque page, par exemple `Langue: fr`. [En savoir plus sur les langues](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Remerciements
+
+Cette extension contient des contributions de Juh Nibreh. Merci pour cette excellente collaboration.
 
 Vous avez des questions ? [Obtenir de l'aide](https://datenstrom.se/yellow/help/).

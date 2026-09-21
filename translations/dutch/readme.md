@@ -1,6 +1,6 @@
 # Dutch 0.9.6
 
-Nederlandse taal. Vertaald door Robin Vannieuwenhuijse.
+Nederlandse taal. Ontwikkeld door Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Schermafbeelding" /></p>
 
@@ -13,5 +13,9 @@ Nederlandse taal. Vertaald door Robin Vannieuwenhuijse.
 Alle taalinstellingen worden opgeslagen in het bestand `system/extensions/yellow-language.ini`. U kunt dit bestand naar wens wijzigen en ook uw eigen taalinstellingen toevoegen, bijvoorbeeld bijschriften bij afbeeldingen. Uw wijzigingen worden niet overschreven wanneer de website wordt bijgewerkt.
 
 De standaardtaal is gedefinieerd in het bestand `system/extensions/yellow-system.ini`. Een andere taal kan worden gedefinieerd in de [pagina-instellingen](https://github.com/annaesvensson/yellow-core#settings-page) bovenaan elke pagina, bijvoorbeeld `Language: nl`. [Meer informatie over talen](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Dankwoord
+
+Deze uitbreiding bevat bijdragen van Robin Vannieuwenhuijse. Bedankt voor de goede samenwerking.
 
 Heb je vragen? [Krijg hulp](https://datenstrom.se/yellow/help/).

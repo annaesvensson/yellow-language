@@ -1,6 +1,6 @@
 # Portuguese 0.9.6
 
-Idioma portugues. Traduzido por Al Garcia, Quen-Quen Potter.
+Idioma portugues. Desenvolvido por Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Captura de tela" /></p>
 
@@ -13,5 +13,9 @@ Idioma portugues. Traduzido por Al Garcia, Quen-Quen Potter.
 Todas as configurações de idiomas são armazenadas no arquivo `system/extensions/yellow-language.ini`. Pode alterar este ficheiro como quiser e também adicionar suas próprias configurações de idioma, por exemplo, legendas de imagens. Suas alterações não serão substituídas quando o site for atualizado.
 
 O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. Um idioma diferente pode ser definido nas [configurações da página](https://github.com/annaesvensson/yellow-core#settings-page) na parte superior de cada página, por exemplo `Language: pt`. [Saiba mais sobre idiomas](https://datenstrom.se/yellow/help/how-to-customise-languages).
+
+## Agradecimentos
+
+Esta extensão inclui contribuições de Al Garcia, Quen-Quen Potter. Obrigado pela excelente colaboração.
 
 Tem alguma dúvida? [Obter ajuda](https://datenstrom.se/yellow/help/).
