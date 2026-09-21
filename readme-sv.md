@@ -18,6 +18,6 @@ Du kan förbättra översättningar om något är fel eller saknas. De installer
 
 ## Tack
 
-Detta tillägg innehåller bidrag från Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Emma Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Tack för ett gott samarbete.
+Detta tillägg innehåller bidrag från Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Emma Svensson, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Tack för ett gott samarbete.
 
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).

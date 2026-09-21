@@ -18,6 +18,6 @@ You can improve translations if something is wrong or missing. The installed lan
 
 ## Acknowledgements
 
-This extension includes contributions by Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Emma Svensson, Сергей Ворон, David Fehrmann, David Garcia, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Thank you for a good cooperation.
+This extension includes contributions by Ádám Tuba, Al Garcia, Andreu Ferrer, Anna Svensson, Сергей Ворон, David Fehrmann, David Garcia, Emma Svensson, Giovanni Salmeri, Hyson Lee, Juh Nibreh, Mark Seuffert, Osman Kars, Paweł Klockiewicz, Per Arne Solvik, Quen-Quen Potter, Robin Vannieuwenhuijse, Tomonori Ikeda, Ufo Vyhuleny, Yuhko Senuma. Thank you for a good cooperation.
 
 Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
