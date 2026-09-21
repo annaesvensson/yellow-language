@@ -223,7 +223,7 @@ class YellowFrench {
             "HighlightDescription: Highlight code blocks.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Icons and symbols.",
-            "ImageDescription: Add images and thumbnails.",
+            "ImageDescription: Ajoutez des images et des miniatures.",
             "ImageDefaultAlt: Image sans description",
             "IncludeDescription: Inclure des pages partagées.",
             "InstagramDescription: Embed Instagram photos.",

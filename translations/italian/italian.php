@@ -279,7 +279,7 @@ class YellowItalian {
             "SwedishDescription: Lingua svedese.",
             "TocDescription: Indice.",
             "TrafficDescription: Genera analisi del traffico dai file di registro.",
-            "TurkishDescription: Turkish/Türkçe with language `tr`.",
+            "TurkishDescription: Lingua turca.",
             "UpdateDescription: Mantieni aggiornate le tue estensioni.",
             "UpdateExtensionDefaultDescription: Nessuna descrizione è disponibile.",
             "UpdateExtensionDefaultResponsible: Lo sviluppatore è sconosciuto.",
