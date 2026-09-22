@@ -16,6 +16,6 @@ El idioma predeterminado se define en el archivo `system/extensions/yellow-syste
 
 ## Agradecimientos
 
-Esta extensión incluye aportaciones de Al Garcia, David Garcia. Gracias por la buena colaboración.
+Esta extensión incluye aportaciones de Al Garcia, David Garcia. Gracias por el buen trabajo.
 
 ¿Tienes preguntas? [Consigue ayuda](https://datenstrom.se/yellow/help/).

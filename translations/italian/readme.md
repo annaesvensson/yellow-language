@@ -16,6 +16,6 @@ La lingua predefinita è definita nel file `system/extensions/yellow-system.ini`
 
 ## Ringraziamenti
 
-Questa estensione contiene contributi di Giovanni Salmeri. Grazie per l'ottima collaborazione.
+Questa estensione contiene contributi di Giovanni Salmeri. Grazie per il buon lavoro.
 
 Hai domande? [Chiedi aiuto](https://datenstrom.se/yellow/help/).

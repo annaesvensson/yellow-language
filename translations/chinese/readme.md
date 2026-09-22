@@ -16,6 +16,6 @@
 
 ## 致谢
 
-本扩展包含 Hyson Lee 的贡献。感谢您的通力合作。
+本扩展包含 Hyson Lee 的贡献。谢谢你们的好工作。
 
 您有任何疑问吗？[得到帮助](https://datenstrom.se/yellow/help/)。

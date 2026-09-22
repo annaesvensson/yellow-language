@@ -16,6 +16,6 @@ Język domyślny jest zdefiniowany w pliku `system/extensions/yellow-system.ini`
 
 ## Podziękowania
 
-To rozszerzenie zawiera materiały autorstwa Paweł Klockiewicz, Kanbeq. Dziękujemy za owocną współpracę.
+To rozszerzenie zawiera materiały autorstwa Paweł Klockiewicz, Kanbeq. Dziękuję za dobrą robotę.
 
 Masz pytania? [Uzyskaj pomoc](https://datenstrom.se/yellow/help/).

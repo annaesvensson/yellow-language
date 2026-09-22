@@ -16,6 +16,6 @@ Standardsproget er defineret i filen `system/extensions/yellow-system.ini`. Et a
 
 ## Tak
 
-Denne udvidelse indeholder bidrag fra David Garcia. Tak for det gode samarbejde.
+Denne udvidelse indeholder bidrag fra David Garcia. Tak for det gode arbejde.
 
 Har du spørgsmål? [Få hjælp](https://datenstrom.se/yellow/help/).

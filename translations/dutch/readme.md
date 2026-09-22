@@ -16,6 +16,6 @@ De standaardtaal is gedefinieerd in het bestand `system/extensions/yellow-system
 
 ## Dankwoord
 
-Deze uitbreiding bevat bijdragen van Robin Vannieuwenhuijse. Bedankt voor de goede samenwerking.
+Deze uitbreiding bevat bijdragen van Robin Vannieuwenhuijse. Dank u voor het goede werk.
 
 Heb je vragen? [Krijg hulp](https://datenstrom.se/yellow/help/).

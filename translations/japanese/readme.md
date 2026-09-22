@@ -16,6 +16,6 @@
 
 ## 謝辞
 
-この拡張機能には Yuhko Senuma、Tomonori Ikeda による貢献が含まれています。ご協力ありがとうございました。
+この拡張機能には Yuhko Senuma、Tomonori Ikeda による貢献が含まれています。お疲れさま、ありがとうございます。
 
 ご質問はございますか？ [助けを得る](https://datenstrom.se/yellow/help/)。

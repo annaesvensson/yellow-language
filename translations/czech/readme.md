@@ -16,6 +16,6 @@ Výchozí jazyk je definován v souboru `system/extensions/yellow-system.ini`. V
 
 ## Poděkování
 
-Toto rozšíření obsahuje příspěvky od Ufo Vyhuleny. Děkujeme za skvělou spolupráci.
+Toto rozšíření obsahuje příspěvky od Ufo Vyhuleny. Děkuji za dobrou práci.
 
 Máte otázky? [Získejte pomoc](https://datenstrom.se/yellow/help/).

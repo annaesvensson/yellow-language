@@ -16,6 +16,6 @@ O idioma padrão é definido no arquivo `system/extensions/yellow-system.ini`. U
 
 ## Agradecimentos
 
-Esta extensão inclui contribuições de Al Garcia, Quen-Quen Potter. Obrigado pela excelente colaboração.
+Esta extensão inclui contribuições de Al Garcia, Quen-Quen Potter. Obrigado pelo bom trabalho.
 
 Tem alguma dúvida? [Obter ajuda](https://datenstrom.se/yellow/help/).

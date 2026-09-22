@@ -16,6 +16,6 @@ Die Standardsprache wird in der Datei `system/extensions/yellow-system.ini` fest
 
 ## Danksagung
 
-Diese Erweiterung enthält Beiträge von David Fehrmann. Danke für die gute Zusammenarbeit.
+Diese Erweiterung enthält Beiträge von David Fehrmann. Danke für die gute Arbeit.
 
 Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

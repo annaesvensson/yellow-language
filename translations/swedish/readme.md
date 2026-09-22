@@ -16,6 +16,6 @@ Standardspråket definieras i filen `system/extensions/yellow-system.ini`. Ett a
 
 ## Tack
 
-Detta tillägg innehåller bidrag från Emma Svensson. Tack för ett gott samarbete.
+Detta tillägg innehåller bidrag från Emma Svensson. Tack för ett bra jobb.
 
 Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).

@@ -16,6 +16,6 @@ Varsayılan dil, `system/extensions/yellow-system.ini` dosyasında tanımlanmı�
 
 ## Teşekkürler
 
-Bu eklenti, Osman Kars'nin katkılarını içermektedir. Harika işbirliğin için teşekkürler.
+Bu eklenti, Osman Kars'nin katkılarını içermektedir. İyi iş için teşekkürler.
 
 Sorularınız mı var? [Yardım alın](https://datenstrom.se/yellow/help/).

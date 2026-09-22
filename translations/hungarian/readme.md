@@ -16,6 +16,6 @@ Az alapértelmezett nyelvet a `system/extensions/yellow-system.ini` fájl határ
 
 ## Köszönet
 
-Ez a kiegészítő Ádám Tuba hozzájárulásait tartalmazza. Köszönjük a kiváló együttműködést.
+Ez a kiegészítő Ádám Tuba hozzájárulásait tartalmazza. Köszönöm a jó munkát.
 
 Kérdései vannak? [Kérjen segítséget](https://datenstrom.se/yellow/help/).

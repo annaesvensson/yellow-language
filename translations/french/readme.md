@@ -16,6 +16,6 @@ La langue par défaut est définie dans le fichier `system/extensions/yellow-sys
 
 ## Remerciements
 
-Cette extension contient des contributions de Juh Nibreh. Merci pour cette excellente collaboration.
+Cette extension contient des contributions de Juh Nibreh. Merci pour le bon travail.
 
 Vous avez des questions ? [Obtenir de l'aide](https://datenstrom.se/yellow/help/).

@@ -16,6 +16,6 @@ L'idioma predeterminat es defineix al fitxer `system/extensions/yellow-system.in
 
 ## Agraïments
 
-Aquesta extensió inclou contribucions de Andreu Ferrer. Gràcies per la vostra excel·lent col·laboració.
+Aquesta extensió inclou contribucions de Andreu Ferrer. Gràcies per la bona feina.
 
 Tens preguntes? [Aconsegueix ajuda](https://datenstrom.se/yellow/help/).

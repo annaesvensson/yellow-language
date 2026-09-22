@@ -16,6 +16,6 @@ Standardspråket er definert i filen `system/extensions/yellow-system.ini`. Et a
 
 ## Takk
 
-Denne utvidelsen inneholder bidrag fra Per Arne Solvik. Takk for det gode samarbeidet.
+Denne utvidelsen inneholder bidrag fra Per Arne Solvik. Takk for det gode arbeidet.
 
 Har du spørsmål? [Få hjelp](https://datenstrom.se/yellow/help/).

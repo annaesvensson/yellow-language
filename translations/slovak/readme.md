@@ -16,6 +16,6 @@ Predvolený jazyk je definovaný v súbore `system/extensions/yellow-system.ini`
 
 ## Poďakovania
 
-Toto rozšírenie obsahuje príspevky od Ádám Tuba. Ďakujeme za skvelú spoluprácu.
+Toto rozšírenie obsahuje príspevky od Ádám Tuba. Ďakujem za dobrú prácu.
 
 Máte otázky? [Získajte pomoc](https://datenstrom.se/yellow/help/).
