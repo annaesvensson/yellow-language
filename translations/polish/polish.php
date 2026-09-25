@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "0.9.6";
+    const VERSION = "1.0.1";
     public $yellow;         // access to API
     
     // Handle initialisation

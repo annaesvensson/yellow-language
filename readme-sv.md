@@ -1,4 +1,4 @@
-# Language 0.9.6
+# Language 1.0.1
 
 Översättningar för din webbplats. Utvecklad av Anna Svensson.
 

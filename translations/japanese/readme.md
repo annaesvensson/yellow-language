@@ -1,4 +1,4 @@
-# Japanese 0.9.6
+# Japanese 1.0.1
 
 日本語。Anna Svensson によって開発されました。
 

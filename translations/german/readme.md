@@ -1,4 +1,4 @@
-# German 0.9.6
+# German 1.0.1
 
 Deutsche Sprache. Entwickelt von Anna Svensson.
 

@@ -1,4 +1,4 @@
-# Spanish 0.9.6
+# Spanish 1.0.1
 
 Lengua española. Desarrollado por Anna Svensson.
 
