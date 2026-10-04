@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowChinese {
             "ContactStatusIncomplete: 请填写完所有栏位",
             "ContactStatusInvalid: 请输入一个有效的e-mail地址",
             "ContactStatusReview: 请从邮件中删除链接",
+            "ContactStatusUnavailable: 联系人目前无法接听",
             "ContactStatusDone: 您的信息已发送。非常感谢！",
-            "ContactStatusError: 信息无法发送，请稍后再试！",
             "CopenhagenDescription: Copenhagen是一个漂亮的主题.",
             "CoreDescription: 网站的核心功能。",
             "CoreNavigation: 主导航",

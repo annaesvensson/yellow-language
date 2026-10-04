@@ -1,4 +1,4 @@
-# Chinese 1.0.1
+# Chinese 1.0.2
 
 简体中文。由 Anna Svensson 开发。
 

@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowTurkish {
             "ContactStatusIncomplete: Lütfen tüm alanları doldurun.",
             "ContactStatusInvalid: Lütten geçerli bir mail adresi yazın.",
             "ContactStatusReview: Lütfen iletideki bağlantıları kaldırın.",
+            "ContactStatusUnavailable: İletişim kişisi şu anda müsait değil.",
             "ContactStatusDone: E-postanız gönderildi. Teşekkürler!",
-            "ContactStatusError: E-posta gönderilemedi, lütfen daha sonra tekrar deneyin!",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Web sitenizin temel işlevleri.",
             "CoreNavigation: Ana",

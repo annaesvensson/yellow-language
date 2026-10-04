@@ -1,4 +1,4 @@
-# Dutch 1.0.1
+# Dutch 1.0.2
 
 Nederlandse taal. Ontwikkeld door Anna Svensson.
 

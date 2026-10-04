@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowCzech {
             "ContactStatusIncomplete: Prosím, vyplň všechna pole.",
             "ContactStatusInvalid: Zadej platný email.",
             "ContactStatusReview: Odstraň prosím ze zprávy odkazy.",
+            "ContactStatusUnavailable: Kontaktní osoba momentálně není k dispozici.",
             "ContactStatusDone: Email úspěšně odeslán. Děkuji!",
-            "ContactStatusError: Email nemůže být odeslán, zkus to prosím později!",
             "CopenhagenDescription: Copenhagen je krásné téma.",
             "CoreDescription: Základní funkce vašeho webu.",
             "CoreNavigation: Hlavní",

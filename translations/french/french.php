@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowFrench {
             "ContactStatusIncomplete: S'il vous plaît, veuillez remplir tous les champs.",
             "ContactStatusInvalid: S'il vous plaît, veuillez entrer une adresse email valide.",
             "ContactStatusReview: S'il vous plaît, veuillez supprimer les liens du message.",
+            "ContactStatusUnavailable: La personne à contacter n'est actuellement pas disponible.",
             "ContactStatusDone: Votre message a bien été envoyé. Merci !",
-            "ContactStatusError: Votre message n'a pas pu être envoyé, réessayez plus tard s'il vous plaît !",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Fonctionnalité principale de votre site web.",
             "CoreNavigation: Principale",

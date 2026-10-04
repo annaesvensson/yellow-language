@@ -1,4 +1,4 @@
-# Czech 1.0.1
+# Czech 1.0.2
 
 Český jazyk. Vytvořila Anna Svensson.
 

@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -38,9 +38,9 @@ class YellowSpanish {
             "ContactStatusNone: Di hola. Tus comentarios son bien recibidos.",
             "ContactStatusIncomplete: Por favor llena todos los campos.",
             "ContactStatusInvalid: Por favor introduce una dirección de email válida.",
-            "ContactStatusReview: Please remove links from the message.",
+            "ContactStatusReview: Por favor, elimina los enlaces del mensaje.",
+            "ContactStatusUnavailable: La persona de contacto actualmente no está disponible.",
             "ContactStatusDone: Enviaste un email. ¡Gracias!",
-            "ContactStatusError: El email no pudo ser enviado, por favor intenta más tarde.",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Funcionalidad principal de su sitio web.",
             "CoreNavigation: Main",
@@ -223,7 +223,7 @@ class YellowSpanish {
             "HighlightDescription: Highlight code blocks.",
             "HungarianDescription: Hungarian language.",
             "IconDescription: Icons and symbols.",
-            "ImageDescription: Añade imágenes y miniaturas..",
+            "ImageDescription: Añade imágenes y miniaturas.",
             "ImageDefaultAlt: Imagen sin descripción",
             "IncludeDescription: Incluir páginas compartidas.",
             "InstagramDescription: Embed Instagram photos.",

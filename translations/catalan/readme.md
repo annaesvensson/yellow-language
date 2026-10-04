@@ -1,4 +1,4 @@
-# Catalan 1.0.1
+# Catalan 1.0.2
 
 Llengua catalana. Desenvolupat per Anna Svensson.
 

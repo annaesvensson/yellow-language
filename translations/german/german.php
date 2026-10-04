@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowGerman {
             "ContactStatusIncomplete: Bitte alle Felder ausfüllen.",
             "ContactStatusInvalid: Bitte eine gültige E-Mail angeben.",
             "ContactStatusReview: Bitte entferne Links aus der Nachricht.",
+            "ContactStatusUnavailable: Kontaktperson ist momentan nicht erreichbar.",
             "ContactStatusDone: Nachricht wurde versandt. Vielen Dank!",
-            "ContactStatusError: Nachricht konnte nicht versandt werden, versuche es später erneut!",
             "CopenhagenDescription: Copenhagen ist ein schönes Theme.",
             "CoreDescription: Kernfunktionalität deiner Webseite.",
             "CoreNavigation: Haupt",

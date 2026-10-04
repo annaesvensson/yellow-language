@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowRussian {
             "ContactStatusIncomplete: Пожалуйста, заполните все поля.",
             "ContactStatusInvalid: Пожалуйста, укажите правильный Email.",
             "ContactStatusReview: Пожалуйста, удалите ссылки из сообщения.",
+            "ContactStatusUnavailable: Контактное лицо в настоящее время недоступно.",
             "ContactStatusDone: Ваше письмо отправлено. Спасибо!",
-            "ContactStatusError: Письмо не может быть отправлено, попробуйте еще раз позже!",
             "CopenhagenDescription: Копенгаген - красивая тема.",
             "CoreDescription: Основные функции сайта.",
             "CoreNavigation: Главная",

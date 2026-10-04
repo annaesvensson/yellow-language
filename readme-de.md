@@ -1,4 +1,4 @@
-# Language 1.0.1
+# Language 1.0.2
 
 Übersetzungen für deine Webseite. Entwickelt von Anna Svensson.
 

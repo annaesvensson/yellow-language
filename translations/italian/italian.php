@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowItalian {
             "ContactStatusIncomplete: Compila per favore tutti i campi.",
             "ContactStatusInvalid: Inserisci per favore un indirizzo email valido.",
             "ContactStatusReview: Rimuovi per favore i collegamenti dal messaggio.",
+            "ContactStatusUnavailable: La persona di contatto attualmente non è disponibile.",
             "ContactStatusDone: Il tuo messaggio è stato inviato con successo. Grazie!",
-            "ContactStatusError: C'è stato un problema nell'invio del messaggio. Riprova per favore più tardi.",
             "CopenhagenDescription: Copenhagen è un tema bellissimo.",
             "CoreDescription: Funzionalità di base del tuo sito.",
             "CoreNavigation: Principale",

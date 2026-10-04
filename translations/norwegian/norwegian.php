@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowNorwegian {
             "ContactStatusIncomplete: Vennligst fyll ut alla felt.",
             "ContactStatusInvalid: Vennligst angi en gyldig epost adresse.",
             "ContactStatusReview: Vennligst ta bort lenker fra meldingen.",
+            "ContactStatusUnavailable: Kontaktperson er for øyeblikket utilgjengelig.",
             "ContactStatusDone: Din epost er nå sendt. Takk!",
-            "ContactStatusError: Epost kunne ikke sendes, vennligst prøv på nytt senere!",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Kjernefunksjonaliteten til nettstedet ditt.",
             "CoreNavigation: Hoved",

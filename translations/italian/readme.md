@@ -1,4 +1,4 @@
-# Italian 1.0.1
+# Italian 1.0.2
 
 Lingua italiano. Sviluppato da Anna Svensson.
 

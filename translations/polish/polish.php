@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowPolish {
             "ContactStatusIncomplete: Wypełnij wszystkie pola.",
             "ContactStatusInvalid: Wprowadź poprawny adres email.",
             "ContactStatusReview: Usuń linki z wiadomości.",
+            "ContactStatusUnavailable: Osoba kontaktowa jest obecnie niedostępna.",
             "ContactStatusDone: Wiadomość została wysłana. Dziękujemy!",
-            "ContactStatusError: Wiadomość nie mogła zostać wysłana. Prosimy spróbować ponownie później.",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Podstawowa funkcjonalność strony internetowej.",
             "CoreNavigation: Main",

@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -39,8 +39,8 @@ class YellowJapanese {
             "ContactStatusIncomplete: 全ての項目をご入力ください。",
             "ContactStatusInvalid: 正しいメールアドレスをご入力ください。",
             "ContactStatusReview: メッセージからリンクを削除してください。",
+            "ContactStatusUnavailable: 連絡担当者は現在対応できません。",
             "ContactStatusDone: メールを送信しました。ありがとうございます。",
-            "ContactStatusError: メールを送信できませんでした。しばらくしてからもう一度お試しください。",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: ウェブサイトのコア機能です。",
             "CoreNavigation: Main",

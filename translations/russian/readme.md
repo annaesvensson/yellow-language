@@ -1,4 +1,4 @@
-# Russian 1.0.1
+# Russian 1.0.2
 
 Русский язык. Разработано Anna Svensson.
 

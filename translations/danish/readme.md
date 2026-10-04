@@ -1,4 +1,4 @@
-# Danish 1.0.1
+# Danish 1.0.2
 
 Dansk sprog. Udviklet af Anna Svensson.
 
