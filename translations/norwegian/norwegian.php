@@ -70,8 +70,6 @@ class YellowNorwegian {
             "CoreError434Text: Den begärda siden kunde inte hittas. [Du kan opprette denne siden](#data-action-edit).",
             "CoreError435Title: Siden kunne ikke lokaliseres",
             "CoreError435Text: Den begärda siden er slettet. [Du kan gjenopprette denne siden](#data-action-restore).",
-            "CoreError450Title: Update error",
-            "CoreError450Text: Can't connect to the update server. An Internet connection is required.",
             "CoreError500Title: Server feil",
             "CoreError500Text: Noe gikk galt. [yellow error]",
             "CzechDescription: Czech language.",

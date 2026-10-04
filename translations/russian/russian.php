@@ -70,8 +70,6 @@ class YellowRussian {
             "CoreError434Text: Запрошенная страница не найдена. [Вы можете создать эту страницу](#data-action-edit).",
             "CoreError435Title: Страница не найдена",
             "CoreError435Text: Запрошенная страница удалена. [Вы можете восстановить эту страницу](#data-action-restore).",
-            "CoreError450Title: Ошибка обновления",
-            "CoreError450Text: Не удается подключиться к серверу обновлений. Требуется подключение к Интернету.",
             "CoreError500Title: Ошибка сервера",
             "CoreError500Text: Что-то пошло не так. [yellow error]",
             "CzechDescription: Чешский язык.",

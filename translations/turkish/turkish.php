@@ -70,8 +70,6 @@ class YellowTurkish {
             "CoreError434Text: İstenen sayfa bulunamadı. [Bu sayfayı oluşturabilirsiniz](#data-action-edit).",
             "CoreError435Title: Page not found",
             "CoreError435Text: İstenen sayfa silindi. [Bu sayfayı geri yükleyebilirsiniz](#data-action-restore).",
-            "CoreError450Title: Update error",
-            "CoreError450Text: Can't connect to the update server. An Internet connection is required.",
             "CoreError500Title: Sunucu Hatası",
             "CoreError500Text: Birşeyler Ters Gitti [yellow error]",
             "CzechDescription: Czech language.",

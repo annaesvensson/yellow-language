@@ -70,8 +70,6 @@ class YellowJapanese {
             "CoreError434Text: 要求されたページは見つかりません。 [このページを作成できます](#data-action-edit)。",
             "CoreError435Title: ページが見つかりません",
             "CoreError435Text: 要求されたページは削除されました。 [このページを復元できます](#data-action-restore)。",
-            "CoreError450Title: アップデートエラー",
-            "CoreError450Text: アップデートサーバーに接続できません。インターネット接続が要求されています。",
             "CoreError500Title: サーバーエラー",
             "CoreError500Text: 問題が発生しました。[yellow error]",
             "CzechDescription: チェコ語です。",

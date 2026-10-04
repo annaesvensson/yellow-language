@@ -70,8 +70,6 @@ class YellowGerman {
             "CoreError434Text: Die angeforderte Seite wurde nicht gefunden. [Du kannst diese Seite erstellen](#data-action-edit).",
             "CoreError435Title: Seite nicht gefunden",
             "CoreError435Text: Die angeforderte Seite wurde gelöscht. [Du kannst diese Seite wiederherstellen](#data-action-restore).",
-            "CoreError450Title: Aktualisierungsfehler",
-            "CoreError450Text: Kann keine Verbindung zum Aktualisierungs-Server herstellen. Eine Internetverbindung ist erforderlich.",
             "CoreError500Title: Serverfehler",
             "CoreError500Text: Etwas ist schief gelaufen. [yellow error]",
             "CzechDescription: Tschechische Sprache.",

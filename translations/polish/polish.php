@@ -70,8 +70,6 @@ class YellowPolish {
             "CoreError434Text: Żądana strona nie została znaleziona. [Możesz utworzyć tę stronę](#data-action-edit).",
             "CoreError435Title: Nie znaleziono strony",
             "CoreError435Text: Żądana strona została usunięta. [Możesz przywrócić tę stronę](#data-action-restore).",
-            "CoreError450Title: Update error",
-            "CoreError450Text: Nie można połączyć się z serwerem aktualizacji. Wymagane jest połączenie z Internetem.",
             "CoreError500Title: Błąd serwera",
             "CoreError500Text: Coś poszło nie tak. [yellow error]",
             "CzechDescription: Język czeski.",

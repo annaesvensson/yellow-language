@@ -70,8 +70,6 @@ class YellowCzech {
             "CoreError434Text: Požadovaná stránka nebyla nalezena. [Zkus ji ytvořit](#data-action-edit).",
             "CoreError435Title: Stránka nenalezena",
             "CoreError435Text: Požadovaná stránka byla smazána. [Můžeš ji obnovit](#data-action-restore).",
-            "CoreError450Title: Chyba aktualizace",
-            "CoreError450Text: Nelze se připojit k aktualizačnímu serveru. Je vyžadováno internetové spojení.",
             "CoreError500Title: Chyba serveru",
             "CoreError500Text: Něco se pokazilo. [yellow error]",
             "CzechDescription: Čeština.",

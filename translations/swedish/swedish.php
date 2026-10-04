@@ -70,8 +70,6 @@ class YellowSwedish {
             "CoreError434Text: Den begärda sidan kunde inte hittas. [Du kan skapa den här sidan](#data-action-edit).",
             "CoreError435Title: Sidan hittades inte",
             "CoreError435Text: Den begärda sidan har tagits bort. [Du kan återställa den här sidan](#data-action-restore).",
-            "CoreError450Title: Uppdateringsfel",
-            "CoreError450Text: Kan inte ansluta till uppdateringsservern. En internetanslutning krävs.",
             "CoreError500Title: Serverfel",
             "CoreError500Text: Något gick fel. [yellow error]",
             "CzechDescription: Tjeckiska språket.",

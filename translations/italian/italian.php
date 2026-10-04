@@ -70,8 +70,6 @@ class YellowItalian {
             "CoreError434Text: La pagina richiesta non è stata trovata. [Puoi creare ora questa pagina](#data-action-edit).",
             "CoreError435Title: Pagina non trovata",
             "CoreError435Text: La pagina richiesta è stata eliminata. [Puoi ripristinare questa pagina](#data-action-restore).",
-            "CoreError450Title: Update error",
-            "CoreError450Text: Impossibile connettersi al server di aggiornamento. È necessaria una connessione a Internet.",
             "CoreError500Title: Errore del server",
             "CoreError500Text: Qualcosa non ha funzionato. [yellow error]",
             "CzechDescription: Lingua ceco.",

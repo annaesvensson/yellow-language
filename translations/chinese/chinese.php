@@ -70,8 +70,6 @@ class YellowChinese {
             "CoreError434Text: 找不到请求的页面。[你可以创建这个页面](#data-action-edit).",
             "CoreError435Title: 找不到网页",
             "CoreError435Text: 所请求的页面已被删除。[您可以还原此页面](#data-action-restore).",
-            "CoreError450Title: 更新出错",
-            "CoreError450Text: 无法连接到更新服务器，需要网络连接。",
             "CoreError500Title: 服务器错误",
             "CoreError500Text: 出错了. [yellow error]",
             "CzechDescription: 捷克语.",

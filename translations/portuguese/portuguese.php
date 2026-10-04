@@ -70,8 +70,6 @@ class YellowPortuguese {
             "CoreError434Text: A página solicitada não foi encontrada. [Você pode criar esta página](#data-action-edit).",
             "CoreError435Title: Página não encontrada",
             "CoreError435Text: A página solicitada foi excluída. [Você pode restaurar esta página](#data-action-restore).",
-            "CoreError450Title: Erro na ATUALIZAÇÃO",
-            "CoreError450Text: Não é possível conectar ao servidor de atualização. É necessária uma conexão com a Internet.",
             "CoreError500Title: Erro de servidor",
             "CoreError500Text: Oops! Algo deu errado. [yellow error]",
             "CzechDescription: Idioma Tcheco.",

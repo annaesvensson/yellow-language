@@ -70,8 +70,6 @@ class YellowEnglish {
             "CoreError434Text: The requested page was not found. [You can create this page](#data-action-edit).",
             "CoreError435Title: Page not found",
             "CoreError435Text: The requested page has been deleted. [You can restore this page](#data-action-restore).",
-            "CoreError450Title: Update error",
-            "CoreError450Text: Can't connect to the update server. An Internet connection is required.",
             "CoreError500Title: Server error",
             "CoreError500Text: Something went wrong. [yellow error]",
             "CzechDescription: Czech language.",

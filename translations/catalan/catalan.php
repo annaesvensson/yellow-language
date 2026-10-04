@@ -70,8 +70,6 @@ class YellowCatalan {
             "CoreError434Text: La pàgina sol·licitada no s'ha trobat. [Podeu crear aquesta pàgina](#data-action-edit).",
             "CoreError435Title: Pàgina no trobada",
             "CoreError435Text: La pàgina sol·licitada s'ha suprimit. [Podeu restaurar aquesta pàgina](#data-action-restore).",
-            "CoreError450Title: Error d'actualització",
-            "CoreError450Text: No es pot connectar al servidor d'actualització. Cal una connexió a Internet.",
             "CoreError500Title: Error del servidor",
             "CoreError500Text: S'ha produït un error. [yellow error]",
             "CzechDescription: Llengua txeca.",
