@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowItalian {
             "ContactStatusInvalid: Inserisci per favore un indirizzo email valido.",
             "ContactStatusReview: Rimuovi per favore i collegamenti dal messaggio.",
             "ContactStatusUnavailable: La persona di contatto attualmente non è disponibile.",
+            "ContactStatusInactive: La pagina di contatto è stata temporaneamente disattivata.",
             "ContactStatusDone: Il tuo messaggio è stato inviato con successo. Grazie!",
             "CopenhagenDescription: Copenhagen è un tema bellissimo.",
             "CoreDescription: Funzionalità di base del tuo sito.",

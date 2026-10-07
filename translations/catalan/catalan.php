@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowCatalan {
             "ContactStatusInvalid: Si us plau introduïu una adreça de correu electrònic vàlida.",
             "ContactStatusReview: Si us plau, removeu enllaços del missatge.",
             "ContactStatusUnavailable: La persona de contacte actualment no està disponible.",
+            "ContactStatusInactive: La pàgina de contacte ha estat desactivada temporalment.",
             "ContactStatusDone: Vas enviar un email. Gràcies!",
             "CopenhagenDescription: Copenhaguen és un tema bonic.",
             "CoreDescription: Funcionalitat principal del vostre lloc web.",

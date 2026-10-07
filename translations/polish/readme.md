@@ -1,4 +1,4 @@
-# Polish 1.0.2
+# Polish 1.0.3
 
 Język polski. Opracowała Anna Svensson.
 

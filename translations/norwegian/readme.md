@@ -1,4 +1,4 @@
-# Norwegian 1.0.2
+# Norwegian 1.0.3
 
 Norsk språk. Utviklet av Anna Svensson.
 

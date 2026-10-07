@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -33,13 +33,14 @@ class YellowDanish {
             "ContactConsent: Jeg accepterer, at denne hjemmeside gemmer min besked.",
             "ContactButton: Send min besked",
             "ContactMailSpam: [Spam]",
-            "ContactMailHeader: You have received a message from @sender:",
-            "ContactMailFooter: This email was sent via @sitename - @title",
+            "ContactMailHeader: Du har modtaget en besked fra @sender:",
+            "ContactMailFooter: Denne e-mail blev sendt via @sitename - @title",
             "ContactStatusNone: Sig hej. Vi er glad for dine kommentarer.",
             "ContactStatusIncomplete: Udfyld venligst alle felter.",
             "ContactStatusInvalid: Indtast en gyldig email.",
             "ContactStatusReview: Fjern venligst links fra beskeden.",
             "ContactStatusUnavailable: Kontaktperson er i øjeblikket ikke tilgængelig.",
+            "ContactStatusInactive: Kontaktsiden er midlertidigt deaktiveret.",
             "ContactStatusDone: Din email er blevet sendt. Mange tak!",
             "CopenhagenDescription: København er et smukt tema.",
             "CoreDescription: Kernefunktionalitet på din hjemmeside.",

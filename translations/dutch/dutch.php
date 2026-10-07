@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -33,13 +33,14 @@ class YellowDutch {
             "ContactConsent: Ik ga ermee akkoord dat deze website mijn bericht opslaat.",
             "ContactButton: Verstuur mijn bericht",
             "ContactMailSpam: [Spam]",
-            "ContactMailHeader: You have received a message from @sender:",
-            "ContactMailFooter: This email was sent via @sitename - @title",
+            "ContactMailHeader: Je hebt een bericht van @sender ontvangen:",
+            "ContactMailFooter: Deze e-mail is verzonden via @sitename - @title",
             "ContactStatusNone: Zeg hallo. Uw feedback is zeer welkom.",
             "ContactStatusIncomplete: Vul alle velden in.",
             "ContactStatusInvalid: Vul een geldig email.",
             "ContactStatusReview: Verwijder alsjeblieft links uit het bericht.",
             "ContactStatusUnavailable: De contactpersoon is momenteel niet beschikbaar.",
+            "ContactStatusInactive: De contactpagina is tijdelijk gedeactiveerd.",
             "ContactStatusDone: Je email is succesvol verzonden. Bedankt!",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Kernfunctionaliteit van uw website.",

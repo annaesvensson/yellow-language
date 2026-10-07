@@ -2,7 +2,7 @@
 // Hungarian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/hungarian
 
 class YellowHungarian {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -33,13 +33,14 @@ class YellowHungarian {
             "ContactConsent: Hozzájárulok, hogy ez a weboldal tárolja az üzenetemet.",
             "ContactButton: Üzenetemet küldése",
             "ContactMailSpam: [Spam]",
-            "ContactMailHeader: You have received a message from @sender:",
-            "ContactMailFooter: This email was sent via @sitename - @title",
+            "ContactMailHeader: Üzenetet kaptál @sender:",
+            "ContactMailFooter: Ezt az e-mailt a @sitename - @title",
             "ContactStatusNone: Szólj hozzánk. Fontos a véleményed.",
             "ContactStatusIncomplete: Kérlek töltsd ki a mezőket.",
             "ContactStatusInvalid: Kérlek érvényes e-mail címet adj meg.",
             "ContactStatusReview: Kérjük, távolítsa el a linkeket az üzenetből.",
             "ContactStatusUnavailable: A kapcsolattartó jelenleg nem elérhető.",
+            "ContactStatusInactive: Contact page has been deactivated temporarily.",
             "ContactStatusDone: Sikeresen elküldted az üzenetet.",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Webhelyének alapvető funkciói.",

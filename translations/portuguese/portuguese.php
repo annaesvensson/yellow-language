@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowPortuguese {
             "ContactStatusInvalid: Por favor insira um email válido.",
             "ContactStatusReview: Por favor remova os links da mensagem.",
             "ContactStatusUnavailable: A pessoa de contacto está atualmente indisponível.",
+            "ContactStatusInactive: Contact page has been deactivated temporarily.",
             "ContactStatusDone: O seu email foi enviado com sucesso. Obrigado!",
             "CopenhagenDescription: Copenhagen é um lindo tema.",
             "CoreDescription: Funcionalidade central do seu site.",

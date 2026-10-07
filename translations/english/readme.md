@@ -1,4 +1,4 @@
-# English 1.0.2
+# English 1.0.3
 
 English language. Developed by Anna Svensson.
 

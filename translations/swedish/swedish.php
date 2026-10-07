@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowSwedish {
             "ContactStatusInvalid: Vänligen ange en giltig email.",
             "ContactStatusReview: Vänligen ta bort länkar från meddelandet.",
             "ContactStatusUnavailable: Kontaktperson är för närvarande otillgänglig.",
+            "ContactStatusInactive: Kontaktsidan har inaktiverats tillfälligt.",
             "ContactStatusDone: Ditt mail har nu skickats. Tack!",
             "CopenhagenDescription: Copenhagen är ett vackert tema.",
             "CoreDescription: Kärnfunktionalitet på din webbplats.",

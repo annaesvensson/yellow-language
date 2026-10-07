@@ -2,7 +2,7 @@
 // English extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/english
 
 class YellowEnglish {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowEnglish {
             "ContactStatusInvalid: Please enter a valid email.",
             "ContactStatusReview: Please remove links from the message.",
             "ContactStatusUnavailable: Contact person is currently unavailable.",
+            "ContactStatusInactive: Contact page has been deactivated temporarily.",
             "ContactStatusDone: You have sent an email. Thank you!",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Core functionality of your website.",

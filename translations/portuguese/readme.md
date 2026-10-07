@@ -1,4 +1,4 @@
-# Portuguese 1.0.2
+# Portuguese 1.0.3
 
 Idioma portugues. Desenvolvido por Anna Svensson.
 

@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "1.0.2";
+    const VERSION = "1.0.3";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -40,6 +40,7 @@ class YellowSlovak {
             "ContactStatusInvalid: Prosím napíš platný email.",
             "ContactStatusReview: Prosím, odstráňte odkazy zo správy.",
             "ContactStatusUnavailable: Kontaktná osoba momentálne nie je dostupná.",
+            "ContactStatusInactive: Contact page has been deactivated temporarily.",
             "ContactStatusDone: Správa odoslaná. Ďakujem.",
             "CopenhagenDescription: Copenhagen is a beautiful theme.",
             "CoreDescription: Základná funkcia vášho webu.",
