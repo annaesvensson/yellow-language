@@ -1,4 +1,4 @@
-# Turkish 1.0.3
+# Turkish 1.0.4
 
 Türk dili. Anna Svensson tarafından geliştirilmiştir.
 

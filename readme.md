@@ -1,4 +1,4 @@
-# Language 1.0.3
+# Language 1.0.4
 
 Translations for your website. Developed by Anna Svensson.
 

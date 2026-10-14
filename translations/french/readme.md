@@ -1,4 +1,4 @@
-# French 1.0.3
+# French 1.0.4
 
 Langue française. Développé par Anna Svensson.
 

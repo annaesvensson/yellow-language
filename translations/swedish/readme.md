@@ -1,4 +1,4 @@
-# Swedish 1.0.3
+# Swedish 1.0.4
 
 Svenska språket. Utvecklad av Anna Svensson.
 
