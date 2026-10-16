@@ -2,7 +2,7 @@
 // Spanish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/spanish
 
 class YellowSpanish {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowSpanish {
             "EditSignupConsent: Doy mi consentimiento para que este sitio web almacene mis datos personales.",
             "EditSignupButton: Crear",
             "EditSignupStatusNone: Aquí podrás crear una nueva cuenta de usuario.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Por favor llena todos los campos.",
             "EditSignupStatusInvalid: Por favor introduce una dirección de email válida.",
             "EditSignupStatusWeak: Por favor introduce una contraseña distinta.",

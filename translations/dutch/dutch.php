@@ -2,7 +2,7 @@
 // Dutch extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/dutch
 
 class YellowDutch {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowDutch {
             "EditSignupConsent: Ik ga ermee akkoord dat deze website mijn persoonlijke gegevens opslaat.",
             "EditSignupButton: Aanmaken",
             "EditSignupStatusNone: Hier kan je een nieuw gebruikersaccount aanmaken.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Gelieve alle velden in te vullen.",
             "EditSignupStatusInvalid: Gelieve een geldig e-mailadres in te vullen.",
             "EditSignupStatusWeak: Gelieve een ander wachtwoord in te vullen.",

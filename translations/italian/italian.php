@@ -2,7 +2,7 @@
 // Italian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/italian
 
 class YellowItalian {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowItalian {
             "EditSignupConsent: Acconsento alla registrazione dei miei dati personali in questo sito.",
             "EditSignupButton: Crea",
             "EditSignupStatusNone: Qui puoi impostare le credenziali di accesso.",
+            "EditSignupStatusClosed: Attualmente non sono possibili nuovi account utente.",
             "EditSignupStatusIncomplete: Compila per favore tutti i campi.",
             "EditSignupStatusInvalid: Inserisci per favore un indirizzo email valido.",
             "EditSignupStatusWeak: Inserisci per favore una parola d'ordine diversa.",

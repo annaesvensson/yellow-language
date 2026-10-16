@@ -2,7 +2,7 @@
 // Turkish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/turkish
 
 class YellowTurkish {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowTurkish {
             "EditSignupConsent: Bu web sitesinin kişisel verilerimi saklamasına izin veriyorum.",
             "EditSignupButton: Oluştur",
             "EditSignupStatusNone: Burada yeni bir kullanıcı hesabı oluşturabilirsiniz.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Lütfen tüm alanları doldurunuz.",
             "EditSignupStatusInvalid: Plütfen geçerli eposta adresini giriniz.",
             "EditSignupStatusWeak: Lütfen farklı bir şifre girin.",

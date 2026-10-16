@@ -2,7 +2,7 @@
 // Danish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/danish
 
 class YellowDanish {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowDanish {
             "EditSignupConsent: Jeg accepterer, at mine personlige data vil blive opbevaret af denne hjemmeside.",
             "EditSignupButton: Create",
             "EditSignupStatusNone: Here you can create a new user account.",
+            "EditSignupStatusClosed: Nye brugerkonti er i øjeblikket ikke mulige.",
             "EditSignupStatusIncomplete: Please fill out all fields.",
             "EditSignupStatusInvalid: Please enter a valid email.",
             "EditSignupStatusWeak: Please enter a different password.",

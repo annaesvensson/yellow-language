@@ -2,7 +2,7 @@
 // Czech extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/czech
 
 class YellowCzech {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowCzech {
             "EditSignupConsent: Souhlasím s tím, aby tyto webové stránky uchovávaly mé osobní údaje.",
             "EditSignupButton: Vytvořit",
             "EditSignupStatusNone: Zde si můžeš založit nový uživatelský účet.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Vyplň prosím všechny položky.",
             "EditSignupStatusInvalid: Zadej email ve správném formátu.",
             "EditSignupStatusWeak: Zadej jiné heslo.",

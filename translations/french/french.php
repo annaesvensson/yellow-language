@@ -2,7 +2,7 @@
 // French extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/french
 
 class YellowFrench {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowFrench {
             "EditSignupConsent: Je consens à ce que ce site web stocke mes données personnelles.",
             "EditSignupButton: Créer",
             "EditSignupStatusNone: Ici, vous pouvez créer un nouveau compte utilisateur.",
+            "EditSignupStatusClosed: De nouveaux comptes utilisateurs ne sont actuellement pas possibles.",
             "EditSignupStatusIncomplete: Veuillez remplir tous les champs.",
             "EditSignupStatusInvalid: S'il vous plaît, veuillez entrer une adresse email valide.",
             "EditSignupStatusWeak: S'il vous plaît, choisissez un mot de passe différent.",

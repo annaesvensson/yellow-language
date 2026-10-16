@@ -2,7 +2,7 @@
 // Norwegian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/norwegian
 
 class YellowNorwegian {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowNorwegian {
             "EditSignupConsent: Jeg samtykker til at denne nettsiden kan lagre mine personlige data.",
             "EditSignupButton: Registrer",
             "EditSignupStatusNone: Her kan du registrere en ny brukerkonto.",
+            "EditSignupStatusClosed: Nye brukerkontoer er for øyeblikket ikke mulig.",
             "EditSignupStatusIncomplete: Vennligst fyll ut alle feltene.",
             "EditSignupStatusInvalid: Vennligst fyll inn en gyldig epost adresse.",
             "EditSignupStatusWeak: Vennglist velg et annet passord.",

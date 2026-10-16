@@ -2,7 +2,7 @@
 // Japanese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/japanese
 
 class YellowJapanese {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowJapanese {
             "EditSignupConsent: 私はこのウェブサイトが私の個人データを保存することに同意します。",
             "EditSignupButton: 作成",
             "EditSignupStatusNone: 新しいユーザーアカウントを作成出来ます。",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: 全ての項目にご入力ください。",
             "EditSignupStatusInvalid: 正しいメールアドレスをご入力ください。",
             "EditSignupStatusWeak: 別のパスワードをご入力ください。",

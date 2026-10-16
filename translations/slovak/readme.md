@@ -1,4 +1,4 @@
-# Slovak 1.0.4
+# Slovak 1.0.5
 
 Slovenský jazyk. Vytvorila Anna Svensson.
 

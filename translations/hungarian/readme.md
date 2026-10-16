@@ -1,4 +1,4 @@
-# Hungarian 1.0.4
+# Hungarian 1.0.5
 
 Magyar nyelv. Anna Svensson fejlesztette.
 

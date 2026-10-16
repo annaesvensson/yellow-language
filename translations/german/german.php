@@ -2,7 +2,7 @@
 // German extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/german
 
 class YellowGerman {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowGerman {
             "EditSignupConsent: Ich stimme zu, dass meine persönlichen Daten von dieser Webseite gespeichert werden.",
             "EditSignupButton: Erstellen",
             "EditSignupStatusNone: Hier kannst du ein neues Benutzerkonto erstellen.",
+            "EditSignupStatusClosed: Neue Benutzerkonten sind momemntan nicht möglich.",
             "EditSignupStatusIncomplete: Bitte alle Felder ausfüllen.",
             "EditSignupStatusInvalid: Bitte eine gültige E-Mail angeben.",
             "EditSignupStatusWeak: Bitte ein anderes Kennwort angeben.",

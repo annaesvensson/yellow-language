@@ -2,7 +2,7 @@
 // Swedish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/swedish
 
 class YellowSwedish {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowSwedish {
             "EditSignupConsent: Jag godkänner att mina personuppgifter lagras på denna webbplats.",
             "EditSignupButton: Skapa",
             "EditSignupStatusNone: Här kan du skapa ett nytt användarkonto.",
+            "EditSignupStatusClosed: Nya användarkonton är för närvarande inte möjliga.",
             "EditSignupStatusIncomplete: Vänligen fyll i alla fält.",
             "EditSignupStatusInvalid: Vänligen ange en giltig email.",
             "EditSignupStatusWeak: Vänligen ange ett annat lösenord.",

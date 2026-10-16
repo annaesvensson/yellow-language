@@ -2,7 +2,7 @@
 // Slovak extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/slovak
 
 class YellowSlovak {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowSlovak {
             "EditSignupConsent: Soglašam, da bodo moji osebni podatki shranjeni na tej spletni strani.",
             "EditSignupButton: Create",
             "EditSignupStatusNone: Here you can create a new user account.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Please fill out all fields.",
             "EditSignupStatusInvalid: Please enter a valid email.",
             "EditSignupStatusWeak: Please enter a different password.",

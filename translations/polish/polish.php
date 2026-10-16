@@ -2,7 +2,7 @@
 // Polish extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/polish
 
 class YellowPolish {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowPolish {
             "EditSignupConsent: Wyrażam zgodę na przechowywanie moich danych osobowych na tej stronie.",
             "EditSignupButton: Utwórz",
             "EditSignupStatusNone: Tutaj możesz stworzyć nowe konto użytkownika.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Proszę wypełnić wszystkie pola.",
             "EditSignupStatusInvalid: Proszę podać poprawny adres email.",
             "EditSignupStatusWeak: Proszę podać inne hasło.",

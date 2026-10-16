@@ -2,7 +2,7 @@
 // Catalan extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/catalan
 
 class YellowCatalan {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowCatalan {
             "EditSignupConsent: Doneu el meu consentiment per a aquest lloc web emmagatzemi les meves dades personals.",
             "EditSignupButton: Crear",
             "EditSignupStatusNone: Aquí podràs crear una nova compte d'usuari.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Per favor emplena tots els camps.",
             "EditSignupStatusInvalid: Per favor introduïu una adreça de correu electrònic vàlida.",
             "EditSignupStatusWeak: Per favor introduïu una contrasenya diferent.",

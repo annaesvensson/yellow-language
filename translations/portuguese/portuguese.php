@@ -2,7 +2,7 @@
 // Portuguese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/portuguese
 
 class YellowPortuguese {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowPortuguese {
             "EditSignupConsent: Eu consinto que este site armazena meus dados pessoais.",
             "EditSignupButton: Criar",
             "EditSignupStatusNone: Aqui você pode criar uma nova conta de usuário.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Por favor, preencha todos os campos.",
             "EditSignupStatusInvalid: Por favor digite um email válido.",
             "EditSignupStatusWeak: Por favor insira uma senha diferente.",

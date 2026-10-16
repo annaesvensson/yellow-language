@@ -2,7 +2,7 @@
 // Chinese extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/chinese
 
 class YellowChinese {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowChinese {
             "EditSignupConsent: 我同意这个网站存储我的个人资料。",
             "EditSignupButton: 提交注册",
             "EditSignupStatusNone: 可以创建一个新帐号",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: 请填写完所有栏位",
             "EditSignupStatusInvalid: 请输入有效的电子邮件",
             "EditSignupStatusWeak: 请输入不同的密码",

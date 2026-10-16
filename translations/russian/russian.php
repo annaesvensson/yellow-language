@@ -2,7 +2,7 @@
 // Russian extension, https://github.com/annaesvensson/yellow-language/tree/main/translations/russian
 
 class YellowRussian {
-    const VERSION = "1.0.4";
+    const VERSION = "1.0.5";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -95,6 +95,7 @@ class YellowRussian {
             "EditSignupConsent: Я согласен с тем, что мои личные данные будут храниться на этом веб-сайте.",
             "EditSignupButton: Создать",
             "EditSignupStatusNone: Здесь вы можете создать новую учетную запись.",
+            "EditSignupStatusClosed: New user accounts are currently not possible.",
             "EditSignupStatusIncomplete: Пожалуйста, заполните все поля.",
             "EditSignupStatusInvalid: Пожалуйста, введите действительный адрес Email.",
             "EditSignupStatusWeak: Пожалуйста, введите другой пароль.",
